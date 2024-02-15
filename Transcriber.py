@@ -1,5 +1,6 @@
 import json
 import os
+import re
 
 # Function to parse settings from Settings.json
 def parse_settings():
@@ -28,19 +29,19 @@ def convert_lines(lines, settings):
         # Convert emojis to specific codes
         dialogue = dialogue.replace("🎵", "[img=music]")
         # Split long lines into multiple sentences
-        while len(dialogue) > 0:
-            end_index = min(dialogue.find("."), dialogue.find("?"), dialogue.find("!"))
-            if end_index == -1:
-                converted_lines.append({"text": dialogue, "color": color, "codes": "BOR-1"})
-                break
-            converted_lines.append({"text": dialogue[:end_index + 1], "color": color, "codes": "BOR-1"})
-            dialogue = dialogue[end_index + 1:].strip()
+        sentences = re.split(r'(?<!\d\.\d)(?<![A-Z]\.)(?<![A-Z][a-z]\.)(?<!\w\.\w)(?<=\.|\?|!)\s', dialogue)
+        for sentence in sentences:
+            converted_lines.append({"text": sentence.strip(), "color": color, "codes": "BOR-1"})
     return converted_lines
 
 # Function to parse transcript lines with character speaking and dialogue
 def parse_transcript_line(line, settings):
     colon_index = line.find(":")
-    if colon_index != -1:
+    oc_index = line.find("[OC]")
+    if oc_index != -1:
+        character = line[:oc_index].strip()
+        dialogue = line[oc_index + len("[OC]"):].replace(":", ": (Offscreen)").strip()
+    elif colon_index != -1:
         character = line[:colon_index].strip()
         dialogue = line[colon_index + 1:].strip()
     else:
@@ -92,9 +93,10 @@ def main():
                 lines = []
                 for line in transcript_file.readlines():
                     character, dialogue = parse_transcript_line(line, settings)
-                    color = settings.get(character.upper(), settings.get("DEFAULT", [1.0, 1.0, 1.0]))
                     if dialogue:  # Skip empty lines
-                        lines.append({"text": dialogue, "color": color, "codes": "BOR-1"})
+                        converted_lines = convert_lines([{"text": dialogue}], settings)  # Convert the line
+                        color = settings.get(character.upper(), settings.get("DEFAULT", [1.0, 1.0, 1.0]))
+                        lines.extend({"text": line["text"], "color": color, "codes": line["codes"]} for line in converted_lines)
                 transcripts[transcript_name] = {"title": title, "itemDisplayName": item_display_name, "lines": lines}
     
     create_lua_data(transcripts, settings)
