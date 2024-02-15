@@ -35,7 +35,7 @@ def convert_lines(lines, settings):
     return converted_lines
 
 # Function to parse transcript lines with character speaking and dialogue
-def parse_transcript_line(line, settings):
+def parse_transcript_line(line, settings, characters_spoken):
     colon_index = line.find(":")
     oc_index = line.find("[OC]")
     if oc_index != -1:
@@ -47,6 +47,12 @@ def parse_transcript_line(line, settings):
     else:
         character = "DEFAULT"  # Set a default character if not found
         dialogue = line.strip()
+    
+    # Append character's name to dialogue if it's their first appearance in the episode
+    if character not in characters_spoken:
+        dialogue = f"({character}) {dialogue}"
+        characters_spoken.add(character)
+    
     return character, dialogue
 
 # Function to create Lua data structure and write to Generated.lua
@@ -91,8 +97,9 @@ def main():
 
                 # Read the rest of the lines for dialogue
                 lines = []
+                characters_spoken = set()  # Initialize set to keep track of characters spoken
                 for line in transcript_file.readlines():
-                    character, dialogue = parse_transcript_line(line, settings)
+                    character, dialogue = parse_transcript_line(line, settings, characters_spoken)
                     if dialogue:  # Skip empty lines
                         converted_lines = convert_lines([{"text": dialogue}], settings)  # Convert the line
                         color = settings.get(character.upper(), settings.get("DEFAULT", [1.0, 1.0, 1.0]))
