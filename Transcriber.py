@@ -29,6 +29,7 @@ def convert_lines(lines, settings):
         # Convert emojis to specific codes
         dialogue = dialogue.replace("🎵", "[img=music]")
         # Split long lines into multiple sentences
+        
         sentences = re.split(r'(?<!\d\.\d)(?<![A-Z]\.)(?<![A-Z][a-z]\.)(?<!\w\.\w)(?<=\.|\?|!)\s', dialogue)
         for sentence in sentences:
             converted_lines.append({"text": sentence.strip(), "color": color, "codes": "BOR-1"})
@@ -38,7 +39,12 @@ def convert_lines(lines, settings):
 def parse_transcript_line(line, settings, characters_spoken):
     colon_index = line.find(":")
     oc_index = line.find("[OC]")
-    if oc_index != -1:
+    
+    # Check if line starts with '('
+    if line.startswith("("):
+        character = "NARRATOR"
+        dialogue = line.strip()
+    elif oc_index != -1:
         character = line[:oc_index].strip()
         dialogue = line[oc_index + len("[OC]"):].replace(":", ": (Offscreen)").strip()
     elif colon_index != -1:
@@ -48,8 +54,8 @@ def parse_transcript_line(line, settings, characters_spoken):
         character = "DEFAULT"  # Set a default character if not found
         dialogue = line.strip()
     
-    # Append character's name to dialogue if it's their first appearance in the episode
-    if character not in characters_spoken:
+    # Exclude DEFAULT and NARRATOR characters from being considered as the first appearance in the episode
+    if character not in ["DEFAULT", "NARRATOR"] and character not in characters_spoken:
         dialogue = f"({character}) {dialogue}"
         characters_spoken.add(character)
     
