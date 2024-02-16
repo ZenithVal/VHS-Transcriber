@@ -20,8 +20,9 @@ def convert_lines(lines, settings):
         "🏃": "FAT-1",
         "🍽️": "HUN+0.2",
         "🤢": "SIC+1",
-        "😱": "PAN+10",
+        "😱": "PAN+10", # Max 100
         "😨": "FEA+10",
+        "👻": "LFT+1", #Light Footed
         "🔨": "CRP+1", #carpentry
         "🍳": "COO+1",
         "🎣": "FIS+1",
@@ -99,14 +100,22 @@ def convert_lines(lines, settings):
 def parse_transcript_line(line, settings, characters_spoken):
     colon_index = line.find(":")
     oc_index = line.find("[OC]")
+    ov_index = line.find("[on viewscreen]")
+    om_index = line.find("[on monitor]")
     
     # Check if line starts with '('
     if line.startswith("("):
         character = "NARRATOR"
         dialogue = line.strip()
+    elif om_index != -1:
+        character = line[:om_index].strip()
+        dialogue = line[om_index + len("[on monitor]"):].replace(":", ": (On monitor)").strip()
     elif oc_index != -1:
         character = line[:oc_index].strip()
         dialogue = line[oc_index + len("[OC]"):].replace(":", ": (Offscreen)").strip()
+    elif ov_index != -1:
+        character = line[:ov_index].strip()
+        dialogue = line[ov_index + len("[on viewscreen]"):].replace(":", ": (On viewscreen)").strip()
     elif colon_index != -1:
         character = line[:colon_index].strip()
         dialogue = line[colon_index + 1:].strip()
