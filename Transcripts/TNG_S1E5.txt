@@ -1,5 +1,5 @@
-ST:TNG S1E5
-Star Trek:TNG S1E5
+ST:TNG S1.05
+Star Trek:TNG S1.05
 Haven
 
 PICARD: Captain's log, Stardate 41294.5. Our destination, the class M Beta Cassius planet known simply as Haven. It is a world so renowned for its peaceful beauty that some believe it to have mystical healing powers. We will rest and relax, all too briefly, I fear

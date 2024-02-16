@@ -1,5 +1,5 @@
-ST:TNG S1E14
-Star Trek:TNG S1E14
+ST:TNG S1.14
+Star Trek:TNG S1.14
 Datalore
 
 PICARD: Captain's log, stardate 41242.4. Our last assignment has taken us into the remote Omicron Theta star system, home of our android crewmember Lieutenant Commander Data. Although we are due at our next assignment, I have decided to visit Data's home planet for a few hours in the hopes of unravelling some of the mystery of his beginnings.

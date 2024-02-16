@@ -1,5 +1,5 @@
-ST:TNG S1E16
-Star Trek:TNG S1E16
+ST:TNG S1.16
+Star Trek:TNG S1.16
 11001001
 
 PICARD: Captain's log, stardate 41365.9. The Enterprise has been ordered to Starbase 74, in orbit around Tarsas Three. A routine maintenance check of all systems will be made, and certain upgrades completed, including the holodeck, with which we've had problems. I anticipate a glowing report. The ship has performed magnificently, beyond anyone's expectations.

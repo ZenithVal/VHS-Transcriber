@@ -1,5 +1,5 @@
-ST:TNG S1E12
-Star Trek:TNG S1E12
+ST:TNG S1.12
+Star Trek:TNG S1.12
 Too Short A Season
 
 PICARD: Captain's log, stardate 41309.5. We are in orbit around Persephone Five, where I have been sent to confer with Admiral Mark Jameson in regard to an extraordinary situation.

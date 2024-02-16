@@ -1,5 +1,5 @@
-ST:TNG S1E20
-Star Trek:TNG S1E20
+ST:TNG S1.20
+Star Trek:TNG S1.20
 Heart Of Glory
 
 WORF: Captain. Communication from Starfleet. They have reported a disturbance in the Neutral Zone.

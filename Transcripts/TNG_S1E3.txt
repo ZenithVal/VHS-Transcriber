@@ -1,5 +1,5 @@
-ST:TNG S1E3
-Star Trek:TNG S1E3
+ST:TNG S1.03
+Star Trek:TNG S1.03
 The Naked Now
 
 PICARD: Captain's log, Stardate 41209.2. We are running at warp seven to rendezvous with the science vessel SS Tsiolkovsky, which has been routinely monitoring the collapse of a red super giant star into a white dwarf. What has brought us here is a series of strange messages indicating something has gone wrong aboard the research vessel.

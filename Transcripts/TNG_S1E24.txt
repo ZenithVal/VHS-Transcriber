@@ -1,5 +1,5 @@
-ST:TNG S1E24
-Star Trek:TNG S1E24
+ST:TNG S1.24
+Star Trek:TNG S1.24
 We'll Always Have Paris
 
 PICARD: Captain's log, stardate 41697.9. We're en route to Sarona Eight for much needed shore leave. The entire crew is looking forward to the diversion. On a personal note, I have allowed myself the luxury of a head start.

@@ -1,5 +1,5 @@
-ST:TNG S1E18
-Star Trek:TNG S1E18
+ST:TNG S1.18
+Star Trek:TNG S1.18
 When The Bough Breaks
 
 PICARD: Commander Riker, report to the Bridge.

@@ -1,5 +1,5 @@
-ST:TNG S1E6
-Star Trek:TNG S1E6
+ST:TNG S1.06
+Star Trek:TNG S1.06
 Where No One Has Gone Before
 
 PICARD: Captain's log, Stardate 41263.1. We have rendezvoused with the USS Fearless, from which a Starfleet propulsion expert and his assistant are beaming over to conduct tests on the Enterprise's warp drive engines. They have completed similar adjustments on two other Starfleet vessels.

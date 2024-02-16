@@ -1,5 +1,5 @@
-ST:TNG S1E11
-Star Trek:TNG S1E11
+ST:TNG S1.11
+Star Trek:TNG S1.011
 Hide and Q
 
 PICARD: Captain's log, stardate 41590.5. Having dropped off Counsellor Troi at Starbase G6 for a shuttle to visit home, we were fortunately close to the Sigma Three solar system when its Federation colony transmitted an urgent call for medical help. An accidental explosion has devastated a mining operation there.

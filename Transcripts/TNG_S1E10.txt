@@ -1,5 +1,5 @@
-ST:TNG S1E10
-Star Trek:TNG S1E10
+ST:TNG S1.10
+Star Trek:TNG S1.10
 The Battle
 
 PICARD: Captain's log, stardate 41723.9. In response to a Starfleet order we are in the Xendi Sabu star system, having rendezvoused with a Ferengi vessel which has requested a meeting. Although we arrived here and made appropriate signals to the Ferengi three days ago, they have so far responded only with the message, stand by Enterprise.

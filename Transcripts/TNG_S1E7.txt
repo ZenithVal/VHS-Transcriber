@@ -1,5 +1,5 @@
-ST:TNG S1E7
-Star Trek:TNG S1E7
+ST:TNG S1.07
+Star Trek:TNG S1.07
 The Last Outpost
 
 PICARD: Captain's log, stardate 41386.4. We are in pursuit of a starship of Ferengi design. Our mission is to intercept and recover a T9 energy converter which the Ferengi stole from an unmanned monitor post on Gamma Tauri Four. A theft which automatic scanners recorded, providing us with the long awaited opportunity to make close contact with a Ferengi vessel. If we succeed in this chase, it will be Starfleet's first look at a life form which, discounting rumour, we know almost nothing about.

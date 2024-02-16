@@ -1,5 +1,5 @@
-ST:TNG S1E22
-Star Trek:TNG S1E22
+ST:TNG S1.22
+Star Trek:TNG S1.22
 Skin of Evil
 
 PICARD: Captain's log, stardate 41601.3. We are crossing through the Zed Lapis sector, where we will rendezvous with shuttlecraft thirteen, carrying Deanna Troi, who is returning from a conference. Because Engineering is involved in preventive maintenance on our dilithium crystals, we are presently travelling on impulse power.

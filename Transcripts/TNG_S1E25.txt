@@ -1,5 +1,5 @@
-ST:TNG S1E25
-Star Trek:TNG S1E25
+ST:TNG S1.25
+Star Trek:TNG S1.25
 Conspiracy
 
 RIKER: First officer's log, stardate 41775.5. We are en route to the ocean world of Pacifica. While our mission is scientific in nature, we look forward to the warm blue waters and fine beaches that make Pacifica a jewel of the galaxy.

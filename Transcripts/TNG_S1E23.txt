@@ -1,5 +1,5 @@
-ST:TNG S1E23
-Star Trek:TNG S1E23
+ST:TNG S1.23
+Star Trek:TNG S1.23
 Symbiosis
 
 (Enterprise is near a star which is giving off flares, as Picard makes a ship-wide announcement)

@@ -1,5 +1,5 @@
-ST:TNG S1E13
-Star Trek:TNG S1E13
+ST:TNG S1.13
+Star Trek:TNG S1.13
 The Big Goodbye
 
 RIKER: First Officer's log, stardate 41997.7 We are about to make a brief but necessary contact with the Jarada, a reclusive, insect-like race known for its idiosyncratic attitude towards protocol. The Jarada demand a precise greeting, in this case from Captain Picard. Their language is most unusual. The slightest mispronunciation is regarded as an insult.
