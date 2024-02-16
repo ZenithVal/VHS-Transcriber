@@ -392,10 +392,10 @@ ARMUS [OC]: Your pity? Save that for yourself.
 [Planet surface]
 
 (The team are not watching when Armus leaves the shuttlecraft and approaches them. Riker is grabbed by an invisible force and dragged by the feet to the slick)
-RIKER: Help! Data, something's got me!
-ARMUS: Touch him and he dies.
-RIKER: No! No, don't!
-(Riker disappears into the slick)
+RIKER: Help! Data, something's got me! 😱
+ARMUS: Touch him and he dies. 😱
+RIKER: No! No, don't! 😨
+(Riker disappears into the slick) 😨😨
 DATA: Enterprise?
 
 [Bridge]
@@ -585,3 +585,5 @@ DATA: Sir, the purpose of this gathering confuses me.
 PICARD: Oh? How so?
 DATA: My thoughts are not for Tasha, but for myself. I keep thinking how empty it will feel without her presence. Did I miss the point?
 PICARD: No, you didn't, Data. You got it.
+
+NARRATOR: 🎵 🙂🙂😊😊😊 End Credits 🎵

@@ -2,7 +2,7 @@ ST:TNG S1E1+2
 Star Trek:TNG S1E1+2
 Encounter at Farpoint
 
-PICARD: 😠😠😠 Captain's log, stardate 41153.7. Our destination is planet Deneb Four, beyond which lies the great unexplored mass of the galaxy. My orders are to examine Farpoint, a starbase built there by the inhabitants of that world. Meanwhile, I am becoming better acquainted with my new command, this Galaxy Class USS Enterprise. I am still somewhat in awe of its size and complexity. As for my crew, we are short in several key positions, most notably a first officer, but I am informed that a highly experienced man, one Commander William Riker, will be waiting to join our ship at our Deneb Four destination.
+PICARD: Captain's log, stardate 41153.7. Our destination is planet Deneb Four, beyond which lies the great unexplored mass of the galaxy. My orders are to examine Farpoint, a starbase built there by the inhabitants of that world. Meanwhile, I am becoming better acquainted with my new command, this Galaxy Class USS Enterprise. I am still somewhat in awe of its size and complexity. As for my crew, we are short in several key positions, most notably a first officer, but I am informed that a highly experienced man, one Commander William Riker, will be waiting to join our ship at our Deneb Four destination.
 [Bridge]
 
 PICARD: You will agree, Data, that Starfleet's orders are difficult?
@@ -974,3 +974,5 @@ DATA: Ready for departure, sir.
 PICARD: Some problem, Riker?
 RIKER: Just hoping this isn't the usual way our missions will go, sir.
 PICARD: Oh no, Number One. I'm sure most will be much more interesting. Let's see what's out there. Engage.
+
+NARRATOR: 🎵 🙂🙂😊😊😊 End Credits 🎵

@@ -605,3 +605,5 @@ LAFORGE: The Opraline system.
 RIKER: An interesting choice. Why?
 LAFORGE: Curiosity. We've never been there.
 PICARD: Engage.
+
+NARRATOR: 🎵 🙂🙂😊😊😊 End Credits 🎵

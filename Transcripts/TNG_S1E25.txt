@@ -510,3 +510,5 @@ LAFORGE: Any idea what the message was, Data?
 DATA: I believe it was a beacon.
 PICARD: A beacon?
 DATA: Yes, sir. A homing beacon, sent from Earth.
+
+NARRATOR: 🎵 🙂🙂😊😨 End Credits 🎵
