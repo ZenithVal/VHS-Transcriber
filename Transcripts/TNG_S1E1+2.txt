@@ -1,5 +1,5 @@
 ST:TNG S1.01+02
-Star Trek:TNG S1.01+2
+Star Trek:TNG S1.01+02
 Encounter at Farpoint
 
 PICARD: Captain's log, stardate 41153.7. Our destination is planet Deneb Four, beyond which lies the great unexplored mass of the galaxy. My orders are to examine Farpoint, a starbase built there by the inhabitants of that world. Meanwhile, I am becoming better acquainted with my new command, this Galaxy Class USS Enterprise. I am still somewhat in awe of its size and complexity. As for my crew, we are short in several key positions, most notably a first officer, but I am informed that a highly experienced man, one Commander William Riker, will be waiting to join our ship at our Deneb Four destination.
@@ -40,7 +40,7 @@ TROI: He's frozen.
 PICARD: He would not have injured you. Do you recognise this, the stun setting?
 Q: Knowing humans as thou dost, Captain, wouldst thou be captured helpless by them? Now, go back or thou shalt most certainly die.
 
-Captain's log, supplementary. The frozen form of Lieutenant Torres has been rushed to sickbay. The question now is the incredible power of the Q being. Do we dare oppose it?
+PICARD: Captain's log, supplementary. The frozen form of Lieutenant Torres has been rushed to sickbay. The question now is the incredible power of the Q being. Do we dare oppose it?
 
 [Bridge]
 
@@ -112,7 +112,7 @@ PICARD: You are a Starfleet officer, Lieutenant.
 WORF: Aye, sir.
 PICARD: Make the mark, Data. Note in ship's log that at this startime, I'm transferring command to the battle bridge. (Picard, Data, Yar and Troi leave the Bridge to unnamed crew)
 
-Captain's log, stardate 41153.7. Preparing to detach saucer section. so that families and the majority of the ship's company can seek relative safety while the vessel's stardrive, containing the battle bridge and main armaments, will turn back and confront the mystery that is threatening us.
+PICARD: Captain's log, stardate 41153.7. Preparing to detach saucer section. so that families and the majority of the ship's company can seek relative safety while the vessel's stardrive, containing the battle bridge and main armaments, will turn back and confront the mystery that is threatening us.
 
 [Battle Bridge]
 
@@ -721,7 +721,7 @@ PICARD: Tune that down! Commander Riker, come in. Can you hear me?
 
 [Bandi city]
 
-(Data and Riker phaser open a door and rush through)
+(Data and Riker phaser open a door and rush through) 🥈
 RIKER: Riker to Enterprise, come in.
 PICARD [OC]: Commander Riker, come in. Where are you?
 RIKER: With Data, on the edge of the old city, sir. It's being hit hard, sir.
@@ -965,7 +965,7 @@ Q: Temper, temper, mon Capitaine.
 PICARD: Get off my ship.
 Q: I do so only because it suits me to. But I will not promise never to appear again.
 
-Captain's log, stardate 41174.2. The agreement for the rebuilding Farpoint Station has been completed per my instructions.
+PICARD: Captain's log, stardate 41174.2. The agreement for the rebuilding Farpoint Station has been completed per my instructions.
 
 [Bridge]
 

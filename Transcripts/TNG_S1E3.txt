@@ -55,7 +55,7 @@ RIKER [OC]: Yes sir.
 
 RIKER: As I said, all dead.
 
-Captain's log, supplemental. We are downloading the research information gathered on the collapsing star nearby. I am concerned at being in such close orbit, but the Tsiolkovsky's research records will no doubt predict the time of the star's final collapse.
+PICARD: Captain's log, supplemental. We are downloading the research information gathered on the collapsing star nearby. I am concerned at being in such close orbit, but the Tsiolkovsky's research records will no doubt predict the time of the star's final collapse.
 
 [Crusher's office]
 
@@ -289,7 +289,7 @@ PICARD [OC]: Attention all decks, all divisions. Effective immediately, I have h
 PICARD: Acting Captain?
 WESLEY [OC]: Thank you, Captain Picard, thank you. And with that order dawns a brave new day for the Enterprise.
 
-Captain's log, Stardate 41209.3. The strange contaminant that led to the deaths of the Tsiolkovsky crew is now aboard the Enterprise and our Engineering section has been commandeered by young Wesley Crusher.
+PICARD: Captain's log, Stardate 41209.3. The strange contaminant that led to the deaths of the Tsiolkovsky crew is now aboard the Enterprise and our Engineering section has been commandeered by young Wesley Crusher.
 
 [Engineering]
 
@@ -393,7 +393,7 @@ RIKER: She's infected with
 CRUSHER: Then you touched her! Oh, God. And you touched me. Wait! I've got to quarantine you.
 RIKER: If I don't get the command computer back online soon, none of this, whatever this is, won't matter. We'll all be dead.
 
-Captain's log, supplemental. It is no longer an inconvenient, childish prank. Young Wesley Crusher, admittedly a victim of the Tsiolkovsky infection, is now in control of my starship.
+PICARD: Captain's log, supplemental. It is no longer an inconvenient, childish prank. Young Wesley Crusher, admittedly a victim of the Tsiolkovsky infection, is now in control of my starship.
 
 [Bridge]
 
@@ -455,7 +455,7 @@ PICARD: What sort of thing?
 CRUSHER: Oh God, would I love to show you.
 PICARD: Doctor, there must be a cure. Some formula, similar to the old one,
 CRUSHER: Damn it, damn it, Captain. My dear Captain.
-(She tries to kiss him, but he dodges)
+(She tries to kiss him, but he dodges)👻
 CRUSHER: You owe me something. You do realise that, don't you? I'm a woman. I haven't the comfort of a husband. A man.
 PICARD: Not now, Doctor. Please.
 

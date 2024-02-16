@@ -378,7 +378,7 @@ DATA: I do not know.
 SONNY: We won't be inviting these Romulans to our party, will we?
 DATA: No, that would not be appropriate.
 
-Captain's log, supplemental. We have arrived at the edge of the Neutral Zone, where we will now have an opportunity to learn firsthand what happened to our distant outpost.
+PICARD: Captain's log, supplemental. We have arrived at the edge of the Neutral Zone, where we will now have an opportunity to learn firsthand what happened to our distant outpost.
 
 [Bridge]
 

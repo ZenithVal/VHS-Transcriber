@@ -133,7 +133,7 @@ PICARD: I can't accept that.
 DATA: You must, sir. Our comparisons show it to be completely accurate.
 LAFORGE: And I calculate that at maximum warp, sir it would take over three hundred years to get home.
 
-Captain's log, stardate 41263.2. This will be a rather unusual log entry, assuming Starfleet ever receives it. As I have already informed my crew, a phenomenal surge of power during a warp speed experiment has sent our starship hurtling out of our own galaxy, past another, taking us over two million seven hundred thousand light years in a few minutes.
+PICARD: Captain's log, stardate 41263.2. This will be a rather unusual log entry, assuming Starfleet ever receives it. As I have already informed my crew, a phenomenal surge of power during a warp speed experiment has sent our starship hurtling out of our own galaxy, past another, taking us over two million seven hundred thousand light years in a few minutes.
 
 [Bridge]
 
@@ -228,7 +228,7 @@ PICARD: Yes, but where is this place?
 (Lights are dancing in a blue scene)
 DATA: Where none have gone before.
 
-Captain's log, stardate 41263.3. Instead of returning to our own galaxy, the Enterprise has gone forward to a place in the universe which is uncharted and unknown. Our present position puts us at over a billion light years from our galaxy.
+PICARD: Captain's log, stardate 41263.3. Instead of returning to our own galaxy, the Enterprise has gone forward to a place in the universe which is uncharted and unknown. Our present position puts us at over a billion light years from our galaxy.
 
 [Bridge]
 
@@ -327,7 +327,7 @@ CRUSHER: He's dying.
 PICARD: He mustn't. He's the only one who can get us back.
 CRUSHER: Realistically, it does not seem possible.
 
-Captain's log, supplemental. Our position is unknown, and our only chance of returning to the known universe is a dying alien who is generally humanoid but with a physiology sufficiently different from our own to create medical problems in caring for him.
+PICARD: Captain's log, supplemental. Our position is unknown, and our only chance of returning to the known universe is a dying alien who is generally humanoid but with a physiology sufficiently different from our own to create medical problems in caring for him.
 
 [Sickbay]
 
@@ -505,7 +505,7 @@ PICARD: Please don't interrupt me, Wesley.
 WESLEY: I'm sorry, sir.
 PICARD: Any commissioned rank? Even ensign?
 RIKER: That would give him authorised access to the Bridge.
-PICARD: Well, then, I'll have to make him an acting ensign. Captain's log, stardate 41263.4. For outstanding performance in the best of Starfleet tradition, Wesley Crusher is made Acting Ensign, with the duties and privileges of that rank. And whether that rank becomes permanent, Mister Crusher, depends on you. At the earliest opportunity, your entrance application for Starfleet Academy will be tendered. Until then, you will learn this ship. Every operation, every function. Commander Riker, a duty schedule for Mister Crusher, heavy on study.
+PICARD: Well, then, I'll have to make him an acting ensign. PICARD: Captain's log, stardate 41263.4. For outstanding performance in the best of Starfleet tradition, Wesley Crusher is made Acting Ensign, with the duties and privileges of that rank. And whether that rank becomes permanent, Mister Crusher, depends on you. At the earliest opportunity, your entrance application for Starfleet Academy will be tendered. Until then, you will learn this ship. Every operation, every function. Commander Riker, a duty schedule for Mister Crusher, heavy on study.
 RIKER: Aye, sir.
 PICARD: Meanwhile, you can sit here and learn something.
 (Wesley perches on the end of the arch supporting the command seats)

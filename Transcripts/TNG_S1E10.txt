@@ -135,7 +135,7 @@ KAZAGO: We are not selling it to him?
 BOK: Consider it an act of friendship.
 RATA: At no cost? Oh, ugly. Very ugly.
 
-Captain's log, supplemental. Bok and his officers have returned to their vessel, inviting us now to officially take possession of the Stargazer.
+PICARD: Captain's log, supplemental. Bok and his officers have returned to their vessel, inviting us now to officially take possession of the Stargazer.
 
 [Sickbay]
 
@@ -450,7 +450,7 @@ PICARD: The ship? The Ferengi ship that attacked me. Or is it about to attack me
 BOK: And I have spent these years searching, seeking a proper blood revenge! And I found it! I am rich, Picard, yet two of these cost me the profits of an entire life. You are back in command of the Stargazer, Picard. Its computers will answer your orders. Die well, Captain.
 (Bok beams away)
 
-First officer's log. Captain Picard has beamed himself to the Stargazer, which is now moving away from us under its own power.
+RIKER: First officer's log. Captain Picard has beamed himself to the Stargazer, which is now moving away from us under its own power.
 
 [Bridge]
 

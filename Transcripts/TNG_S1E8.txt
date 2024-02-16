@@ -247,7 +247,7 @@ WORF: Engineering to Captain Picard. Security alert.
 PICARD [OC]: Picard.
 WORF: Lieutenant Worf, sir. I just found Mister Singh. He's dead.
 
-Captain's log, stardate 41249.4. I've ordered an immediate investigation into the death of Assistant Chief Engineer Singh. We continue to run on impulse power.
+PICARD: Captain's log, stardate 41249.4. I've ordered an immediate investigation into the death of Assistant Chief Engineer Singh. We continue to run on impulse power.
 
 [Engineer's office]
 
@@ -379,7 +379,7 @@ RIKER: Only if all command officers agreed it vital to do so. But he has not bee
 TROI: Ultimately, I believe he will.
 CRUSHER: As second in command, it's still in your corner. I'll order medical and psychiatric exams. You'll have to back me up somehow.
 
-First Officer's log, supplemental. After meeting with the senior officers, Doctor Crusher and I decided to approach the Captain regarding his recent behaviour.
+RIKER: First Officer's log, supplemental. After meeting with the senior officers, Doctor Crusher and I decided to approach the Captain regarding his recent behaviour.
 
 [Ready room]
 
@@ -427,7 +427,7 @@ PICARD: And elates us. We wish you could understand the glorious adventure ahead
 CRUSHER: You and?
 PICARD: Soon we'll both be home.
 
-First officer's log, supplemental. On the orders of Captain Picard, we have returned to the vicinity of the energy pattern cloud. I am personally convinced that something from this cloud now shares the Captain's mind. But there seems to be nothing we can do, at least within regulations.
+RIKER: First officer's log, supplemental. On the orders of Captain Picard, we have returned to the vicinity of the energy pattern cloud. I am personally convinced that something from this cloud now shares the Captain's mind. But there seems to be nothing we can do, at least within regulations.
 
 [Bridge]
 
@@ -462,7 +462,7 @@ RIKER: Someone restrain the Captain!
 
 (The transporter chief is on the floor with blue energy dancing on him. Picard activates the transporter and beams out.)
 
-First Officer's log, supplemental. More than an hour has passed since the Captain beamed out, energy only. Every effort has been made to determine his whereabouts.
+RIKER: First Officer's log, supplemental. More than an hour has passed since the Captain beamed out, energy only. Every effort has been made to determine his whereabouts.
 
 [Bridge]
 

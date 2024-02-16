@@ -192,7 +192,7 @@ DATA: If you mean a Tarellian vessel, sir, it is.
 RIKER: I thought the Tarellians were all dead What are the poor devils doing here?
 PICARD: Picard to Sickbay. Doctor Crusher to Bridge, urgent. They must not be permitted them to destroy us. Or the planet.
 
-Captain's log, supplemental. It has been believed the Tarellian race was extinct, an assumption contradicted now by the sight of one of their vessels approaching Haven.
+PICARD: Captain's log, supplemental. It has been believed the Tarellian race was extinct, an assumption contradicted now by the sight of one of their vessels approaching Haven.
 
 [Observation lounge]
 
@@ -311,7 +311,7 @@ TROI: Yes, I want to.
 WYATT: I'm a very lucky man.
 (They kiss, one short, one very long)
 
-Captain's log, supplemental. All attempts at warning off the Tarellian ship have failed. They still refuse to communicate and I am growing concerned.
+PICARD: Captain's log, supplemental. All attempts at warning off the Tarellian ship have failed. They still refuse to communicate and I am growing concerned.
 
 [Bridge]
 
@@ -342,7 +342,7 @@ RIKER: Captain!
 (The viewscreen crackles into life, and it's a face Troi recognises)
 TROI: It's the woman in Wyatt's drawings.
 
-Captain's log, stardate 41294.6. Orbiting Haven with the Tarellian vessel locked in our tractor beam. Question. What strange of circumstances has caused a woman out of someone's imagination to appear on the plague ship?
+PICARD: Captain's log, stardate 41294.6. Orbiting Haven with the Tarellian vessel locked in our tractor beam. Question. What strange of circumstances has caused a woman out of someone's imagination to appear on the plague ship?
 
 [Bridge]
 

@@ -48,7 +48,7 @@ PICARD: You see?
 LAFORGE: Now in close parking orbit, sir.
 PICARD: Mister Data, welcome home.
 
-First Officer's log, stardate 4124.5. We have found Data's home to be a completely dead world made out of lifeless vegetation. No insects, not even soil bacteria. What is it that could kill everything on an entire planet?
+RIKER: First Officer's log, stardate 4124.5. We have found Data's home to be a completely dead world made out of lifeless vegetation. No insects, not even soil bacteria. What is it that could kill everything on an entire planet?
 
 [Planet surface]
 

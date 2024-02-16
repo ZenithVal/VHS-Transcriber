@@ -369,7 +369,7 @@ LAFORGE: Tasha, don't touch the spines. They're poisoned. If you're not careful,
 TASHA: These I understand.
 (Through the window they see Yareena practising on a multi-level surface, with the metal poles in it. Four lights soar to the sky)
 
-First Officer's log, supplemental. Captain Picard, faced with a critical need for a vaccine produced on this planet, has permitted Lieutenant Natasha Yar to engage in a fight to the death. I have yet to understand his reasoning or his plan.
+RIKER: First Officer's log, supplemental. Captain Picard, faced with a critical need for a vaccine produced on this planet, has permitted Lieutenant Natasha Yar to engage in a fight to the death. I have yet to understand his reasoning or his plan.
 
 [Bridge]
 
@@ -423,7 +423,7 @@ PICARD: No problem, Number One. Send down a medical team.
 RIKER [OC]: And to complete our business here, we are locked onto you.
 PICARD: Five to beam up. Energise.
 
-First Officer's log, Stardate 41235.6. I am returning the conn to Captain Picard as we begin loading the vaccine supply aboard. Shortly, we hope to signal mission complete.
+RIKER: First Officer's log, Stardate 41235.6. I am returning the conn to Captain Picard as we begin loading the vaccine supply aboard. Shortly, we hope to signal mission complete.
 
 [Bridge]
 
