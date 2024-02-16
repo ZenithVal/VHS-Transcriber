@@ -10,6 +10,35 @@ def parse_settings():
 
 # Function to convert transcript lines to Lua format
 def convert_lines(lines, settings):
+    emoji_codes = {
+        "😠": "ANG+1",
+        "😟": "STS+0.2",
+        "🙂": "STS-0.2",
+        "😊": "UHP-1",
+        "😭": "UHP+1",
+        "💤": "FAT+1",
+        "🏃": "FAT-1",
+        "🍽️": "HUN+0.2",
+        "🤢": "SIC+1",
+        "😱": "PAN+10",
+        "😨": "FEA+10",
+        "🔨": "CRP+1", #carpentry
+        "🍳": "COO+1",
+        "🎣": "FIS+1",
+        "🚜": "FRM+1",
+        "🍄": "FOR+1", #foraging
+        "🐀": "TRA+1", #Trapping
+        "🔫": "AIM+1",
+        "🚗": "MEC+1",
+        "🥈": "MTL+1", #metalworking
+        "🏥": "DOC+1",
+        "🧵": "TAI+1",
+        "⚡": "ELC+1",
+        "⚾": "BUA+1", #Blunt weapons somehow? lol
+        "🔪": "SBA+1" #Short blade
+    }
+
+
     converted_lines = []
     for line in lines:
         # Extract character speaking from the start of the line up to the colon
@@ -26,13 +55,44 @@ def convert_lines(lines, settings):
             dialogue = dialogue.replace(character + ":", "").strip()
         else:
             color = [1.0, 1.0, 1.0]
+
         # Convert emojis to specific codes
         dialogue = dialogue.replace("🎵", "[img=music]")
-        # Split long lines into multiple sentences
+
+        # Initialize a dictionary to store the counts of each emoji code
+        emoji_counts = {code: 0 for code in emoji_codes.values()}
         
+        # Iterate over the dialogue to count emojis and aggregate codes
+        codes = "BOR-1"  # Default code
+        for emoji, code in emoji_codes.items():
+            count = dialogue.count(emoji)
+            if count > 0:
+                emoji_counts[code] += count  # Aggregate counts
+                # Remove emoji from dialogue
+                dialogue = dialogue.replace(emoji, "")
+        
+        # Generate the combined emoji codes string
+        emoji_code_str = ""
+        for code, count in emoji_counts.items():
+            if count > 0:
+                # Parse the number past the operator, multiply it by the count, and concatenate it back with the code
+                operator_index = code.find("+")
+                if operator_index == -1:
+                    operator_index = code.find("-")
+                if operator_index != -1:
+                    base_code = code[:operator_index]
+                    number = float(code[operator_index + 1:])
+                    multiplied_number = number * count
+                    emoji_code_str += f"{base_code}{code[operator_index]}{multiplied_number},"
+
+        # Remove trailing comma
+        emoji_code_str = emoji_code_str.rstrip(",")
+        codes += f",{emoji_code_str}" if emoji_code_str else ""
+
+        # Split long lines into multiple sentences
         sentences = re.split(r'(?<!\d\.\d)(?<![A-Z]\.)(?<![A-Z][a-z]\.)(?<!\w\.\w)(?<=\.|\?|!)\s', dialogue)
         for sentence in sentences:
-            converted_lines.append({"text": sentence.strip(), "color": color, "codes": "BOR-1"})
+            converted_lines.append({"text": sentence.strip(), "color": color, "codes": codes})
     return converted_lines
 
 # Function to parse transcript lines with character speaking and dialogue
@@ -95,7 +155,7 @@ def main():
     for filename in os.listdir(transcripts_folder):
         if filename.endswith(".txt"):
             transcript_name = os.path.splitext(filename)[0]
-            with open(os.path.join(transcripts_folder, filename), "r") as transcript_file:
+            with open(os.path.join(transcripts_folder, filename), "r", encoding="utf-8") as transcript_file:
                 # Read the first four lines for title and itemDisplayName
                 title_lines = [transcript_file.readline().strip() for _ in range(4)]
                 item_display_name = title_lines[0]
