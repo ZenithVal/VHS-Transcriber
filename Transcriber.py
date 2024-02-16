@@ -11,32 +11,32 @@ def parse_settings():
 # Function to convert transcript lines to Lua format
 def convert_lines(lines, settings):
     emoji_codes = {
-        "😠": "ANG+1",
+        "😠": "ANG+10", # Max 100
         "😟": "STS+0.2",
         "🙂": "STS-0.2",
-        "😊": "UHP-1",
-        "😭": "UHP+1",
+        "😊": "UHP-0.2",
+        "😭": "UHP+0.2",
         "💤": "FAT+1",
         "🏃": "FAT-1",
         "🍽️": "HUN+0.2",
         "🤢": "SIC+1",
         "😱": "PAN+10", # Max 100
-        "😨": "FEA+10",
-        "👻": "LFT+1", #Light Footed
-        "🔨": "CRP+1", #carpentry
-        "🍳": "COO+1",
-        "🎣": "FIS+1",
-        "🚜": "FRM+1",
-        "🍄": "FOR+1", #foraging
-        "🐀": "TRA+1", #Trapping
-        "🔫": "AIM+1",
-        "🚗": "MEC+1",
-        "🥈": "MTL+1", #metalworking
-        "🏥": "DOC+1",
-        "🧵": "TAI+1",
-        "⚡": "ELC+1",
-        "⚾": "BUA+1", #Blunt weapons somehow? lol
-        "🔪": "SBA+1" #Short blade
+        "😨": "FEA+10", # Max 100
+        "👻": "LFT+0.2", #Light Footed
+        "🔨": "CRP+0.2", #carpentry
+        "🍳": "COO+0.2",
+        "🎣": "FIS+0.2",
+        "🚜": "FRM+0.2",
+        "🍄": "FOR+0.2", #foraging
+        "🐀": "TRA+0.2", #Trapping
+        "🔫": "AIM+0.2",
+        "🚗": "MEC+0.2",
+        "🥈": "MTL+0.2", #metalworking
+        "🏥": "DOC+0.2",
+        "🧵": "TAI+0.2",
+        "⚡": "ELC+0.2",
+        "⚾": "BUA+0.2", #Blunt weapons somehow? lol
+        "🔪": "SBA+0.2" #Short blade
     }
 
 
