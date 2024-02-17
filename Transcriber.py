@@ -21,7 +21,7 @@ def convert_lines(lines, settings):
         "🍽️": "HUN+0.2",
         "🤢": "SIC+0.2", 
         "😱": "PAN+10", # Max 100
-        "😨": "FEA+10", # Max 100
+        "😨": "FEA+0.2", 
         "👻": "LFT+0.2", #Light Footed
         "🔨": "CRP+0.2", #carpentry
         "🍳": "COO+0.2", #cooking
