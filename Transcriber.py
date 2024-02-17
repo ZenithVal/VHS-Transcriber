@@ -64,7 +64,7 @@ def convert_lines(lines, settings):
         emoji_counts = {code: 0 for code in emoji_codes.values()}
         
         # Iterate over the dialogue to count emojis and aggregate codes
-        codes = "BOR-1"  # Default code
+        codes = "BOR-0.2"  # Default code
         for emoji, code in emoji_codes.items():
             count = dialogue.count(emoji)
             if count > 0:
