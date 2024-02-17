@@ -14,7 +14,7 @@ PICARD: He was here in this room. I could have rid the Federation of a mortal th
 LAFORGE: The Borg have established several transwarp conduits through subspace.
 (the Bridge is boarded)
 SECURITY: Get down!
-(Worf shoots a Borg)
+(Worf shoots a Borg)🔫
 CROSIS: I was like you once. Without feeling. But the One helped me. He can help you too. He can help you find emotion. You will not resist what you've wanted all your life.
 PICARD: If the Borg should attack, don't wait for me or anyone else to return to the ship, but take the Enterprise to the transwarp conduit. Return to Federation space.
 LORE: Stop!
@@ -514,7 +514,7 @@ DATA: (holding a weapon) Lore.
 LORE: You should be careful with that, brother. Somebody could get hurt.
 DATA: What are you doing?
 LORE: I've got a way out of here. I'm willing to forget about what happened back there and take you with me. We don't need anyone else. We're brothers. I'll give you the chip our father made. It contains much more than just emotions. It has memories. Memories our father wanted you to have.
-(Lore zaps Data with emotion, making him gasp, but Data still managed to shoot Lore)
+(Lore zaps Data with emotion, making him gasp, but Data still managed to shoot Lore)🔫
 DATA: Lore, I must deactivate you now.
 LORE: Without me, you will never feel emotion again.
 DATA: I know, but you leave me no other choice.

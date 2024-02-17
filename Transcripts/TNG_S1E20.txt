@@ -77,7 +77,7 @@ RIKER: Set phasers on stun. Let's be ready for anything. Energise.
 
 [Batris Corridor]
 
-(Fallen girders, hanging wires, steam, and creaking sounds)
+(Fallen girders, hanging wires, steam, and creaking sounds)🥈
 LAFORGE: La Forge to Bridge.
 PICARD [OC]: This is the Enterprise.
 LAFORGE: Captain, I'm switching on the transmitter.
@@ -181,12 +181,14 @@ DATA: I've found them, sir. The door to their compartment is jammed.
 (They follow him around the warp core to a big door that is very slightly open)
 DATA: The control mechanism's not operative, sir.
 RIKER: This is Commander Riker of the USS Enterprise. Do you hear me?
-DATA: I advise against the use of phasers, sir. The gas buildup is too great.
-LAFORGE: He's right, sir. A phaser discharge now could blow us all out of here.
+DATA: I advise against the use of phasers, sir. 
+DATA: The gas buildup is too great.
+LAFORGE: He's right, sir. 
+LAFORGE: A phaser discharge now could blow us all out of here.🔫
 DATA: Shall I, sir?
 PICARD [OC]: Number One, what's going on?
 RIKER: We're about to force the door.
-(Data makes the gap big enough for Riker to step through into the compartment)
+(Data makes the gap big enough for Riker to step through into the compartment)🥈
 PICARD [OC]: What is it? What do you see?
 RIKER: Klingons.
 
@@ -328,7 +330,7 @@ WORF: Through an act of kindness. The Romulans attacked the Khitomer outpost. Ev
 KONMEL: How old were you?
 WORF: Before the age of inclusion.
 KONMEL: That young?
-KORRIS: Gault is a farming colony.
+KORRIS: Gault is a farming colony.🚜
 
 [Room]
 
@@ -558,7 +560,7 @@ KORRIS: What are you saying? Living among these humans has sucked the Klingon he
 WORF: Put down the phaser.
 KORRIS: You are a sham! My words were dust upon the ground. Your blood has no fire. You are weak like them. I don't care what you look like you are no Klingon.
 WORF: Perhaps not.
-(And he shoots Korris, who falls through a glass screen to the floor below)
+(And he shoots Korris, who falls through a glass screen to the floor below)🔫
 PICARD: Wait.
 (Worf goes down the ladder, turns Korris over, and does the death ritual for him)
 

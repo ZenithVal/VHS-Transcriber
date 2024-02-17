@@ -130,7 +130,7 @@ MARIE: As usual, with his vines.
 
 [The Picard Vineyard]
 
-(Robert is tasting the red grapes, making sure they are all right)
+(Robert is tasting the red grapes, making sure they are all right)🚜
 ROBERT: So, you arrived all right. Welcome home, Captain.
 PICARD: Hello, Robert.
 ROBERT: You've shuttled in from the village?

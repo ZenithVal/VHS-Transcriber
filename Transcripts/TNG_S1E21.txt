@@ -256,7 +256,7 @@ LAFORGE: Captain, Lieutenant La Forge here. Sensors indicate energy readings in 
 
 [Jungle]
 
-(As Data tries to neutralise the force field, another device arrives and starts shooting)
+(As Data tries to neutralise the force field, another device arrives and starts shooting)🔫
 PICARD: Doctor, over here!
 (Picard and Beverly run, right to the edge of a pit, where they fall into)
 
@@ -365,7 +365,7 @@ PICARD: We seem to be in some kind of underground structure, but I don't see any
 CRUSHER: I'm tired.
 PICARD: Come on, stay with me. Come on now, stay awake. That's an order.
 CRUSHER: I must have lost a lot of blood.
-PICARD: I've stopped the bleeding.
+PICARD: I've stopped the bleeding.🏥
 CRUSHER: No, there's another wound. My leg.😱😱
 (He brushes the dirt off her leg and she winces)
 PICARD: Not to worry, Everything is going to be fine. Now, this is going to hurt a bit.

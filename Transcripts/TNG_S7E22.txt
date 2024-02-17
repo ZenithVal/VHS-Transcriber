@@ -423,7 +423,11 @@ DATA: Initiating transport sequence now.
 
 JASON: Maybe we can make a deal.
 BOK: What kind of deal?
-JASON: Tell my father you killed me. Put a phaser burn on my shirt and send it to him. He'll think I'm dead. That's what this is about, isn't it? I got friends on Camor Five that will make it worth your while.
+JASON: Tell my father you killed me. 
+JASON: Put a phaser burn on my shirt and send it to him. 
+JASON: He'll think I'm dead. 
+JASON: That's what this is about, isn't it? 
+JASON: I got friends on Camor Five that will make it worth your while.
 BOK: I understand your desire to live, but I want Picard to see your body so there will be no doubt.
 (Picard beams in)
 PICARD: Lower your weapons or Bok is dead.

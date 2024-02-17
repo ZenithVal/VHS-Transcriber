@@ -35,7 +35,7 @@ RIKER: On the way.
 
 [Phaser range]
 
-(Target practice involves shooting at moving coloured lights)
+(Target practice involves shooting at moving coloured lights) 🔫
 PICARD: I was wondering if you had any feelings about the Officer Exchange Programme initiated by Starfleet Command.
 RIKER: Just positive ones, sir. Actually, I just welcomed Ensign Mendon on board. He certainly seems eager to please.
 PICARD: Well, that's a Benzite trait. It's been suggested that an officer from the Enterprise might participate in the programme.
@@ -48,7 +48,7 @@ PICARD: Having Worf on board certainly has been.
 RIKER: Yes, sir. Who did you intend to send, sir?
 PICARD: I thought of asking for a volunteer.
 RIKER: I might be interested, sir.
-PICARD: (missing a target) Damn. Sorry, Number One, what was that?
+PICARD: (missing a target) Damn. Sorry, Number One, what was that? 🔫
 RIKER: I said I wouldn't mind the assignment, sir.
 PICARD: Any particular reason?
 RIKER: Because nobody's ever done it before.
@@ -510,7 +510,7 @@ RIKER: Hold where you are, Klag. I've relieved Captain Kargan. He was acting in 
 KARGAN: Where am I?
 PICARD: You're on board the starship Enterprise.
 KARGAN: Riker has no honour. He tricked me!
-(He turns to shoot Picard, but Worf shoots him first)
+(He turns to shoot Picard, but Worf shoots him first) 🔫😱
 DATA: He's only dazed, sir.
 PICARD: Well that's fine, but where's Commander Riker?
 

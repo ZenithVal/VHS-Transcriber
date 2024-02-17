@@ -180,7 +180,7 @@ ENGINEER: Hold it! You leave these people alone. They're only trying to help.
 CONDUCTOR: You go back to the engine. This doesn't concern you.
 ENGINEER: They're all trying to hijack the train.
 RUSTIC: Hey, if you're the Engineer, who's doing the drivin'?
-(a gangster shoots the Engineer in the back)
+(a gangster shoots the Engineer in the back)🔫
 GANGSTER: I am.
 
 [Engineering]

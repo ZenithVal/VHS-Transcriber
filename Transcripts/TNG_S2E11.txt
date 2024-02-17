@@ -271,9 +271,13 @@ PULASKI: Yes.
 MEDIC: I've got a problem here. The knitter isn't working.
 PULASKI: Try a splint.
 MEDIC: Doctor?
-PULASKI: Splint. It's a very ancient concept. You take two flat pieces of wood or plastic, a bandage. The broken limb is kept immobile.
+PULASKI: Splint. It's a very ancient concept. 
+PULASKI: You take two flat pieces of wood or plastic, a bandage. 🔨🧵🧵🏥🏥
+PULASKI: The broken limb is kept immobile.🏥🏥
 DOCTOR: That's crazy, that's not practicing medicine.
-PULASKI: Oh yes, it is. It's a time honoured way to practice medicine, with your head and your heart and your hands. So jump to it.
+PULASKI: Oh yes, it is. 
+PULASKI: It's a time honoured way to practice medicine, with your head and your heart and your hands. 🏥
+PULASKI: So jump to it.
 
 [Engineering]
 

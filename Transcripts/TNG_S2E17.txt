@@ -409,7 +409,7 @@ RIKER: We demand that you return our crewmember immediately.
 GREBNEDLOG [on viewscreen]: Request denied.
 RIKER: Lower your shield!
 GREBNEDLOG [on viewscreen]: Request denied.
-(and he shoots Geordi with the phaser, again)
+(and he shoots Geordi with the phaser, again)🔫
 RIKER: Stop it! What do you want?
 GREBNEDLOG [on viewscreen]: You think we are not smart.
 RIKER: I think you need to continue to develop.

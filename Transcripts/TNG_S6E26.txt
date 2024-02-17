@@ -65,7 +65,9 @@ WORF: Aye, sir.
 DATA: The mechanism appears to be jammed, sir.
 RIKER: There's not much damage. It doesn't look like they were interested in the station, just the people.
 DATA: I have bypassed the primary system.
-(the door opens to reveal - a Borg! after the titles the shooting starts. Data takes out the first Borg and at least three more turn up, pinning down our heroes)
+(the door opens to reveal - a Borg!)
+(Shooting breaks out.)🔫
+(Data takes out the first Borg and at least three more turn up, pinning down our heroes)🔫
 
 [Bridge]
 

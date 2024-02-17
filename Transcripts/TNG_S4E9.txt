@@ -238,11 +238,15 @@ WESLEY: Apply pressure to that wound. (scans Picard) This is the worst break.
 DIRGO: What was that thing?
 WESLEY: Keep the pressure constant.
 PICARD: Ensign, how bad is it?
-WESLEY: Your right leg is broken. You have a fracture in your left arm. And you took a blow to the head. But we're getting the bleeding under control.
+WESLEY: Your right leg is broken. 🏥😨
+WESLEY: You have a fracture in your left arm. 😨
+WESLEY: And you took a blow to the head. 🏥😨
+WESLEY: But we're getting the bleeding under control.🏥😨
 PICARD: Well done. I'm going to be fine. I just need to get my breath.
 DIRGO: Are you telling the truth?
 WESLEY: What truth?
-DIRGO: He's bleeding inside. I've seen it before. He's never going to survive.
+DIRGO: He's bleeding inside. I've seen it before. 
+DIRGO: He's never going to survive.😭😭😭
 WESLEY: You don't know what you're talking about.
 (pours alcohol on the cuts)
 DIRGO: You're wasting your time. Will you save that dresci for us.
@@ -323,7 +327,7 @@ RIKER: Let it go.
 
 [Cave]
 
-PICARD: Cold.
+PICARD: Cold.😭😭
 WESLEY: When the sun went down, the temperature really dropped. This should help.😟
 (Wesley heats rocks with a phaser)🍄🏥
 PICARD: Good. Thank you. I'm not much good to you, Wesley.

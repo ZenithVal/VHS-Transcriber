@@ -30,7 +30,6 @@ BRAND [on monitor]: I wanted to inform you personally. There's been an accident.
 [Crusher's office]
 
 PICARD: He had second degree burns on his chest and multiple fractures of his right arm, but he's going to be fine.
-(curses, mutters the transcriber whose hopes had been raised by the teaser)
 CRUSHER: Have they completed the regeneration series?
 PICARD: I'm not certain.
 CRUSHER: Wesley's allergic to metorapan treatments. I think they'll have to use a bicaridine substitute. I should send his complete records to the Academy infirmary. Of course, they probably have them already, but you can't be too sure.

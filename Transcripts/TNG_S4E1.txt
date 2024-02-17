@@ -57,7 +57,10 @@ RIKER: How soon do we get underway, Geordi?
 LAFORGE: Still a couple hours. Commander Shelby can fill you in.
 SHELBY: The main navigational deflector is functional again. Sherbourne and Barclay are running through the final testing sequence now.
 RIKER: The warp reactor core?
-SHELBY: Reconstruction is proceeding normally. It's slow work. If we can nail down this shield generator problem, I agree with La Forge. We should be at operating capacity in two to three hours.
+SHELBY: Reconstruction is proceeding normally. 
+SHELBY: It's slow work. 
+SHELBY: If we can nail down this shield generator problem, I agree with La Forge. 
+SHELBY: We should be at operating capacity in two to three hours.
 RIKER: Good.
 SHELBY: Anything else, sir?
 RIKER: Yes. You did a good job on the Borg ship.

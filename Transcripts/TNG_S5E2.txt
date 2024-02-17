@@ -157,7 +157,7 @@ WORF: Aye, sir.
 [Bridge]
 
 RIKER: Enough to turn them back, but not enough to hurt them.
-DATA: Yes, sir. The phaser pulse appears to have been carefully attenuated for just that effect.
+DATA: Yes, sir. The phaser pulse appears to have been carefully attenuated for just that effect.🔫
 RIKER: Nice shooting.
 
 [Observation lounge]

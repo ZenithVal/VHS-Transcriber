@@ -221,7 +221,7 @@ ORTON: I assure you it's all right. We'll look into it. You don't have to concer
 WAITER: Orton, now!
 (Orton knocks Geordi over. The waiter gets a rifle from under the table and fires it at Geordi, hitting him square in the chest. Orton gets a gun for himself.)
 HUTCH: What is going on?
-(Orton shoots him)
+(Orton shoots him)🔫
 ORTON: Stay right where you are.
 
 [Engineering]
@@ -433,7 +433,8 @@ RIKER: Thank you. Now, the first thing I think we need to discuss is this.
 [Corridor]
 
 (The sweep is halfway through the saucer section)
-(Picard shoots Pomet in the leg, and he passes out. Picard is just getting his weapon when )
+(Picard shoots Pomet in the leg, and he passes out.)🔫
+(Picard is just getting his weapon when-)
 KIROS: Hold it. Put your weapon down. Kelsey, this is Kiros. I'm on deck ten.
 
 [Jefferies tube]

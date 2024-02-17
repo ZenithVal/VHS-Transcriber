@@ -200,6 +200,7 @@ PICARD: Computer, activate Picard Mozart trio, programme one. Play back tracks o
 (it starts up with the music Picard was recording at the start of the show, then changes to Dvorak's The Slavonic Dances.)
 PICARD: Computer, stop playback. Computer identify musical composition.
 COMPUTER: Picard Mozart trio, programme one.
+🎵🎵🎵🎵
 
 [Rehearsal room]
 

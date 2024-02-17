@@ -297,7 +297,7 @@ LAFORGE: Yeah, that ought to do it.
 
 [Ten Forward]
 
-(Keiko is doing some bandages)
+(Keiko is doing some bandages)🏥
 KEIKO: There that should do it.
 WORF: (to man with broken leg) There will be a sharp pain as I set the bone. Prepare yourself. Good. Good, you bore that well.
 (Keiko gasps)
@@ -435,7 +435,8 @@ WORF: Good. You are bearing down. Now you must push with each contraction and I 
 KEIKO: I am pushing!
 WORF: The baby is emerging head first. One more contraction.
 KEIKO: Okay.
-WORF: That's good. Push. Push. Hard. I have the baby. I will smack the child to induce breathing.
+WORF: That's good. Push. Push. Hard. I have the baby. 
+WORF: I will smack the child to induce breathing.⚾⚾⚾⚾⚾⚾
 (waaa!)
 WORF: Now I will cut the umbilical cord. Blanket. I believe she looks like Chief O'Brien.
 (he hands the baby to Keiko)

@@ -147,7 +147,7 @@ SANTOS: There are worse things a person can do than kill a Cardassian soldier.
 RO: You don't often meet someone willing to say that out loud.
 SANTOS: In the Zone, there are a lot of us who feel that way.
 RO: I'd like to meet people like that.
-(Santos shoots her)
+(Santos shoots her)🔫
 
 [Room]
 
@@ -389,7 +389,9 @@ RO: I'd like that.
 MACIAS: Come, let's go to the market. If I'm going to make a pie, we'll have to find a substitute for blueberries. Haven't seen real ones in years.
 RO: On Bajor, there's a berry
 MACIAS: Yes, I know it, very sweet.
-(three cowled figures go up some steps then reveal themselves to be Cardassians. They start shooting the people. Santos comes with weapons)
+(three cowled figures go up some steps then reveal themselves to be Cardassians.)
+(They start shooting the people.)🔫
+(Santos comes with weapons)
 SANTOS: Ro!
 (she takes one, and others get handed out. Santos kills one Cardassian, Kalita another, then Macias goes to help a wounded man and gets shot himself. Ro kills the last Cardassian)
 RO: Macias?
