@@ -19,12 +19,12 @@ def convert_lines(lines, settings):
         "💤": "FAT+1",
         "🏃": "FAT-1",
         "🍽️": "HUN+0.2",
-        "🤢": "SIC+1",
+        "🤢": "SIC+0.2", 
         "😱": "PAN+10", # Max 100
         "😨": "FEA+10", # Max 100
         "👻": "LFT+0.2", #Light Footed
         "🔨": "CRP+0.2", #carpentry
-        "🍳": "COO+0.2",
+        "🍳": "COO+0.2", #cooking
         "🎣": "FIS+0.2",
         "🚜": "FRM+0.2",
         "🍄": "FOR+0.2", #foraging
