@@ -451,7 +451,7 @@ PICARD: It's quite difficult. The anguish of the man, the despair pouring out of
 PICARD: I can't stop them. I can't. I can't.
 CRUSHER: Don't even try.
 
-First Officer's log, Stardate 43920.7. Ambassador Sarek has successfully concluded the negotiations with the Legarans. The USS Merrimac has arrived and will transport the Ambassador and his party back to Vulcan.
+RIKER: First Officer's log, Stardate 43920.7. Ambassador Sarek has successfully concluded the negotiations with the Legarans. The USS Merrimac has arrived and will transport the Ambassador and his party back to Vulcan.
 
 [Transporter room]
 

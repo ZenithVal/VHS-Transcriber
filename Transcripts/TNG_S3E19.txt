@@ -12,7 +12,7 @@ COMPUTER: Where is no arrival date on file for any such individual.
 BORATUS: (the male alien) Could we have been mistaken?
 AJUR: He will come.
 
-First officer's log, Stardate 43745.2. We have departed Gemaris Five, where for the past two weeks Captain Picard has been serving as mediator in a trade dispute between the Gemarians and their nearest neighbour, the Dachlyds.
+RIKER: First Officer's log, Stardate 43745.2. We have departed Gemaris Five, where for the past two weeks Captain Picard has been serving as mediator in a trade dispute between the Gemarians and their nearest neighbour, the Dachlyds.
 
 [Bridge]
 

@@ -204,7 +204,7 @@ TALLERA: My orders are to find that assassin and stop him.
 PICARD: It would seem that Baran has to deliver these artefacts to the assassin in order to get paid. Therefore, you and I should continue our masquerade.
 TALLERA: Agreed. But Captain, I cannot allow the resonator to be assembled. If necessary, I will destroy this ship, its crew, all of us to prevent that from happening.
 
-Acting PICARD: Captain's log, stardate 47160.1. The Enterprise is entering the Hyralan Sector, which I believe to be the next destination of the mercenary ship.
+Acting Captain's log, stardate 47160.1. The Enterprise is entering the Hyralan Sector, which I believe to be the next destination of the mercenary ship.
 
 [Bridge]
 

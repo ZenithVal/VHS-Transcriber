@@ -109,7 +109,7 @@ DATHON: Temba. His arms wide.
 (Picard accepts the gift of fire, and Dathon smiles.)
 PICARD: Thank you. Thank you.
 
-First Officer's log, supplemental. I am sending a shuttlecraft to find Captain Picard, gambling that the Tamarians will sit tight rather than risk an exchange of phaser fire.
+RIKER: First Officer's log, supplemental. I am sending a shuttlecraft to find Captain Picard, gambling that the Tamarians will sit tight rather than risk an exchange of phaser fire.
 
 [Shuttlecraft]
 
@@ -355,7 +355,7 @@ O'BRIEN: I can't hold him, Commander.
 DATHON: Shaka.
 PICARD: when the walls fell.
 
-First Officer's log, stardate 45048.8. Our attempt to transport Captain Picard back to the ship has failed. My options are narrowing and my patience is all but gone.
+RIKER: First Officer's log, stardate 45048.8. Our attempt to transport Captain Picard back to the ship has failed. My options are narrowing and my patience is all but gone.
 
 [Observation lounge]
 
@@ -417,7 +417,7 @@ DATHON: Gilgamesh.
 PICARD: They were victorious. But Enkidu fell to the ground, struck down by the gods. And Gilgamesh wept bitter tears, saying, 'he who was my companion through adventure and hardship, is gone forever.
 (And so Dathon dies.)
 
-First Officer's log, supplemental. Despite the risk of war, I have no choice but to break the stalemate.
+RIKER: First Officer's log, supplemental. Despite the risk of war, I have no choice but to break the stalemate.
 
 [Bridge]
 

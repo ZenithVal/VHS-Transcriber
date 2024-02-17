@@ -242,7 +242,7 @@ WORF: Bats?
 CRUSHER: You're not afraid of bats, are you, Worf?
 WORF: Of course not.
 
-First Officer's log, supplemental. We have rendezvoused with the Cardassian ship Reklar to begin diplomatic talks designed to ease tensions along the border.
+RIKER: First Officer's log, supplemental. We have rendezvoused with the Cardassian ship Reklar to begin diplomatic talks designed to ease tensions along the border.
 
 [Bridge]
 

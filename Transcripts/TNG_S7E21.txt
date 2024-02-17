@@ -353,7 +353,7 @@ ALEXANDER: I don't want to leave the Enterprise.
 K'MTAR: Alexander, you must. Everything depends on it.
 ALEXANDER: I thought you were different. I thought you understood me. But you don't. You're just like my Father. All you care about is me becoming a warrior. Just leave me alone!
 
-First Officer's log, stardate 47779.4. We've entered the Ufandi system, where we believe the Duras sisters might have come to sell the ore they mined on Kalla Three.
+RIKER: First Officer's log, stardate 47779.4. We've entered the Ufandi system, where we believe the Duras sisters might have come to sell the ore they mined on Kalla Three.
 
 [Bridge]
 

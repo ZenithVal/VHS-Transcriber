@@ -353,7 +353,7 @@ TROI: It's all right. Everything's fine, thank you.
 (Security leave)
 TROI: Let me take you to Sickbay.
 
-Acting PICARD: Captain's log, stardate 44642.1. I have assumed command of the Enterprise at the request of Captain Picard. Our situation is deteriorating. Many of the crew are unable to function and our life support systems are beginning to falter.
+Acting Captain's log, stardate 44642.1. I have assumed command of the Enterprise at the request of Captain Picard. Our situation is deteriorating. Many of the crew are unable to function and our life support systems are beginning to falter.
 
 [Sickbay]
 

@@ -2,7 +2,7 @@ ST:TNG S1.26
 Star Trek:TNG S1.26
 The Neutral Zone
 
-RIKER: First officer's log, stardate 41986.0. We are awaiting the return of Captain Picard who was summoned to Starbase 718 for an emergency conference. Meanwhile, our sensors are monitoring an ancient capsule floating in our vicinity which appears to be from Earth.
+RIKER: First Officer's log, stardate 41986.0. We are awaiting the return of Captain Picard who was summoned to Starbase 718 for an emergency conference. Meanwhile, our sensors are monitoring an ancient capsule floating in our vicinity which appears to be from Earth.
 [Bridge]
 
 LAFORGE: I wonder how it got out here.

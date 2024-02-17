@@ -494,7 +494,7 @@ DATA: Negative, sir. All external sensors still nonfunctioning.
 PICARD: Then we have no way to track him.
 RIKER: That was his plan all along.
 
-First officer's log, supplemental. We are continuing to repair damage to the ship's sensors following the escape of the Angosian prisoner, Danar. He is still at large.
+RIKER: First Officer's log, supplemental. We are continuing to repair damage to the ship's sensors following the escape of the Angosian prisoner, Danar. He is still at large.
 
 [Bridge]
 

@@ -235,7 +235,7 @@ KLINGON [OC]: MeHmaH ghoS.
 K'VADA: So'wl'chu'. Well, Captain, we're at the border of the Neutral Zone. You mean to do this, do you?
 PICARD: Yes. I do.
 
-First Officer's log, stardate 45240.6. The Enterprise is nearing Qualor Two, home of a Federation surplus depot operated by the Zakdorn. We hope to find out how the salvaged deflector array ended up in the hands of the Ferengi.
+RIKER: First Officer's log, stardate 45240.6. The Enterprise is nearing Qualor Two, home of a Federation surplus depot operated by the Zakdorn. We hope to find out how the salvaged deflector array ended up in the hands of the Ferengi.
 
 [Bridge]
 

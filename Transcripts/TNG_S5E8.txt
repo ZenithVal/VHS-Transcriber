@@ -123,7 +123,7 @@ PARDEK: Romulans are passionate people. The Vulcans will learn to appreciate tha
 SPOCK: If we are successful.
 PARDEK: We will know soon. The Proconsul has agreed to meet with you.
 
-First Officer's log, stardate 45245.8. The Enterprise remains at Qualor Two as we continue to investigate the theft of a surplus Vulcan ship. The trail has led us to the former wife of a deceased smuggler.
+RIKER: First Officer's log, stardate 45245.8. The Enterprise remains at Qualor Two as we continue to investigate the theft of a surplus Vulcan ship. The trail has led us to the former wife of a deceased smuggler.
 
 [Piano bar]
 
@@ -368,7 +368,7 @@ SELA: The great Spock. Very well. Senator Pardek, your service to the Romulan pe
 PARDEK: Jolan tru, Spock.
 SELA: Do not be distressed. Your dream of reunification is not dead. It will simply take a different form. The Romulan conquest of Vulcan. Bring them.
 
-First Officer's log, supplemental. The Enterprise has reached Galorndon Core, near the border of the Neutral Zone.
+RIKER: First Officer's log, supplemental. The Enterprise has reached Galorndon Core, near the border of the Neutral Zone.
 
 [Bridge]
 

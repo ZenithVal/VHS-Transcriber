@@ -302,7 +302,7 @@ HARO: Right. Helping to cure the Phyrox Plague.
 ESOQQ: And how do we know this is the heroic Captain Picard? We have no proof of his identity.
 THOLL: You've wasted our time with failed attempts to communicate with them or escape. Is that your task? To keep us busy so we're off guard?
 
-First officer's log, supplemental. Although we're still eighteen hours from the Lonka pulsar, the Captain has ordered us to slow to one half impulse. He has offered no explanation.
+RIKER: First Officer's log, supplemental. Although we're still eighteen hours from the Lonka pulsar, the Captain has ordered us to slow to one half impulse. He has offered no explanation.
 
 [Ten Forward]
 

@@ -17,7 +17,7 @@ LAFORGE: Shutting down warp engines.
 RIKER: They couldn't have adapted that quickly.
 PICARD [on viewscreen]: The knowledge and experience of the human Picard is part of us now. It has prepared us for all possible courses of action. Your resistance is hopeless, Number One.
 
-First Officer's log, stardate 44001.4. The Borg ship has resumed its course toward Earth. We are unable to pursue pending repairs to the Enterprise.
+RIKER: First Officer's log, stardate 44001.4. The Borg ship has resumed its course toward Earth. We are unable to pursue pending repairs to the Enterprise.
 
 [Observation lounge]
 

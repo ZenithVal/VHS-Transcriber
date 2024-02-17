@@ -450,7 +450,7 @@ PICARD: The ship? The Ferengi ship that attacked me. Or is it about to attack me
 BOK: And I have spent these years searching, seeking a proper blood revenge! And I found it! I am rich, Picard, yet two of these cost me the profits of an entire life. You are back in command of the Stargazer, Picard. Its computers will answer your orders. Die well, Captain.
 (Bok beams away)
 
-RIKER: First officer's log. Captain Picard has beamed himself to the Stargazer, which is now moving away from us under its own power.
+RIKER: First Officer's log. Captain Picard has beamed himself to the Stargazer, which is now moving away from us under its own power.
 
 [Bridge]
 

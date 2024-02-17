@@ -470,7 +470,7 @@ DATA: Thank you for your concern. I will be fine. (to Troi) And thank you, for e
 RIKER: Enterprise, four to beam up. Good luck.
 (They beam up, and Riva stands in front of the triangular table, to wait.)
 
-First Officer's log, Stardate 42479.3. We leave the Solais system confident that Riva will help the Solari achieve a lasting peace.
+RIKER: First Officer's log, Stardate 42479.3. We leave the Solais system confident that Riva will help the Solari achieve a lasting peace.
 
 [Bridge]
 

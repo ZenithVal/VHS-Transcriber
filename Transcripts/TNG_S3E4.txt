@@ -137,7 +137,7 @@ TROI: But our presence must not interfere with the cultural development of the M
 PICARD: Agreed. Further contamination must be prevented.
 RIKER: I have a suggestion.
 
-First officer's log, Stardate 43174.2. Counsellor Troi and I are beaming down to Mintaka Three to locate Doctor Palmer and to determine the extent of the cultural contamination. Doctor Crusher has temporarily altered our features and skin colour. She's also implanted subcutaneous communicators so that any transmissions we receive will be inaudible to the Mintakans.
+RIKER: First Officer's log, Stardate 43174.2. Counsellor Troi and I are beaming down to Mintaka Three to locate Doctor Palmer and to determine the extent of the cultural contamination. Doctor Crusher has temporarily altered our features and skin colour. She's also implanted subcutaneous communicators so that any transmissions we receive will be inaudible to the Mintakans.
 
 [Plain]
 

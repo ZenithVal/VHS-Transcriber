@@ -51,7 +51,7 @@ DATA: The Borg aspire to the perfection my Brother and I represent. Fully artifi
 LORE: The reign of biological life forms is coming to an end. You, Picard, and those like you are obsolete. Take them, brother.
 (Lore takes the phasers away)
 
-Acting PICARD: Captain's log, supplemental. The skeleton crew left on board the Enterprise is unable to help in the search for Commander Data. The planet's unusual EM field is interfering with the ship's sensors, severely limiting their effectiveness.
+Acting Captain's log, supplemental. The skeleton crew left on board the Enterprise is unable to help in the search for Commander Data. The planet's unusual EM field is interfering with the ship's sensors, severely limiting their effectiveness.
 
 [Bridge]
 

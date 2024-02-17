@@ -119,7 +119,7 @@ RIKER: Take it easy, Wes. We're going to find him. I want to begin a methodical 
 DATA: Search pattern has been input, sir.
 RIKER: Engage, Mister Crusher.
 
-First officer's log, stardate 42761.3. We have not been able to determine why, or how, Captain Picard left the Enterprise. We can't even be certain he is in the missing shuttle, although that is the assumption on which we are proceeding. For the last six hours, we have been searching without success.
+RIKER: First Officer's log, stardate 42761.3. We have not been able to determine why, or how, Captain Picard left the Enterprise. We can't even be certain he is in the missing shuttle, although that is the assumption on which we are proceeding. For the last six hours, we have been searching without success.
 
 [Bridge]
 

@@ -434,7 +434,7 @@ RIKER: Those are my orders, Commander.
 TROI: Commander Riker. It is inappropriate for you to lead the away team. Until the return of Captain Picard, you are in command of the Enterprise. We're in a state of war, and your place is on the Bridge.
 RIKER: Commander Shelby, you'll lead the away team. Make it so.
 
-First officer's log, stardate 43998.5. Our pursuit of the Borg continues on a course that will take us to the very core of the Federation. The devastation they could bring is beyond imagination.
+RIKER: First Officer's log, stardate 43998.5. Our pursuit of the Borg continues on a course that will take us to the very core of the Federation. The devastation they could bring is beyond imagination.
 
 [Transporter room]
 
