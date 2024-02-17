@@ -2,7 +2,7 @@ ST:TNG S5.17
 Star Trek:TNG S5.17
 The Outcast
 
-Captain's log, stardate 45614.6. We have been contacted by an androgynous race called the J'naii to investigate the mysterious disappearance of one of their shuttlecraft.
+PICARD: Captain's log, stardate 45614.6. We have been contacted by an androgynous race called the J'naii to investigate the mysterious disappearance of one of their shuttlecraft.
 [Bridge]
 
 (the J'naii are wearing loose-fitting one-piece suits and all have short hair)
@@ -24,7 +24,7 @@ DATA: Sensors show no evidence of any unusual phenomenon.
 DATA: The probe is no longer transmitting.
 SOREN: What happened? Where did it go?
 
-Captain's log, supplemental. The sudden disappearance of our probe suggests that we may have found the first instance of what is called null space, an anomaly which until now had been only theoretical. Commander Riker has been working around the clock with a team of J'naii specialists to formalise this hypothesis.
+PICARD: Captain's log, supplemental. The sudden disappearance of our probe suggests that we may have found the first instance of what is called null space, an anomaly which until now had been only theoretical. Commander Riker has been working around the clock with a team of J'naii specialists to formalise this hypothesis.
 
 [Civic chamber]
 
@@ -115,7 +115,7 @@ KRITE: Good evening, Commander.
 RIKER: Good evening.
 SOREN: Please take my place, Krite. I have to be going. Thank you for going over the flight protocols, Commander. It was very helpful.
 
-Captain's log, supplemental. Commander Riker and the J'naii pilot have set out to chart the null space pocket. If they are successful, we can then proceed with a rescue attempt.
+PICARD: Captain's log, supplemental. Commander Riker and the J'naii pilot have set out to chart the null space pocket. If they are successful, we can then proceed with a rescue attempt.
 
 [Shuttlecraft]
 
@@ -325,7 +325,7 @@ RIKER: Thank you. It's kind of you.
 SOREN: One of my favourites is this menellen tree. The leaves first turn pure white, and then blue, when the weather gets cold. This is called a falla bush. It produces a fragrant flower on only one day of the year.
 (and finally they get down to the real purpose of the walk, with Riker trying to eat her tonsils)
 
-Captain's log, stardate 45620.4. In the hope that a detailed map of null space will prevent the loss of other ships, we remain in orbit of J'naii, charting the anomaly.
+PICARD: Captain's log, stardate 45620.4. In the hope that a detailed map of null space will prevent the loss of other ships, we remain in orbit of J'naii, charting the anomaly.
 
 [Troi's quarters]
 

@@ -3,7 +3,7 @@ Star Trek:TNG S5.14
 Conundrum
 
 
-Captain's log, stardate 45494.2. We're investigating a series of subspace signals that may indicate intelligent life in the Epsilon Silar System. We are within sensor range.
+PICARD: Captain's log, stardate 45494.2. We're investigating a series of subspace signals that may indicate intelligent life in the Epsilon Silar System. We are within sensor range.
 [Ten Forward]
 
 (a 3D chess game is in progress)
@@ -527,7 +527,7 @@ PICARD: I do not fire on defenceless people. Mister Worf open a channel to the L
 MACDUFF: Belay that order! There's something wrong with the Captain. I'm taking command of this vessel. Fire all weapons! Mister Worf.
 (Worf blocks his way, and gets thrown across the Bridge far too easily. Riker fires a phaser at MacDuff and we briefly see an alien, but he recovers to try and fire the ships weapons. Riker shoots again, and Worf joins in. Finally they knock him out)
 
-Captain's log, supplemental. We are on a course to Starbase three zero one. Doctor Crusher has been working steadily, and has restored the memories of most of the crew.
+PICARD: Captain's log, supplemental. We are on a course to Starbase three zero one. Doctor Crusher has been working steadily, and has restored the memories of most of the crew.
 
 [Ready room]
 

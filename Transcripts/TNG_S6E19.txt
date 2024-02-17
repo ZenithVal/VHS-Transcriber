@@ -316,7 +316,7 @@ PICARD: Go ahead, Mister Worf.
 WORF [OC]: Bersallis Three reports that the storm has changed its speed and heading. They are predicting it will hit the outpost within eight hours, and are requesting evacuation.
 PICARD: I'm on my way.
 
-Captain's log, stardate 46693.1. We have entered the Bersallis star system and are making preparations to evacuate the Federation outpost on the third planet.
+PICARD: Captain's log, stardate 46693.1. We have entered the Bersallis star system and are making preparations to evacuate the Federation outpost on the third planet.
 
 [Observation lounge]
 
@@ -451,7 +451,7 @@ CREWMAN: Here, let me help up.
 NELLA: Thank you.
 (and she leaves without a word to Picard)
 
-Captain's log, stardate 46697.2. Although we succeeded in rescuing all six hundred forty three Bersallin colonists we lost eight crewmembers. Let the record show that they gave their lives in the performance of their duty.
+PICARD: Captain's log, stardate 46697.2. Although we succeeded in rescuing all six hundred forty three Bersallin colonists we lost eight crewmembers. Let the record show that they gave their lives in the performance of their duty.
 
 [Picard's quarters]
 

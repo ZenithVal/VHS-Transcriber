@@ -2,7 +2,7 @@ ST:TNG S7.24
 Star Trek:TNG S7.24
 Preemptive Strike
 
-Captain's log, stardate 47941.7. The Enterprise is en route to a briefing on the situation in the Demilitarised Zone along the Cardassian border. Meanwhile, we're celebrating the return of an old friend.
+PICARD: Captain's log, stardate 47941.7. The Enterprise is en route to a briefing on the situation in the Demilitarised Zone along the Cardassian border. Meanwhile, we're celebrating the return of an old friend.
 [Ten Forward]
 
 LAFORGE: Ro!
@@ -98,7 +98,7 @@ GUL EVEK: We have taken measures to deal with our colonists who have armed thems
 PICARD: Considering that they destroyed a Juhryan freighter less than a week ago, I would say that your efforts are meeting with limited success.
 GUL EVEK: Captain, if the Maquis are not stopped, this situation will continue to escalate to the point where the Cardassian military will have no choice but to take matters into their own hands.
 
-Captain's log, supplemental. Gul Evek and his crew have left the Enterprise, and we have proceeded to our rendezvous with Admiral Nechayev.
+PICARD: Captain's log, supplemental. Gul Evek and his crew have left the Enterprise, and we have proceeded to our rendezvous with Admiral Nechayev.
 
 [Ready room]
 
@@ -254,7 +254,7 @@ KALITA: I'm getting us out of sensor range.
 RO: Don't. If we break the comm. link, we won't be able to try again.
 RO: It worked. Until they change the access codes again, we can cross the border here.
 
-Captain's log, stardate 47943.2. It has been over a week since Lieutenant Ro left the Enterprise. We have yet to receive any communication from her.
+PICARD: Captain's log, stardate 47943.2. It has been over a week since Lieutenant Ro left the Enterprise. We have yet to receive any communication from her.
 
 [Bridge]
 
@@ -335,7 +335,7 @@ MACIAS: Well, it seems that Kalita has decided you're not a Federation spy after
 RO: I understand.
 MACIAS: But I've known since I first met you that in your heart, you're one of us.
 
-Captain's log, supplemental. Having earned the Maquis' trust with her raid on the Enterprise, Lieutenant Ro has been given access to a ship and allowed to leave the settlement by herself.
+PICARD: Captain's log, supplemental. Having earned the Maquis' trust with her raid on the Enterprise, Lieutenant Ro has been given access to a ship and allowed to leave the settlement by herself.
 
 [Observation lounge]
 
@@ -427,7 +427,7 @@ PICARD: I feel it necessary to have Commander Riker go back with you. He can pos
 (Picard stands to leave)
 PICARD: I'm sorry. I don't have that kind of money.
 
-Captain's log, supplemental. We have received word from Commander Riker and Lieutenant Ro that the Maquis will be attacking the convoy as planned. Our ships have taken up position in the Hugora Nebula to wait for them.
+PICARD: Captain's log, supplemental. We have received word from Commander Riker and Lieutenant Ro that the Maquis will be attacking the convoy as planned. Our ships have taken up position in the Hugora Nebula to wait for them.
 
 [Bridge]
 

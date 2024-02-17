@@ -2,7 +2,7 @@ ST:TNG S6.03
 Star Trek:TNG S6.03
 Man of The People
 
-Captain's log, stardate 46071.6. We have been called to the aid of a transport ship, which has been attacked near Rekag-Seronia. Hostilities between the two factions on that planet have intensified recently, threatening an important Federation shipping route.
+PICARD: Captain's log, stardate 46071.6. We have been called to the aid of a transport ship, which has been attacked near Rekag-Seronia. Hostilities between the two factions on that planet have intensified recently, threatening an important Federation shipping route.
 [Bridge]
 
 DATA: Captain, sensors have located the transport ship. Two Rekag battle cruisers are flanking it.
@@ -213,7 +213,7 @@ TROI: Will, remember who you're talking to. You are bothered, I can tell.
 RIKER: Deanna, I'm sorry I intruded. When you're ready to work, why don't you give me a call.
 TROI: I will.
 
-Captain's log, stardate 46073.6. We have arrived without incident at Rekag-Seronia, where two members of Ambassador Alkar's delegation have been waiting. They have joined us to report on the situation in the capital city.
+PICARD: Captain's log, stardate 46073.6. We have arrived without incident at Rekag-Seronia, where two members of Ambassador Alkar's delegation have been waiting. They have joined us to report on the situation in the capital city.
 
 [Observation lounge]
 

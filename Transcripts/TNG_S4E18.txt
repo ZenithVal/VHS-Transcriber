@@ -27,7 +27,7 @@ SUSANNA: No, we never learned what happened or why. Forty nine people gone.
 RIKER: And five years later, the away team that was investigating their disappearances have started to disappear themselves.
 SUSANNA: Geordi and I are the only two left.
 
-Captain's log, stardate 44664.5. We've set a course to intercept Lieutenant Hickman's stolen shuttlecraft, and, hopefully, to discover the whereabouts of the other missing officers.
+PICARD: Captain's log, stardate 44664.5. We've set a course to intercept Lieutenant Hickman's stolen shuttlecraft, and, hopefully, to discover the whereabouts of the other missing officers.
 
 [Ten Forward]
 
@@ -354,7 +354,7 @@ DATA: Captain, the security lockout on Transporter room six has been broken.
 PICARD: Re-engage now.
 DATA: I cannot, sir. The transporter cycle has already begun.
 
-Captain's log, stardate 44668.1. Doctor Crusher's research indicates that we have less than an hour before Commander La Forge's transformation becomes irreversible. However, all attempts to locate him on the surface have failed.
+PICARD: Captain's log, stardate 44668.1. Doctor Crusher's research indicates that we have less than an hour before Commander La Forge's transformation becomes irreversible. However, all attempts to locate him on the surface have failed.
 
 [Bridge]
 

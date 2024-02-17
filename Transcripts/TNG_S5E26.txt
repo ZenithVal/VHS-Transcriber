@@ -3,7 +3,7 @@ Star Trek:TNG S5.26
 Time's Arrow, part 1
 
 
-Captain's log, stardate 45959.1. The Enterprise has been recalled to sector zero zero one on a priority mission. All we've been told is that evidence has been discovered indicating the presence of extraterrestrials on Earth five centuries ago.
+PICARD: Captain's log, stardate 45959.1. The Enterprise has been recalled to sector zero zero one on a priority mission. All we've been told is that evidence has been discovered indicating the presence of extraterrestrials on Earth five centuries ago.
 [Cavern]
 
 SCIENTIST: Work crews were down here installing seismic regulators when they found some remarkable artefacts.
@@ -25,7 +25,7 @@ PICARD: I'm curious, Doctor. There are far greater experts on Earth to investiga
 SCIENTIST: As we continued our excavation, we found one other thing I haven't shown you yet. We've tried to leave everything as we found it.
 (and he uncovers - Data's head)
 
-Captain's log, stardate 45960.2. We have transported the materials discovered in the cavern back to the ship for analysis. I wish I could be as dispassionate about the implications as my second officer.
+PICARD: Captain's log, stardate 45960.2. We have transported the materials discovered in the cavern back to the ship for analysis. I wish I could be as dispassionate about the implications as my second officer.
 
 [Engineering]
 
@@ -362,7 +362,7 @@ BEGGAR: Help out a Forty Niner. Fell down a shaft. Forty Niner. Help me. Help me
 BEGGAR: No. No.
 (a beam comes from the woman's case to the beggar, and he dies.)
 
-Captain's log, supplemental. Close range sensor analysis has yielded no further trace of Commander Data. Despite the emotional repercussions among my crew, I must move this mission forward.
+PICARD: Captain's log, supplemental. Close range sensor analysis has yielded no further trace of Commander Data. Despite the emotional repercussions among my crew, I must move this mission forward.
 
 [Observation lounge]
 
@@ -501,7 +501,7 @@ DATA: Our ship encountered a species who appears to be threatening 19th century 
 (a whiff of cigar smoke gives somebody away)
 CLEMENS: Eavesdropping is by no means a proper activity for a gentleman. Nonetheless, the deed is done.
 
-Captain's log, stardate 45965.3. An away team has beamed to the surface with a device which may enable them to phase-shift into the alien world.
+PICARD: Captain's log, stardate 45965.3. An away team has beamed to the surface with a device which may enable them to phase-shift into the alien world.
 
 [Devidia cavern]
 

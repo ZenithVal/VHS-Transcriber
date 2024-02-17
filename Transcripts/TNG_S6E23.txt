@@ -125,7 +125,7 @@ KLINGON: We are Klingons.
 KAHLESS: We are Klingons.
 ALL: We are Klingons. We are Klingons. We are Klingons. We are Klingons. We are Klingons. We are Klingons.
 
-Captain's log, stardate 46852.2. The Enterprise is to proceed directly to the planet Boreth to take aboard a very unusual guest.
+PICARD: Captain's log, stardate 46852.2. The Enterprise is to proceed directly to the planet Boreth to take aboard a very unusual guest.
 
 [Observation lounge]
 

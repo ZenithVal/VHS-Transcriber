@@ -2,7 +2,7 @@ ST:TNG S4.14
 Star Trek:TNG S4.14
 Clues
 
-Captain's log, stardate 44502.7. Early completion of our mission at Harrakis Five has allowed me to grant extra personal time for many of the crew. This has come as something of a relief, since our recent tight scheduling has prevented pursuit of the leisure activities that are a normal part of life aboard the Enterprise. I expect our journey past the Ngame Nebula to be uneventful, and am personally using the time to fulfill a promise to a colleague.
+PICARD: Captain's log, stardate 44502.7. Early completion of our mission at Harrakis Five has allowed me to grant extra personal time for many of the crew. This has come as something of a relief, since our recent tight scheduling has prevented pursuit of the leisure activities that are a normal part of life aboard the Enterprise. I expect our journey past the Ngame Nebula to be uneventful, and am personally using the time to fulfill a promise to a colleague.
 [Hill's outer office]
 
 GUINAN: Dixon Hill around?
@@ -197,7 +197,7 @@ CRUSHER: Each of these incubators was set with spores from completely different 
 PICARD: Doctor, we were not unconscious for a full day. Everything on board indicates that we were out for thirty seconds. The ship's chronometer, the computer, everything, Doctor, including Commander Data.
 CRUSHER: Jean-Luc, I'm telling you this is over twenty four hours of growth.
 
-Captain's log, supplemental. Commander Data continues to maintain that we were unconscious for only thirty seconds, despite Doctor Crusher's evidence to the contrary.
+PICARD: Captain's log, supplemental. Commander Data continues to maintain that we were unconscious for only thirty seconds, despite Doctor Crusher's evidence to the contrary.
 
 [Observation lounge]
 
@@ -275,7 +275,7 @@ PICARD: Will you escort Commander Data to Engineering?
 DATA: I know the way, sir.
 (but the lady security guard follows him anyway)
 
-Captain's log, supplemental. It has become clear that everyone aboard the Enterprise has lost an entire day. As the mystery of what actually occurred during those missing hours continues to deepen, so do my doubts about Commander Data.
+PICARD: Captain's log, supplemental. It has become clear that everyone aboard the Enterprise has lost an entire day. As the mystery of what actually occurred during those missing hours continues to deepen, so do my doubts about Commander Data.
 
 [Engineering]
 

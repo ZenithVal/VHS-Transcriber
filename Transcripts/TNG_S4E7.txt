@@ -2,7 +2,7 @@ ST:TNG S4.07
 Star Trek:TNG S4.07
 Reunion
 
-Captain's Log: Stardate 44246.3 We're investigating radiation anomalies reported in the Gamma Arigulon system by the starship LaSalle. Preliminary readings are inconclusive.
+PICARD: Captain's log: Stardate 44246.3 We're investigating radiation anomalies reported in the Gamma Arigulon system by the starship LaSalle. Preliminary readings are inconclusive.
 [Bridge]
 
 RIKER: Mister Data?
@@ -95,7 +95,7 @@ K'MPEC: And I approved. All for the glory of the Empire. That should be my epita
 PICARD: Very well. I accept.
 (K'mpec takes another drink of poisoned wine)
 
-Captain's log, supplemental. K'mpec, who ruled the Klingon Empire longer than anyone in history, is dead. We await the arrival of Duras and Gowron, rivals for the leadership of the High Council.
+PICARD: Captain's log, supplemental. K'mpec, who ruled the Klingon Empire longer than anyone in history, is dead. We await the arrival of Duras and Gowron, rivals for the leadership of the High Council.
 
 [Schoolroom]
 

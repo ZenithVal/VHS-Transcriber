@@ -16,7 +16,7 @@ WESLEY [OC]: Yes, sir.
 
 WESLEY: I'm very sorry. I'll be right there. this.
 
-Captain's log, Stardate 43125.8. We have entered a spectacular binary star system in the Kavis Alpha sector on a most critical mission of astro-physical research. Our eminent guest, Doctor Paul Stubbs, will attempt to study the decay of neutronium expelled at relativistic speeds by a massive stellar explosion which will occur here in a matter of hours.
+PICARD: Captain's log, Stardate 43125.8. We have entered a spectacular binary star system in the Kavis Alpha sector on a most critical mission of astro-physical research. Our eminent guest, Doctor Paul Stubbs, will attempt to study the decay of neutronium expelled at relativistic speeds by a massive stellar explosion which will occur here in a matter of hours.
 
 [Bridge]
 
@@ -231,7 +231,7 @@ WESLEY: I always get an A.
 (Wesley leaves) 
 GUINAN: So did Doctor Frankenstein.
 
-Captain's log, supplemental. Our computer core has clearly been tampered with and yet there is no sign of a breach of security on board. We have engines back and will attempt to complete our mission, but without a reliable computer, Doctor Stubbs' experiment is in serious jeopardy.
+PICARD: Captain's log, supplemental. Our computer core has clearly been tampered with and yet there is no sign of a breach of security on board. We have engines back and will attempt to complete our mission, but without a reliable computer, Doctor Stubbs' experiment is in serious jeopardy.
 
 [Bridge]
 
@@ -446,7 +446,7 @@ DATA: We agree.
 PICARD: I pledge we will do everything possible to assist your continued survival.
 DATA: Thank you, but we have evolved beyond any need for your assistance. This vessel has become too confining. We require relocation.
 
-Captain's log, supplemental. Doctor Stubbs has used his influence to have planet Kavis Alpha Four designated the new home of the nanite civilisation. Commander Data's neural network has been vacated. He has been returned to us unharmed. And with the help of the nanites, our computer core has been reconstructed in time for the experiment
+PICARD: Captain's log, supplemental. Doctor Stubbs has used his influence to have planet Kavis Alpha Four designated the new home of the nanite civilisation. Commander Data's neural network has been vacated. He has been returned to us unharmed. And with the help of the nanites, our computer core has been reconstructed in time for the experiment
 
 [Bridge]
 

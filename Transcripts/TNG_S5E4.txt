@@ -120,7 +120,7 @@ LAFORGE: It's good to see you're all right, Commander. What's happened here?
 RIKER: The Crystalline Entity paid us a visit. We lost two colonists, but we got the rest in here.
 (they emerge to the sight of a planet stripped down to the rock and soil)
 
-Captain's log, stardate 45122.3. We have notified Starfleet Command of our intention to pursue and investigate the Crystalline Entity. To that end, we have been joined by Doctor Kila Marr, a xenologist who has made studying the Entity her life's work.
+PICARD: Captain's log, stardate 45122.3. We have notified Starfleet Command of our intention to pursue and investigate the Crystalline Entity. To that end, we have been joined by Doctor Kila Marr, a xenologist who has made studying the Entity her life's work.
 
 [Transporter room]
 
@@ -313,7 +313,7 @@ WORF: I cannot, sir. There is no response.
 DATA: The Crystalline Entity is moving away, sir.
 PICARD: Ensign, set a course for the Kallisko. Mister Riker, prepare an away team.
 
-Captain's log, stardate 45125.7. An away team led by Commander Riker has conducted a thorough survey of the alien ship Kallisko, and has returned to the Enterprise to report.
+PICARD: Captain's log, stardate 45125.7. An away team led by Commander Riker has conducted a thorough survey of the alien ship Kallisko, and has returned to the Enterprise to report.
 
 [Bridge]
 
@@ -374,7 +374,7 @@ MARR: Maybe something from his journals.
 DATA: Many of his journal entries took the form of letters to friends and family. I could access one of those.
 DATA: (as Renny): I took my last exam today I think I did all right on everything except cellular biology. I know you think it's important, Mom, but I don't see how I'm ever going to use this stuff. In a couple of weeks, a bunch of us are going on an archaeological dig in the mountains. The Wallaces said it would be all right as long as we had adult supervision, so don't worry. They're looking out for me. They're really great people and I like them a lot, but they're kind of serious. They don't have your sense of humour, Mom. Mom, I miss you.
 
-Captain's log, stardate 45129.2. We are still in pursuit of the Crystalline Entity. Data and Doctor Marr are prepared to attempt communication with the being when we intercept it. I will admit to some uncertainty about the prospect. It could prove to be a scientific triumph, or a catastrophe.
+PICARD: Captain's log, stardate 45129.2. We are still in pursuit of the Crystalline Entity. Data and Doctor Marr are prepared to attempt communication with the being when we intercept it. I will admit to some uncertainty about the prospect. It could prove to be a scientific triumph, or a catastrophe.
 
 [Bridge]
 

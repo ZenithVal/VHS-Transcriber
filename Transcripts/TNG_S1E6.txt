@@ -438,7 +438,7 @@ PICARD: Think! Put the flame out in your thoughts.
 PICARD: Now, Get to your station and concentrate on your assignment.
 CREWMAN: Yes, sir.
 
-Captain's log. Any time entry is meaningless. We have no choice but to repeat the same warp experiment. but wish one variation. A principal part of this warp formula will be the thoughts of everyone aboard the Enterprise. We have no idea exactly how this works. We understand only that the Traveller makes use of this somehow. It will be most important that those aboard avoid random thoughts that might change the reality of what we're attempting to do.
+PICARD: Captain's log. Any time entry is meaningless. We have no choice but to repeat the same warp experiment. but wish one variation. A principal part of this warp formula will be the thoughts of everyone aboard the Enterprise. We have no idea exactly how this works. We understand only that the Traveller makes use of this somehow. It will be most important that those aboard avoid random thoughts that might change the reality of what we're attempting to do.
 
 [Bridge]
 

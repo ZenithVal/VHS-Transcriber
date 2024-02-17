@@ -2,7 +2,7 @@ ST:TNG S2.15
 Star Trek:TNG S2.15
 Pen Pals
 
-Captain's log, Stardate 42695.3. We are the first manned vessel to enter the Selcundi Drema sector. Unmanned probes have recorded unusual levels of geological activity in all five planetary systems. I am hoping the Enterprise will find the answer to this enigma.
+PICARD: Captain's log, Stardate 42695.3. We are the first manned vessel to enter the Selcundi Drema sector. Unmanned probes have recorded unusual levels of geological activity in all five planetary systems. I am hoping the Enterprise will find the answer to this enigma.
 [Bridge]
 
 DATA: Commander, I've been reviewing the unmanned probe scans. At some point during the last one hundred and fifty years, the fifth planet of Selcundi Drema has shattered, forming an asteroid belt.
@@ -132,7 +132,7 @@ WESLEY: So you not only have to understand the job, you also have to be a ship's
 TROI: Sometimes.
 WESLEY: Well, thank you.
 
-Captain's log, Stardate 42696.3. We are entering the second Selcundi star system, where acting Ensign Crusher will begin his planetary mineral survey. The results of which may help unlock the geological puzzle.
+PICARD: Captain's log, Stardate 42696.3. We are entering the second Selcundi star system, where acting Ensign Crusher will begin his planetary mineral survey. The results of which may help unlock the geological puzzle.
 
 [Geophysics lab]
 
@@ -178,7 +178,7 @@ PULASKI: Wes, the minute you walk through that door they're your team. You have 
 WESLEY: That's just 'cos Commander Riker says I do.
 PULASKI: It's up to you to hang on to it. Now, you'd better get in there, and Wes, for whatever it's worth, I think you're going to do just fine.
 
-Captain's log, stardate 42737.3. It has been six weeks since our entrance into the Selcundi Drema sector. Each system has revealed the same disturbing geological upheavals on every planet.
+PICARD: Captain's log, stardate 42737.3. It has been six weeks since our entrance into the Selcundi Drema sector. Each system has revealed the same disturbing geological upheavals on every planet.
 
 [Geophysics lab]
 
@@ -306,7 +306,7 @@ COMPUTER: Isolating frequency.
 SARJENKA [OC]: Data. Data, where are you? Why won't you answer? Are you angry me? Please, please, I'm so afraid. Data, Data, where are you?
 PICARD: Wait. Oh, Data. Your whisper from the dark has now become a plea. We cannot turn our backs.
 
-Captain's log, stardate 42741.3. We are entering into orbit of Drema Four, the planet from which Data received the distress signal. Sensors indicate that the volcanic activity is increasing.
+PICARD: Captain's log, stardate 42741.3. We are entering into orbit of Drema Four, the planet from which Data received the distress signal. Sensors indicate that the volcanic activity is increasing.
 
 [Observation lounge]
 

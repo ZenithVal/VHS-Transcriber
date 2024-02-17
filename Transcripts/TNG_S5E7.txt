@@ -4,7 +4,7 @@ Unification Part 1
 
 (RIP Gene Roddenberry 1921-1991 ~ thank you for all your work)
 
-Captain's log, stardate 45233.1. Our terraforming mission to Doraf One has been cancelled and the Enterprise recalled to Starbase two thirty four. Fleet Admiral Brackett would not discuss the matter on subspace for reasons she said would soon be clear.
+PICARD: Captain's log, stardate 45233.1. Our terraforming mission to Doraf One has been cancelled and the Enterprise recalled to Starbase two thirty four. Fleet Admiral Brackett would not discuss the matter on subspace for reasons she said would soon be clear.
 
 [Ready room]
 
@@ -16,7 +16,7 @@ PICARD: A defection?
 BRACKETT: If it is, the damage to Federation security would be immeasurable. Taken on Romulus, by long range scanner. Computer, enhance image in section four delta.
 (and there on LCARS 40275 are the unmistakable craggy features of a certain former Science Officer of the Enterprise)
 
-Captain's log, stardate 45236.4. As I study the intelligence reports on Ambassador Spock's disappearance, I cannot help but feel a deeper, more personal concern about this mission, for I know this man through his father. It was barely a year ago that I shared a mind meld with the Vulcan, Sarek. Now we must meet again as I attempt to find an explanation for his son's actions.
+PICARD: Captain's log, stardate 45236.4. As I study the intelligence reports on Ambassador Spock's disappearance, I cannot help but feel a deeper, more personal concern about this mission, for I know this man through his father. It was barely a year ago that I shared a mind meld with the Vulcan, Sarek. Now we must meet again as I attempt to find an explanation for his son's actions.
 
 [Observation lounge]
 
@@ -122,7 +122,7 @@ PICARD: Peace and long life.
 SAREK: Live long and and. Live long and. Spock. My son.
 PICARD: And prosper.
 
-Captain's log, stardate 45240.1. To cross the Neutral Zone, I will require a cloaked ship. To that end, I have set a course for the Klingon home world. After all we did for Gowron during the recent war, I am certain he will be happy to return a favour.
+PICARD: Captain's log, stardate 45240.1. To cross the Neutral Zone, I will require a cloaked ship. To that end, I have set a course for the Klingon home world. After all we did for Gowron during the recent war, I am certain he will be happy to return a favour.
 
 [Bridge]
 

@@ -483,7 +483,7 @@ PICARD [OC]: He has indeed, Commander. And believe me, it's good to be back.
 WORF: We have destroyed the target. There is no further indication of triolic activity.
 RIKER: Ensign, lay in a course to the nearest Starbase. Warp six.
 
-Captain's log, stardate 46001.3. Everyone who should be in the nineteenth century is safely there, and those who should be in the twenty fourth are here. Mister Data has been restored to us, head and all, and Samuel Clemens will write the books he was to have written after our encounter.
+PICARD: Captain's log, stardate 46001.3. Everyone who should be in the nineteenth century is safely there, and those who should be in the twenty fourth are here. Mister Data has been restored to us, head and all, and Samuel Clemens will write the books he was to have written after our encounter.
 
 [Cavern]
 

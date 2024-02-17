@@ -44,7 +44,7 @@ CLARK [on viewscreen]: I'm afraid not, Captain. It's under attack.
 PICARD: Under attack?
 CLARK [on viewscreen]: There's a mob outside the door, trying to break into the station. The planet is in chaos. Lootings, fires, mass hysteria. These people are all convinced their world is coming to an end. Tomorrow. Please, we must have your immediate
 
-Captain's log, stardate 44474.5. We have reached Ventax Two and are attempting to contact the Federation science station, which at last report was under siege by an angry mob.
+PICARD: Captain's log, stardate 44474.5. We have reached Ventax Two and are attempting to contact the Federation science station, which at last report was under siege by an angry mob.
 
 [Bridge]
 
@@ -210,7 +210,7 @@ ARDRA: Yes. When the contract came to term, I gained clear title to the planet, 
 DATA: I'm afraid the contract could be interpreted in that way, sir.
 (The bemused helmsman returns)
 
-Captain's log, supplemental. Although I consider this woman's claim upon my ship to be an empty threat, it has further inspired my determination to expose her for the fraud she is.
+PICARD: Captain's log, supplemental. Although I consider this woman's claim upon my ship to be an empty threat, it has further inspired my determination to expose her for the fraud she is.
 
 [Ready room]
 

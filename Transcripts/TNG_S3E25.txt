@@ -2,7 +2,7 @@ ST:TNG S3.25
 Star Trek:TNG S3.25
 Transfigurations
 
-Captain's Log, Stardate 43957.2. We are charting an unexplored star system within the Zeta Gelis cluster. This routine assignment has made for a refreshingly quiet time aboard the Enterprise.
+PICARD: Captain's log, Stardate 43957.2. We are charting an unexplored star system within the Zeta Gelis cluster. This routine assignment has made for a refreshingly quiet time aboard the Enterprise.
 [Ten Forward]
 
 LAFORGE: That's her.
@@ -118,7 +118,7 @@ JOHN: I am alive?
 CRUSHER: You certainly are.
 JOHN: Thank you for my life. Tell me, who am I?
 
-Captain's log, stardate 43960.6. Our mission to map the Zeta Gelis star cluster is proceeding on schedule. Meanwhile, Doctor Crusher reports that the recovery of the patient she has named John Doe continues at a remarkable pace.
+PICARD: Captain's log, stardate 43960.6. Our mission to map the Zeta Gelis star cluster is proceeding on schedule. Meanwhile, Doctor Crusher reports that the recovery of the patient she has named John Doe continues at a remarkable pace.
 
 [Sickbay - room four]
 

@@ -2,7 +2,7 @@ ST:TNG S4.21
 Star Trek:TNG S4.21
 The Drumhead
 
-Captain's Log, Stardate 44769.2. For some weeks we have had a Klingon exobiologist on board as part of a scientific exchange programme. Unfortunately, we suspect that he was involved in a security breach and in the possible sabotage of our warp drive.
+PICARD: Captain's log, Stardate 44769.2. For some weeks we have had a Klingon exobiologist on board as part of a scientific exchange programme. Unfortunately, we suspect that he was involved in a security breach and in the possible sabotage of our warp drive.
 [Interrogation room]
 
 (also the ship's theatre and meeting room)
@@ -39,7 +39,7 @@ WORF: I don't know how you transferred secret information to the Romulans, but I
 J'DAN: Pahtk!
 WORF: When we inform the Klingon High Council, they will put you to a slow death.
 
-Captain's log, supplemental. Retired Admiral Norah Satie, whose investigation exposed the alien conspiracy against Starfleet Command three years ago, is arriving to assist in our inquiry.
+PICARD: Captain's log, supplemental. Retired Admiral Norah Satie, whose investigation exposed the alien conspiracy against Starfleet Command three years ago, is arriving to assist in our inquiry.
 
 [Transporter room]
 
@@ -353,7 +353,7 @@ PIKER: Are you all right, Captain?
 PICARD: Yes, of course, Number One. Just a little preoccupied.
 NELLEN: Admiral Satie has ordered you to report to the interrogation room at oh nine hundred hours tomorrow morning. You are to be questioned before the committee.
 
-Captain's log, supplemental. Admiral Thomas Henry, who has worked closely with Norah Satie in the past, has arrived to observe the hearings.
+PICARD: Captain's log, supplemental. Admiral Thomas Henry, who has worked closely with Norah Satie in the past, has arrived to observe the hearings.
 
 [Interrogation room]
 

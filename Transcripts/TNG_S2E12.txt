@@ -3,7 +3,7 @@ Star Trek:TNG S2.12
 The Royale
 
 
-Captain's log, stardate 42625.4, We're entering orbit around the eighth planet in this previously unmapped Theta One Sixteen solar system. We diverted from our scheduled course when a passing Klingon cruiser reported discovering pieces of a strange vessel in the upper atmosphere of this planet. We have come to investigate.
+PICARD: Captain's log, stardate 42625.4, We're entering orbit around the eighth planet in this previously unmapped Theta One Sixteen solar system. We diverted from our scheduled course when a passing Klingon cruiser reported discovering pieces of a strange vessel in the upper atmosphere of this planet. We have come to investigate.
 [Bridge]
 
 LAFORGE: Nasty. Nitrogen, methane, liquid neon. Surface temperature minus two hundred and ninety one degrees Celsius. Winds up to three hundred and twelve metres per second.
@@ -246,7 +246,7 @@ RIKER: Granted.
 (The phaser has no effect on the wood)
 DATA: Sir, I can find no other exits. I believe we are trapped here.
 
-Captain's log, supplemental. We remain in orbit around Theta Eight, still out of contact with the away team.
+PICARD: Captain's log, supplemental. We remain in orbit around Theta Eight, still out of contact with the away team.
 
 [Bridge]
 

@@ -2,7 +2,7 @@ ST:TNG S6.07
 Star Trek:TNG S6.07
 Rascals
 
-Captain's log, stardate 46235.7 Ensign Ro, Keiko O'Brien, Guinan and I are returning to the Enterprise after a fascinating visit to the planet Marlonia.
+PICARD: Captain's log, stardate 46235.7 Ensign Ro, Keiko O'Brien, Guinan and I are returning to the Enterprise after a fascinating visit to the planet Marlonia.
 [Shuttlecraft]
 
 PICARD: And I found these pieces in the tertiary level of the dig. They're typical of second century Marlonian cookware. Look at those markings. They're very similar to early Taguan designs, but the patterns are more intricate, they're much closer to Buranian than Taguan.
@@ -531,7 +531,7 @@ LURIN: Come in.
 (Picard enters with a phaser)
 PICARD JR: I believe you're in my chair.
 
-Captain's log, stardate: 46236.3. We have taken Lurin and his men into custody. The Ferengi Alliance has quickly disavowed any knowledge of these renegades. With the mining operation closed and our crew back on board, we can now turn our attention to other problems.
+PICARD: Captain's log, stardate: 46236.3. We have taken Lurin and his men into custody. The Ferengi Alliance has quickly disavowed any knowledge of these renegades. With the mining operation closed and our crew back on board, we can now turn our attention to other problems.
 
 [Transporter room]
 

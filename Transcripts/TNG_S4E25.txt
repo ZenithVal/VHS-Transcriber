@@ -2,7 +2,7 @@ ST:TNG S4.25
 Star Trek:TNG S4.25
 In Theory
 
-Captain's log, stardate 44932.3 The Enterprise is preparing to enter the Mar Oscura, an unexplored dark matter nebula. Commander Data is modifying several new photon torpedoes for an experiment designed to elicit more information about this unusual phenomenon.
+PICARD: Captain's log, stardate 44932.3 The Enterprise is preparing to enter the Mar Oscura, an unexplored dark matter nebula. Commander Data is modifying several new photon torpedoes for an experiment designed to elicit more information about this unusual phenomenon.
 [Torpedo bay]
 
 DATA: The initial dispersal pattern should not be more than seven kilometres in diameter. Jenna?
@@ -362,7 +362,7 @@ LAFORGE: I think we have some structural damage between decks thirty six and thi
 LAFORGE: Van Mayter, you take access tube twenty three M and look at the bridge connectors. Thorne, I'll cover the aft section. You go down
 (Van Mayter, who had turned off down a corridor, screams. The men rush back to see just her upper torso sticking out of the decking)
 
-Captain's log, supplemental. This series of unexplained events has now resulted in the death of a crewmember, but it appears that Mister Data may have an explanation.
+PICARD: Captain's log, supplemental. This series of unexplained events has now resulted in the death of a crewmember, but it appears that Mister Data may have an explanation.
 
 [Observation lounge]
 

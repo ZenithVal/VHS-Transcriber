@@ -96,7 +96,7 @@ ROMULAN: Stop!
 ROMULAN: There.
 (Worf spots Shrek and his little ship but is jumped by Toq! He restrains from hurting the boy and the Romulans catch him)
 
-Captain's log, stardate 46759.2. The Yridian vessel Lieutenant Worf boarded at Deep Space Nine has failed to arrive for our scheduled rendezvous. It is now twelve hours overdue.
+PICARD: Captain's log, stardate 46759.2. The Yridian vessel Lieutenant Worf boarded at Deep Space Nine has failed to arrive for our scheduled rendezvous. It is now twelve hours overdue.
 
 [Bridge]
 
@@ -334,7 +334,7 @@ GI'RAL: Tokath. Long ago, when your captives asked to stay here, our hope was to
 WORF: Years ago, your parents made a great sacrifice for the sake of their families. Today, they do so again. For that, we must honour them. You must promise them never reveal to their secret. No one must know of this place.
 TOQ: A supply ship's due in a few days. They will take us. When they arrive, Tokath will explain it to them. Then we will start a new life.
 
-Captain's log, supplemental. Our search for Lieutenant Worf was cut short when we received a cryptic message from him requesting a rendezvous with a Romulan vessel. He has informed us we will be taking on passengers.
+PICARD: Captain's log, supplemental. Our search for Lieutenant Worf was cut short when we received a cryptic message from him requesting a rendezvous with a Romulan vessel. He has informed us we will be taking on passengers.
 
 [Transporter room]
 

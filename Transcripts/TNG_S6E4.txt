@@ -437,7 +437,7 @@ PICARD: Fire torpedoes.
 
 SCOTT: There now, that wasn't so bad, was it?
 
-Captain's log, stardate 46125.3. Starfleet has dispatched two science vessels to study the Dyson Sphere while we proceed to Starbase fifty five.
+PICARD: Captain's log, stardate 46125.3. Starfleet has dispatched two science vessels to study the Dyson Sphere while we proceed to Starbase fifty five.
 
 [Corridor]
 

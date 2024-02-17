@@ -23,7 +23,7 @@ RIKER: I'll bet they are.
 WORF: Computer. Programme complete. Save. Coming Commander?
 RIKER: Right behind you.
 
-Captain's log, Stardate 42193.6. We are on a long reach toward the Morgana Quadrant, a section of the galaxy which has yet to be visited by a manned Federation vessel. We are using the time to further detail the charts of this region.
+PICARD: Captain's log, Stardate 42193.6. We are on a long reach toward the Morgana Quadrant, a section of the galaxy which has yet to be visited by a manned Federation vessel. We are using the time to further detail the charts of this region.
 
 [Bridge]
 
@@ -89,7 +89,7 @@ DATA: Whatever it is, sir, we seem to be inside it.
 PICARD: It enveloped us. It moved. All stations, report.
 DATA: No response, Captain.
 
-Captain's log, supplemental. While exploring a strange void in space without any form of matter or energy, we have apparently moved past its outer boundary and entered it. After a brief disruption, our ship's communications have returned to normal.
+PICARD: Captain's log, supplemental. While exploring a strange void in space without any form of matter or energy, we have apparently moved past its outer boundary and entered it. After a brief disruption, our ship's communications have returned to normal.
 
 [Bridge]
 
@@ -208,7 +208,7 @@ RIKER: Captain, request permission to board on the Yamato with an away team. Per
 PICARD: Granted. Minimum complement.
 RIKER: Worf, you're with me.
 
-Captain's log, supplemental. We remain like a fly in amber, trapped in the void. We have encountered a vessel which appears to be the USS Yamato. All its systems are shown as functioning, yet it seems devoid of life. Commander Riker is leading an away team. Hopefully, the answer lies over there.
+PICARD: Captain's log, supplemental. We remain like a fly in amber, trapped in the void. We have encountered a vessel which appears to be the USS Yamato. All its systems are shown as functioning, yet it seems devoid of life. Commander Riker is leading an away team. Hopefully, the answer lies over there.
 
 [Transporter room]
 
@@ -413,7 +413,7 @@ PULASKI: He's gone.
 PICARD: We cannot allow you to do that! We will fight you.
 NAGILUM [on viewscreen]: To understand death, I must amass information on every aspect of it. Every kind of dying. The experiments shouldn't take more than a third of your crew, maybe half.
 
-Captain's log, Stardate 42194.7. It is obvious that whatever we have met sees no value in our kind of life form. How do we fight something that both is and is not there?
+PICARD: Captain's log, Stardate 42194.7. It is obvious that whatever we have met sees no value in our kind of life form. How do we fight something that both is and is not there?
 
 [Observation lounge]
 

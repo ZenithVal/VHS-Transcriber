@@ -2,7 +2,7 @@ ST:TNG S4.02
 Star Trek:TNG S4.02
 Family
 
-Captain's Log: Stardate 44012.3 The Enterprise remains docked at McKinley Station, undergoing a major overhaul and refit following the Borg incident. I am confident that the ship and her crew will soon be ready to return to service.
+PICARD: Captain's log: Stardate 44012.3 The Enterprise remains docked at McKinley Station, undergoing a major overhaul and refit following the Borg incident. I am confident that the ship and her crew will soon be ready to return to service.
 [Observation lounge]
 
 RIKER: Thank you. Please take that to Engineering.

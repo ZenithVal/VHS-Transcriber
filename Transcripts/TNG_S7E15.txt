@@ -571,7 +571,7 @@ TAURIK: We're also Starfleet Officers.
 OGAWA: I'm not allowed to talk about it.
 LAVELLE: Okay. I understand. I'd better get going. I've got duty in half an hour.
 
-Captain's log, stardate 47566.7. We have reached the coordinates in Federation space where Ensign Sito's escape pod was to have rendezvoused with us. However, we have been waiting for over thirty hours and as yet there is no sign of her.
+PICARD: Captain's log, stardate 47566.7. We have reached the coordinates in Federation space where Ensign Sito's escape pod was to have rendezvoused with us. However, we have been waiting for over thirty hours and as yet there is no sign of her.
 
 [Bridge]
 
@@ -590,7 +590,7 @@ PICARD: Mister Worf, prepare a probe and launch when ready.
 WORF: Aye, sir. Probe launched, sir.
 DATA: Sir, I am detecting signs of debris two hundred thousand kilometres inside Cardassian space. Its mass and composition indicate it could be the remains of a Federation escape pod.
 
-Captain's log, supplemental. We have intercepted a Cardassian report stating that a Bajoran prisoner escaped her captor and was killed in an evacuation pod as she tried to leave Cardassian space.
+PICARD: Captain's log, supplemental. We have intercepted a Cardassian report stating that a Bajoran prisoner escaped her captor and was killed in an evacuation pod as she tried to leave Cardassian space.
 
 [Ready room]
 

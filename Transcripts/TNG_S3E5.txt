@@ -27,7 +27,7 @@ CRUSHER: Away Team is aboard, Captain.
 
 CRUSHER [OC]: One dead on arrival.
 
-Captain's Log, stardate 43198.7. The Enterprise remains in standard orbit while we investigate the tragedy which has struck the away team. Lieutenant Marla Aster, ship's archaeologist, has been killed in what should have been a routine mission. Whatever the explanation, it will not bring back a valued and trusted officer.
+PICARD: Captain's log, stardate 43198.7. The Enterprise remains in standard orbit while we investigate the tragedy which has struck the away team. Lieutenant Marla Aster, ship's archaeologist, has been killed in what should have been a routine mission. Whatever the explanation, it will not bring back a valued and trusted officer.
 
 [Sickbay]
 

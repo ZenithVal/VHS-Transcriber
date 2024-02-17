@@ -30,7 +30,7 @@ WORF: Approximately thirteen hours.
 RIKER: Lay in a course for the Romulan ship. Let's put up shields and go to Red Alert. I want to be ready for anything.
 WORF: Aye, sir.
 
-Captain's log, stardate 46944.2. Commander Data, Mister La Forge, Counsellor Troi and I are en route to the Enterprise, after attending a three day conference on the psychological effects of long-term deep-space assignments.
+PICARD: Captain's log, stardate 46944.2. Commander Data, Mister La Forge, Counsellor Troi and I are en route to the Enterprise, after attending a three day conference on the psychological effects of long-term deep-space assignments.
 
 [Runabout cockpit]
 
@@ -410,7 +410,7 @@ PICARD: The breach never happens.
 DATA: I could attempt to remodulate the tricorder's delta-band emissions. It should be possible to better control the temporal aperture.
 PICARD: Make it so. If this works, we may not have much time to prevent the power transfer. We'll have to decide precisely where to be and what to do the very instant that time begins to move backwards.
 
-Captain's log, supplemental. After placing the modified tricorder on the Romulan ship, we have returned to the Enterprise.
+PICARD: Captain's log, supplemental. After placing the modified tricorder on the Romulan ship, we have returned to the Enterprise.
 
 [Bridge]
 
@@ -514,7 +514,7 @@ DATA: Judging from the residual temporal fluctuations, I believe they have retur
 RIKER: Captain?
 PICARD: It's going to take a little time to explain, Number One.
 
-Captain's log, stardate 46945.3. We successfully evacuated the crew of the Romulan ship, and we're on course to the Neutral Zone to bring them home.
+PICARD: Captain's log, stardate 46945.3. We successfully evacuated the crew of the Romulan ship, and we're on course to the Neutral Zone to bring them home.
 
 [Data's quarters]
 

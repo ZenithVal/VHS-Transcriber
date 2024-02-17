@@ -16,7 +16,7 @@ PICARD: Thank you, Mister Data.
 DATA: You are welcome, sir. If I can be of further assistance
 PICARD: No! Thank you.
 
-Captain's log, Stardate 43610.4. After completing a delivery of dicosilium to the Tanuga Four research station, our away team has received an update from Doctor Nel Apgar on his efforts to create Krieger Waves, a potentially valuable new power source.
+PICARD: Captain's log, Stardate 43610.4. After completing a delivery of dicosilium to the Tanuga Four research station, our away team has received an update from Doctor Nel Apgar on his efforts to create Krieger Waves, a potentially valuable new power source.
 
 [Bridge]
 
@@ -55,7 +55,7 @@ O'BRIEN: For a moment, we weren't sure you left the space station in time.
 RIKER: In time for what?
 O'BRIEN: It just exploded, sir.
 
-Captain's log, supplemental. Commander Riker has informed me that Doctor Apgar was the only one aboard the space station when it exploded. We remain in orbit investigating the accident.
+PICARD: Captain's log, supplemental. Commander Riker has informed me that Doctor Apgar was the only one aboard the space station when it exploded. We remain in orbit investigating the accident.
 
 [Transporter room]
 

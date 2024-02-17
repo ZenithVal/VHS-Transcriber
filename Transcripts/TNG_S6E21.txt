@@ -455,7 +455,7 @@ RIKER: Riker to Enterprise!
 WORF [OC]: Enterprise here. Are you all right, sir?
 RIKER: Emergency transport. Get me out of here.
 
-Captain's log, stardate 46778.1. Commander Riker has returned safely from his mission to Tilonus Four. Doctor Crusher has repaired the damage to his long-term memory.
+PICARD: Captain's log, stardate 46778.1. Commander Riker has returned safely from his mission to Tilonus Four. Doctor Crusher has repaired the damage to his long-term memory.
 
 [Ready room]
 

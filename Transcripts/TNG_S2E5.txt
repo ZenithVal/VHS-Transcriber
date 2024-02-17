@@ -2,7 +2,7 @@ ST:TNG S2.05
 Star Trek:TNG S2.05
 Loud As A Whisper
 
-Captain's log, Stardate 42477.2. The Enterprise has been diverted to the Ramatis star system. It seems that both sides of a bitter planetary conflict have petitioned Starfleet to transport to their world a mediator they have mutually selected. Our orders are transportation only, no interference.
+PICARD: Captain's log, Stardate 42477.2. The Enterprise has been diverted to the Ramatis star system. It seems that both sides of a bitter planetary conflict have petitioned Starfleet to transport to their world a mediator they have mutually selected. Our orders are transportation only, no interference.
 [Bridge]
 
 RIKER: Reduce to half impulse.
@@ -359,7 +359,7 @@ PICARD: Can you write it out? I am so sorry that your friends were killed. I'm s
 DATA: Aye, sir.
 PICARD: Counsellor, take him to Sickbay. Maybe Pulaski can help. (grabs Riva's head) Listen to me. You are not alone. Do you understand? We are all in this together now.
 
-Captain's log, supplemental. We are monitoring increased military activity on Solais Five. I fear that without Riva, we will be unable to keep the Solari from destroying themselves.
+PICARD: Captain's log, supplemental. We are monitoring increased military activity on Solais Five. I fear that without Riva, we will be unable to keep the Solari from destroying themselves.
 
 [Bridge]
 

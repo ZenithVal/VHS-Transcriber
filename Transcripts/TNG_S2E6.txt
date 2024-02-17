@@ -144,7 +144,7 @@ SELAR: I've checked twice to make certain. You have Darnay's disease. I'm sorry,
 KAREEN: Can't you do something for him?
 SELAR: In all cases, Darnay's is terminal.
 
-Captain's log, Stardate 42437.7. We've successfully repaired the stricken liner, Constantinople. Forty six of her people suffered injuries, mostly minor. They have been treated and supplied with the proper medicines. Our task complete, we are heading back to Gravesworld with great dispatch.
+PICARD: Captain's log, Stardate 42437.7. We've successfully repaired the stricken liner, Constantinople. Forty six of her people suffered injuries, mostly minor. They have been treated and supplied with the proper medicines. Our task complete, we are heading back to Gravesworld with great dispatch.
 
 [Graves' laboratory]
 
@@ -194,7 +194,7 @@ DATA: That will not be necessary, Doctor. He is gone.
 WORF: Gone?
 DATA: It happened just a few moments ago, in my arms. Ira Graves is dead.
 
-Captain's log, supplemental. I leave Gravesworld with an empty feeling and the knowledge that our mission was unsuccessful. Whatever scientific secrets Ira Graves was about to unlock have been lost forever. Our immediate priority is to reach the nearest starbase so that Graves' assistant can get on with her life.
+PICARD: Captain's log, supplemental. I leave Gravesworld with an empty feeling and the knowledge that our mission was unsuccessful. Whatever scientific secrets Ira Graves was about to unlock have been lost forever. Our immediate priority is to reach the nearest starbase so that Graves' assistant can get on with her life.
 
 [Ready room]
 
@@ -447,7 +447,7 @@ KAREEN: Captain. Captain, look at this.
 (Lines of text are scrolling down a screen)
 KAREEN: He's in there. Ira put himself in the computer.
 
-Captain's log, supplemental. We've said goodbye to Kareen Brianon, with the hopeful feeling that her future will be a bright one. The intellect of Ira Graves has been deposited into our computer. There is knowledge but no consciousness. The human equation has been lost.
+PICARD: Captain's log, supplemental. We've said goodbye to Kareen Brianon, with the hopeful feeling that her future will be a bright one. The intellect of Ira Graves has been deposited into our computer. There is knowledge but no consciousness. The human equation has been lost.
 
 [Bridge]
 

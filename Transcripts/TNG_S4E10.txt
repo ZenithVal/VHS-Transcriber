@@ -49,7 +49,7 @@ ALLENBY: Aye, sir.
 PICARD: Let's investigate both possibilities.
 (meanwhile, a suffering Troi finally passes out)
 
-Captain's log, stardate 44356.9. Sensor diagnostics have been completed and indicate that all systems are normal. There remains no explanation for the images which appeared in our path.
+PICARD: Captain's log, stardate 44356.9. Sensor diagnostics have been completed and indicate that all systems are normal. There remains no explanation for the images which appeared in our path.
 
 [Bridge]
 
@@ -403,7 +403,7 @@ RIKER: No wider than a proton but with gravitational fields as powerful as a bla
 DATA: The two-dimensional beings seem to be caught in the gravitational pull of the string. Their course is taking them directly toward it.
 RIKER: And us right along with them.
 
-Captain's log, stardate 44359.5. What began as a curious inconvenience has turned into a serious threat. At current speed, the two-dimensional beings and the Enterprise will be drawn into the cosmic string fragment in seven hours.
+PICARD: Captain's log, stardate 44359.5. What began as a curious inconvenience has turned into a serious threat. At current speed, the two-dimensional beings and the Enterprise will be drawn into the cosmic string fragment in seven hours.
 
 [Bridge]
 
@@ -446,7 +446,7 @@ PICARD: He has tried every technical means at our disposal to reach them.
 TROI: I wish I knew how to help, Captain, but under the circumstances
 PICARD: If there is a psychology to these creatures, we must discover it. If there is an explanation for their behaviour, we must know what it is. Even in your current condition, you are the most qualified person aboard this ship to assist. Data is in Observation attempting to formulate a strategy. I want you to join him. Deanna, we need you.
 
-Captain's log, supplemental. If our speed and course remain unchanged, in one hour the Enterprise will be torn apart by the gravitational forces of the cosmic string fragment.
+PICARD: Captain's log, supplemental. If our speed and course remain unchanged, in one hour the Enterprise will be torn apart by the gravitational forces of the cosmic string fragment.
 
 [Observation lounge]
 

@@ -54,7 +54,7 @@ BARCLAY: Well, I just feel more more comfortable playing somebody else. Maybe al
 TROI: I disagree. This isn't fantasy, it's theatre. You used to withdraw onto the holodeck. You isolated yourself inside your own imagination, avoiding contact with real people. Look at yourself now. Look at all the other people you're with. You're not just acting, you're interacting. Give yourself some credit, Mister Barclay.
 BARCLAY: Maybe you're right.
 
-Captain's log, stardate 44704.2. We have arrived at the Argus Array, a remote subspace telescope at the very edge of Federation space. The unmanned structure mysteriously stopped relaying its data nearly two months ago.
+PICARD: Captain's log, stardate 44704.2. We have arrived at the Argus Array, a remote subspace telescope at the very edge of Federation space. The unmanned structure mysteriously stopped relaying its data nearly two months ago.
 
 [Bridge]
 
@@ -93,7 +93,7 @@ LAFORGE: Hit it with a positron emission.
 LAFORGE: What was that? Computer's down, Reg. Reg?
 (but Barclay is spark out on the floor)
 
-Captain's log, supplemental. An intense energy surge from the alien probe has severely disabled the shuttle's onboard computer. The away team has been transported directly to Sickbay, where Lieutenant Barclay remains under observation.
+PICARD: Captain's log, supplemental. An intense energy surge from the alien probe has severely disabled the shuttle's onboard computer. The away team has been transported directly to Sickbay, where Lieutenant Barclay remains under observation.
 
 [Bridge]
 
@@ -192,7 +192,7 @@ PICARD: Thank you, Mister Barclay.
 BARCLAY: You're welcome, Captain. Barclay out. I'm sorry if I overstepped my authority.
 LAFORGE: (to himself) Don't mention it.
 
-Captain's log, stardate 44705.3. The Enterprise has destroyed the alien probe, but now we are left with the difficult task of repairing the Argus Telescope. Failure to do so would represent an incalculable scientific loss.
+PICARD: Captain's log, stardate 44705.3. The Enterprise has destroyed the alien probe, but now we are left with the difficult task of repairing the Argus Telescope. Failure to do so would represent an incalculable scientific loss.
 
 [Corridor]
 
@@ -549,7 +549,7 @@ BARCLAY: You're both on the same mission, Captain.
 PICARD: Mission?
 BARCLAY: Yes, sir. The Cytherians are exploring the galaxy just as we are. The only difference is that they never leave their home. They bring others here. Their only wish, an exchange of knowledge. They want to know us.
 
-Captain's log, stardate 44721.9. After ten days in the company of the Cytherians, the Enterprise has been safely returned to Federation space. We bring back knowledge of their race that will take our scholars decades to examine. Lieutenant Barclay is apparently no worse for his experience.
+PICARD: Captain's log, stardate 44721.9. After ten days in the company of the Cytherians, the Enterprise has been safely returned to Federation space. We bring back knowledge of their race that will take our scholars decades to examine. Lieutenant Barclay is apparently no worse for his experience.
 
 [Ten Forward]
 

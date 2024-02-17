@@ -2,7 +2,7 @@ ST:TNG S5.19
 Star Trek:TNG S5.19
 The First Duty
 
-Captain's log, stardate 45703.9. We are en route to Earth, where it will be my pleasant duty to deliver this year's commencement address at Starfleet Academy. I'm also looking forward to seeing Wesley Crusher again. His flight team will perform a demonstration near Saturn that will be transmitted to the graduation ceremonies.
+PICARD: Captain's log, stardate 45703.9. We are en route to Earth, where it will be my pleasant duty to deliver this year's commencement address at Starfleet Academy. I'm also looking forward to seeing Wesley Crusher again. His flight team will perform a demonstration near Saturn that will be transmitted to the graduation ceremonies.
 [Bridge]
 
 WORF: Captain, Starfleet Academy is requesting an update on our estimated arrival.

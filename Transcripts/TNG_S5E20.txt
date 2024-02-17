@@ -490,7 +490,7 @@ DATA: The plan was successful, sir.
 PICARD: Well done. Mister Worf, coordinate your teams with Doctor Crusher and Commander La Forge. Assess damage and injury.
 WORF: Aye, sir.
 
-Captain's log, stardate 45733.6. Temporary repairs to the ship have been completed. Our attention now turns to matters of a more festive nature.
+PICARD: Captain's log, stardate 45733.6. Temporary repairs to the ship have been completed. Our attention now turns to matters of a more festive nature.
 
 [Ten Forward]
 

@@ -332,7 +332,7 @@ LAFORGE: Damn. I'm sorry, Wesley.
 WESLEY: It's over. There's no way we'll get her back now.
 TRAVELLER: (phasing in) It's not over, Wesley. There's still a way.
 
-Captain's log, stardate 44162.5. Two attempts to retrieve Doctor Crusher have failed. And now, the Traveller, a mysterious visitor from our past, has reappeared.
+PICARD: Captain's log, stardate 44162.5. Two attempts to retrieve Doctor Crusher have failed. And now, the Traveller, a mysterious visitor from our past, has reappeared.
 
 [Observation lounge]
 
@@ -384,7 +384,7 @@ COMPUTER: State new destination or coordinates.
 CRUSHER: I stated it, damn it. Tau Alpha C.
 COMPUTER: There is no Tau Alpha C listed on current star maps.
 
-Captain's log, stardate 44162.8. At the direction of the Traveller, the Enterprise is returning to Starbase one three three and the precise position where the subspace bubble was formed.
+PICARD: Captain's log, stardate 44162.8. At the direction of the Traveller, the Enterprise is returning to Starbase one three three and the precise position where the subspace bubble was formed.
 
 [Engineering]
 

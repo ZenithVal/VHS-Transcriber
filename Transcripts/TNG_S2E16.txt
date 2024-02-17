@@ -223,7 +223,7 @@ GUINAN: Yes.
 RIKER: What can you tell us?
 GUINAN: Only that if I were you, I'd start back now.
 
-Captain's log, stardate 42761.9. Despite Guinan's warning, I feel compelled to investigate this unexplored sector of the galaxy before heading back.
+PICARD: Captain's log, stardate 42761.9. Despite Guinan's warning, I feel compelled to investigate this unexplored sector of the galaxy before heading back.
 
 [Bridge]
 
@@ -397,7 +397,7 @@ RIKER: Mister Worf, transporter room three. Data.
 GUINAN: I wouldn't go there if I were you.
 RIKER: Oh, I don't know, Guinan. They paid us a visit. It seems only fair that we return the courtesy.
 
-Captain's log, supplemental. We have been attacked without provocation by an alien race which Guinan calls the Borg. It appears that we have neutralised their vessel. Commander Riker is leading an away team in an attempt to learn more about them.
+PICARD: Captain's log, supplemental. We have been attacked without provocation by an alien race which Guinan calls the Borg. It appears that we have neutralised their vessel. Commander Riker is leading an away team in an attempt to learn more about them.
 
 [Transporter room]
 
@@ -492,7 +492,7 @@ LAFORGE [OC]: Bridge, this is Engineering. We are now at warp nine point six fiv
 WORF: The Borg are still gaining.
 Q: They will follow this ship until you exhaust your fuel. They will wear down your defences. Then you will be theirs. Admit it, Picard. You're out of your league. You should have stayed where you belonged.
 
-Captain's log supplemental. We are unable to maintain the gap between the Enterprise and the Borg ship.
+PICARD: Captain's log supplemental. We are unable to maintain the gap between the Enterprise and the Borg ship.
 
 [Bridge]
 

@@ -35,7 +35,7 @@ PICARD [OC]: Picard to Riker.
 RIKER: Captain?
 PICARD [OC]: We've received a distress call. We're changing course to intercept.
 
-Captain's log, stardate 44215.2. The Enterprise has bypassed its scheduled archaeological survey of Camus Two in response to a distress call from the Federation freighter Arcos, which has assumed an emergency orbit around Turkana Four, birthplace of our late comrade, Tasha Yar.
+PICARD: Captain's log, stardate 44215.2. The Enterprise has bypassed its scheduled archaeological survey of Camus Two in response to a distress call from the Federation freighter Arcos, which has assumed an emergency orbit around Turkana Four, birthplace of our late comrade, Tasha Yar.
 
 [Bridge]
 
@@ -74,7 +74,7 @@ RIKER: They haven't been able to maintain reliable communications since their go
 DATA: The last Federation vessel to make contact was the Potemkin, six years ago. They were warned that anyone transporting down to the colony would be killed.
 PICARD: Number One, ready an away team.
 
-Captain's log, supplemental. We are in orbit above Turkana Four, an Earth colony that severed relations with the Federation nearly fifteen years ago. I am concerned about sending an away team, but if we are to discover the fate of the two missing Federation crewmen, I see no alternative.
+PICARD: Captain's log, supplemental. We are in orbit above Turkana Four, an Earth colony that severed relations with the Federation nearly fifteen years ago. I am concerned about sending an away team, but if we are to discover the fate of the two missing Federation crewmen, I see no alternative.
 
 [Transporter room]
 
@@ -421,7 +421,7 @@ ISHARA: That would probably make things a little easier.
 HAYNE [on monitor]: Report.
 ISHARA: It's working.
 
-Captain's log, stardate 44225.3. Doctor Crusher has successfully removed Ishara's magnetic implant, enabling the young woman to guide our rescue attempt. Without my intending it, she has virtually become an active member of the crew.
+PICARD: Captain's log, stardate 44225.3. Doctor Crusher has successfully removed Ishara's magnetic implant, enabling the young woman to guide our rescue attempt. Without my intending it, she has virtually become an active member of the crew.
 
 [Sickbay]
 

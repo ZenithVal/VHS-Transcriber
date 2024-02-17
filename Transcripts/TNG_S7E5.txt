@@ -204,7 +204,7 @@ TALLERA: My orders are to find that assassin and stop him.
 PICARD: It would seem that Baran has to deliver these artefacts to the assassin in order to get paid. Therefore, you and I should continue our masquerade.
 TALLERA: Agreed. But Captain, I cannot allow the resonator to be assembled. If necessary, I will destroy this ship, its crew, all of us to prevent that from happening.
 
-Acting Captain's log, stardate 47160.1. The Enterprise is entering the Hyralan Sector, which I believe to be the next destination of the mercenary ship.
+Acting PICARD: Captain's log, stardate 47160.1. The Enterprise is entering the Hyralan Sector, which I believe to be the next destination of the mercenary ship.
 
 [Bridge]
 
@@ -416,7 +416,7 @@ PICARD: Think, Tallera. Two thousand years ago your people were being consumed b
 PICARD: You were right, Tallera. The resonator cannot be stopped by phasers and shields, but it can be defeated by peace.
 (she tries again, but it's a very small field that passes through Picard before he takes the device from her hands)
 
-Captain's log, stardate 47169.2. Security Minister Satok has taken Tallera into custody and begun a search for the rest of the isolationists.
+PICARD: Captain's log, stardate 47169.2. Security Minister Satok has taken Tallera into custody and begun a search for the rest of the isolationists.
 
 [Corridor]
 

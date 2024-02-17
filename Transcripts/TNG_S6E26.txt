@@ -107,7 +107,7 @@ DATA: Yes, sir.
 RIKER: What happened?
 DATA: I got angry. 😱😱🙂🙂
 
-Captain's log, stardate 46982.1. Because of his unusual behaviour on the planet surface, Commander Data has asked to be temporarily relieved of duty. Unfortunately, this means he will not be able to help us investigate a disturbing new change in the behaviour of the Borg.
+PICARD: Captain's log, stardate 46982.1. Because of his unusual behaviour on the planet surface, Commander Data has asked to be temporarily relieved of duty. Unfortunately, this means he will not be able to help us investigate a disturbing new change in the behaviour of the Borg.
 
 [Observation lounge]
 
@@ -145,7 +145,7 @@ LAFORGE: Well, let's say you're right and this is a real emotion. How is that po
 DATA: I do not know. Perhaps I have evolved to the point where emotions are within my grasp. Perhaps I will experience other emotions as time goes by.
 LAFORGE: Well, I hope you're right. I'd hate to think that anger is all you're capable of feeling.
 
-Captain's log, stardate 46984.6. No additional Borg attacks have been reported in the past two days. However, Starfleet has dispatched Admiral Nechayev to take command in this sector in preparation for a possible Borg invasion.
+PICARD: Captain's log, stardate 46984.6. No additional Borg attacks have been reported in the past two days. However, Starfleet has dispatched Admiral Nechayev to take command in this sector in preparation for a possible Borg invasion.
 
 [Ready room]
 
@@ -197,7 +197,7 @@ RIKER: Third time today. Stand down Red alert. Reduce speed. Return to our patro
 PICARD: Mister Worf, acknowledge the signal from New Berlin and transmit another copy of Starfleet's ship-recognition protocols and tell them to read it this time.
 WORF: Aye, sir.
 
-Captain's log, supplemental. We have been on patrol for sixteen hours, and there are no reports of further Borg activity. But tensions continue to run high on the colonies and outposts in this sector.
+PICARD: Captain's log, supplemental. We have been on patrol for sixteen hours, and there are no reports of further Borg activity. But tensions continue to run high on the colonies and outposts in this sector.
 
 [Ready room]
 

@@ -27,7 +27,7 @@ RIKER: They've never come out this far before.
 PICARD: Mister Crusher, set course for the Acamar system.
 WESLEY [OC]: Aye, sir.
 
-Captain's log, Stardate 43421.9. In an effort to put an end to the Gatherer raids, we have come to the Acamar System to enlist the aid of Marouk, the Sovereign of Acamar Three.
+PICARD: Captain's log, Stardate 43421.9. In an effort to put an end to the Gatherer raids, we have come to the Acamar System to enlist the aid of Marouk, the Sovereign of Acamar Three.
 
 [Observation lounge]
 

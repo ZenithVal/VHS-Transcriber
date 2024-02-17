@@ -2,7 +2,7 @@ ST:TNG S2.14
 Star Trek:TNG S2.14
 The Icarus Factor
 
-Captain's log, Stardate 42686.4. We are en route to Starbase Montgomery for engineering consultations prompted by minor readout anomalies.
+PICARD: Captain's log, Stardate 42686.4. We are en route to Starbase Montgomery for engineering consultations prompted by minor readout anomalies.
 [Engineering]
 
 DATA: I would consider them insignificant.

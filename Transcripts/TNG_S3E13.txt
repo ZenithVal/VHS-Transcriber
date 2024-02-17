@@ -2,7 +2,7 @@ ST:TNG S1.13
 Star Trek:TNG S3.13
 Deja Q
 
-Captain's log, Stardate 43539.1. We have moved into orbit around Bre'el Four. With the assistance of the planet's emergency control centre, we're investigating a potentially catastrophic threat to the population from a descending asteroidal moon.
+PICARD: Captain's log, Stardate 43539.1. We have moved into orbit around Bre'el Four. With the assistance of the planet's emergency control centre, we're investigating a potentially catastrophic threat to the population from a descending asteroidal moon.
 [Bridge]
 
 DATA: The satellite's trajectory is continuing to deteriorate, Captain. This orbit will put it within five hundred kilometres of the planet surface.
@@ -53,7 +53,7 @@ WORF: The sound is not registering, Commander.
 PICARD: Q!
 Q: Red alert.
 
-Captain's log, supplemental. We are no closer to finding a solution to the deteriorating orbit of the Bre'el Four moon, but with the arrival of Q, we now have a good idea of the cause.
+PICARD: Captain's log, supplemental. We are no closer to finding a solution to the deteriorating orbit of the Bre'el Four moon, but with the arrival of Q, we now have a good idea of the cause.
 
 [Bridge]
 
@@ -329,7 +329,7 @@ WORF: The added harmonics are blocking the tachyon field.
 Q: Help me! Somebody, help me!
 GUINAN: How the mighty have fallen.
 
-Captain's log, supplemental. We have sustained light damage from an attack by an alien species known as the Calamarain. They apparently have a grievance with Q. No doubt one of many lifeforms that do.
+PICARD: Captain's log, supplemental. We have sustained light damage from an attack by an alien species known as the Calamarain. They apparently have a grievance with Q. No doubt one of many lifeforms that do.
 
 [Observation lounge]
 

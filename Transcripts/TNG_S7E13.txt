@@ -2,7 +2,7 @@ ST:TNG S7.13
 Star Trek:TNG S7.13
 Homeward
 
-Captain's log, stardate 47423.9. We have arrived at Boraal Two in response to an emergency distress call from Lieutenant Worf's foster brother, Nikolai Rozhenko. He has been stationed on the planet as a cultural observer.
+PICARD: Captain's log, stardate 47423.9. We have arrived at Boraal Two in response to an emergency distress call from Lieutenant Worf's foster brother, Nikolai Rozhenko. He has been stationed on the planet as a cultural observer.
 [Bridge]
 
 PICARD: Analysis. Mister Data.
@@ -427,7 +427,7 @@ WORF: Commander, energise.
 WORF: The storms will not return.
 NIKOLAI: As I said he would, my brother Worf has saved us all.
 
-Captain's log, stardate 47427.2. The Boraalans have safely reached the site of what will eventually become their new village. None of them suspects they ever left their planet. However, our success has come at a high price.
+PICARD: Captain's log, stardate 47427.2. The Boraalans have safely reached the site of what will eventually become their new village. None of them suspects they ever left their planet. However, our success has come at a high price.
 
 [Vorin's quarters]
 

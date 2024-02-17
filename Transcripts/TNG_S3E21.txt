@@ -38,7 +38,7 @@ LAFORGE: I don't want to hear it. Now, we're having an intermittent problem with
 RIKER: Mister Barclay, I'm tired of seeing your name on report. I don't know what you got away with at your last posting, but this is the Enterprise. We set a different standard here. Understood?
 BARCLAY: Understood, sir.
 
-Captain's log, Stardate 43807.4. We are taking on a load of special tissue samples donated by the Mikulaks for shipment to Nahmi Four. The samples could prove vital to the containment of an outbreak of Correllium Fever on that world.
+PICARD: Captain's log, Stardate 43807.4. We are taking on a load of special tissue samples donated by the Mikulaks for shipment to Nahmi Four. The samples could prove vital to the containment of an outbreak of Correllium Fever on that world.
 
 [Cargo bay]
 

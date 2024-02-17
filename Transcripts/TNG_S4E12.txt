@@ -2,7 +2,7 @@ ST:TNG S4.12
 Star Trek:TNG S4.12
 The Wounded
 
-Captain's log, stardate 44429.6. We are on a mapping survey near the Cardassian sector. It has been nearly a year since a peace treaty ended the long conflict between the Federation and Cardassia.
+PICARD: Captain's log, stardate 44429.6. We are on a mapping survey near the Cardassian sector. It has been nearly a year since a peace treaty ended the long conflict between the Federation and Cardassia.
 [Bridge]
 
 DATA: Captain, we are nearing the periphery of Sector twenty one five oh three.
@@ -105,7 +105,7 @@ MACET: I am Gul Macet. My aides, Glinn Daro, Glinn Telle.
 RIKER: This is our Transporter Chief, Mister O'Brien. Shall we?
 (Troi gives O'Brien a concerned look)
 
-Captain's Log, supplemental. We have entered Cardassian territory, and are proceeding on our quest to locate the Phoenix.
+PICARD: Captain's log, supplemental. We have entered Cardassian territory, and are proceeding on our quest to locate the Phoenix.
 
 [Observation lounge]
 
@@ -273,7 +273,7 @@ DATA [OC]: Bridge to Captain.
 PICARD: Picard here.
 DATA [OC]: We have located the Phoenix, sir. We will intercept it in twenty two minutes.
 
-Captain's log, stardate 44431.7. We have established communication with Captain Maxwell, and he has agreed to come on board.
+PICARD: Captain's log, stardate 44431.7. We have established communication with Captain Maxwell, and he has agreed to come on board.
 
 [Transporter room]
 
@@ -333,7 +333,7 @@ MAXWELL: Yes, Captain.
 PICARD: Mister Worf, report to my Ready room. My guest is departing.
 WORF [OC]: Aye, sir.
 
-Captain's log, supplemental. With the Phoenix in close formation, we are proceeding directly to Starbase two one one.
+PICARD: Captain's log, supplemental. With the Phoenix in close formation, we are proceeding directly to Starbase two one one.
 
 [Bridge]
 
@@ -419,7 +419,7 @@ O'BRIEN: One faithful harp shall praise thee.
 MAXWELL: I'm not going to win this one, am I. Chief?
 O'BRIEN: No, sir.
 
-Captain's log, supplemental. Captain Maxwell has turned his ship over to his First Officer and transported aboard the Enterprise. I have confined him to quarters for the return voyage.
+PICARD: Captain's log, supplemental. Captain Maxwell has turned his ship over to his First Officer and transported aboard the Enterprise. I have confined him to quarters for the return voyage.
 
 [Observation lounge]
 

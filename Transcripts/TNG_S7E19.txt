@@ -46,7 +46,7 @@ CRUSHER: Oh, Alyssa, that's wonderful! How did Andrew take the news?
 OGAWA: He was a little shocked, but he's getting over it.
 DATA: I have spent the past nine weeks as an expectant parent. I would be happy to share my insights with your husband. If my experience is any indication, he will need all the help he can get.
 
-Captain's log, stardate 47653.2. We're performing field tests of our new tactical systems and weapon upgrades. Mister Worf is supervising the exercises.
+PICARD: Captain's log, stardate 47653.2. We're performing field tests of our new tactical systems and weapon upgrades. Mister Worf is supervising the exercises.
 
 [Bridge]
 
@@ -218,7 +218,7 @@ RIKER: Computer.
 COMPUTER: Awaiting authorisation.
 (too late, he's off with the fairies)
 
-Captain's log, supplemental. Commander Data and I have recovered the stray torpedo after a three day search. We are enroute back to the Enterprise.
+PICARD: Captain's log, supplemental. Commander Data and I have recovered the stray torpedo after a three day search. We are enroute back to the Enterprise.
 
 [Shuttlecraft]
 
@@ -444,7 +444,7 @@ PICARD [OC]: Yes, I'm
 
 PICARD: Fine, Mister Data. Proceed. (Worf snores) Well, Mister Worf, let's hope that when you wake up, you're a new man.
 
-Captain's log, supplemental. Commander Data has succeeded in returning the crew to normal. Doctor Crusher has determined that the synthetic T-cell she used to cure Mister Barclay's Urodelan flu initiated the intron virus which swept through the ship.
+PICARD: Captain's log, supplemental. Commander Data has succeeded in returning the crew to normal. Doctor Crusher has determined that the synthetic T-cell she used to cure Mister Barclay's Urodelan flu initiated the intron virus which swept through the ship.
 
 [Sickbay]
 

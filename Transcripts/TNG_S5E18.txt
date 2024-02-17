@@ -15,7 +15,7 @@ DATA: Ejection systems offline. Core breach is imminent.
 PICARD: All hands abandon ship. Repeat, all hands abandon
 (KaBOOM!!!!)
 
-Captain's log, stardate 45652.1. The Enterprise has entered an area of space known as the Typhon Expanse. We're the first Starfleet vessel to chart this unexplored region.
+PICARD: Captain's log, stardate 45652.1. The Enterprise has entered an area of space known as the Typhon Expanse. We're the first Starfleet vessel to chart this unexplored region.
 
 [Someone's quarters]
 
@@ -140,7 +140,7 @@ DATA: Ejection systems are offline. Core breach is imminent.
 PICARD: All hands, abandon ship! Repeat, all hands abandon
 (KaBOOM!!!!)
 
-Captain's log, stardate 45652.1. The Enterprise has entered an area of space known as the Typhon Expanse. We are the first Starfleet vessel to chart this unexplored region.
+PICARD: Captain's log, stardate 45652.1. The Enterprise has entered an area of space known as the Typhon Expanse. We are the first Starfleet vessel to chart this unexplored region.
 
 [Someone's quarters]
 
@@ -245,7 +245,7 @@ DATA: Ejector systems are offline. Core breach is imminent
 PICARD: (to comm.) All hands abandon ship. Repeat, all hands abandon
 (KaBOOM!!!!)
 
-Captain's log, stardate 45652.1. The Enterprise has entered an area of space known as the Typhon Expanse. We are the first Starfleet vessel to chart this unexplored region.
+PICARD: Captain's log, stardate 45652.1. The Enterprise has entered an area of space known as the Typhon Expanse. We are the first Starfleet vessel to chart this unexplored region.
 
 [Somebody's quarters]
 
@@ -393,7 +393,7 @@ DATA: Ejection systems are offline. Core breach is imminent.
 PICARD: All hands abandon ship. Repeat, all hands abandon
 (KaBOOM!!!!)
 
-Captain's log, stardate 45652.1. The Enterprise has entered an area of space known as the Typhon Expanse. We are the first Starfleet vessel to chart this unexplored region.
+PICARD: Captain's log, stardate 45652.1. The Enterprise has entered an area of space known as the Typhon Expanse. We are the first Starfleet vessel to chart this unexplored region.
 
 [Someone's quarters]
 

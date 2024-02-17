@@ -2,7 +2,7 @@ ST:TNG S6.08
 Star Trek:TNG S6.08
 A Fistful of Datas
 
-Captain's log, stardate 46271.5. The Enterprise has entered orbit of Deinonychus Seven, but our scheduled rendezvous with the supply ship Biko has been delayed for another forty eight hours. In the meantime, many members of the crew are taking advantage of the delay to pursue their own projects, myself included.
+PICARD: Captain's log, stardate 46271.5. The Enterprise has entered orbit of Deinonychus Seven, but our scheduled rendezvous with the supply ship Biko has been delayed for another forty eight hours. In the meantime, many members of the crew are taking advantage of the delay to pursue their own projects, myself included.
 [Picard's quarters]
 
 (Picard has dug out his Ressikan flute)
@@ -295,7 +295,7 @@ DATA-ELI: Temper, temper, Sheriff. My pa ain't going to like if I come home all 
 TROI: Worf, wait. We have to remember, even though the holodeck safeguards may be off, this is still a programme. If we can just get to the end of this story the way it was designed to play out, the programme will automatically terminate.
 WORF: You are right. I will begin by speaking to the people of this town. Perhaps someone witnessed Alexander's abduction.
 
-Captain's log, supplemental. Commander La Forge and Mister Data believe they have found the cause of the mysterious malfunctions which have been plaguing the ship.
+PICARD: Captain's log, supplemental. Commander La Forge and Mister Data believe they have found the cause of the mysterious malfunctions which have been plaguing the ship.
 
 [Observation lounge]
 
@@ -410,7 +410,7 @@ DATA-ANNIE: Sheriff! You're as handy with a shooting iron as you are with a woma
 WORF: (panic-stricken) Computer, end programme! Computer! Now!
 (Annie hugs him, and the programme ends. Worf is visibly relieved)
 
-Captain's log, stardate 46278.3. Both Commander Data and the ship's computer have been restored to normal operation. Our rendezvous with the supply ship Biko has proceeded as planned.
+PICARD: Captain's log, stardate 46278.3. Both Commander Data and the ship's computer have been restored to normal operation. Our rendezvous with the supply ship Biko has proceeded as planned.
 
 [Alexander's bedroom]
 

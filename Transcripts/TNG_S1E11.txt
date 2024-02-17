@@ -112,7 +112,7 @@ Q: Into nothingness. I entreat you to carefully obey the rules of the game. The 
 [Bridge]
 
 PICARD: Captain's log
-COMPUTER: Captain's log
+COMPUTER: PICARD: Captain's log
 PICARD: Damn it. I can't even make a log entry.
 TASHA: I wish I could help you, Captain. 
 PICARD: Where is everyone else?

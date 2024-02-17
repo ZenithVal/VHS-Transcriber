@@ -21,7 +21,7 @@ WORF: They're closing on us!
 KURN: Stand by. DaH!
 (their entry into warp pulls a solar out which destroys one of their pursuers)
 
-Captain's log, stardate 45020.4. We have arrived at Starbase two thirty four, where I have taken the opportunity to make a proposal to Fleet Admiral Shanthi.
+PICARD: Captain's log, stardate 45020.4. We have arrived at Starbase two thirty four, where I have taken the opportunity to make a proposal to Fleet Admiral Shanthi.
 
 [Observation lounge]
 
@@ -41,7 +41,7 @@ SHANTHI: I'll have to clear this with the Federation Council. In the meantime, a
 RIKER: Nicely done. I hope we know what we're doing.
 PICARD: So do I, Number One.
 
-Captain's log, stardate 45021.3. Convincing Starfleet Command to establish a blockade was relatively painless. Implementing that plan is proving more troublesome.
+PICARD: Captain's log, stardate 45021.3. Convincing Starfleet Command to establish a blockade was relatively painless. Implementing that plan is proving more troublesome.
 
 [Ready room]
 

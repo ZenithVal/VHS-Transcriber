@@ -36,7 +36,7 @@ LWAXANA: You just think of me as your Entertainment Director.
 (Picard, Lwaxana and Timicin leave)
 LAFORGE: That man is in a lot of trouble.
 
-Captain's Log. Stardate 44805.7. For generations, the people of Kaelon Two have been working to revitalise their dying sun. The Federation has offered to assist in testing what may be a solution to this problem.
+PICARD: Captain's log. Stardate 44805.7. For generations, the people of Kaelon Two have been working to revitalise their dying sun. The Federation has offered to assist in testing what may be a solution to this problem.
 
 [Observation lounge]
 
@@ -104,7 +104,7 @@ TIMICIN: You are delightful. You make me laugh. I mean, I don't mean your invita
 LWAXANA: Just say yes. I'll make you laugh some more.
 TIMICIN: I wish I could. But I must say no. Goodnight, Lwaxana.
 
-Captain's log, stardate 44807.5. The Enterprise has arrived at the Praxillus system, where we will conduct Doctor Timicin's helium ignition test.
+PICARD: Captain's log, stardate 44807.5. The Enterprise has arrived at the Praxillus system, where we will conduct Doctor Timicin's helium ignition test.
 
 [Lwaxana's quarters]
 
@@ -228,7 +228,7 @@ TIMICIN: No. Please stay. I wanted to tell you how much I wish we had met years 
 LWAXANA: What difference do a few years make?
 TIMICIN: Unfortunately, a great deal. You see, Lwaxana, I'm on my way home now to die.
 
-Captain's log, stardate 44812.6. We have returned to Kaelon Two, and established contact with Science Minister B'tardat.
+PICARD: Captain's log, stardate 44812.6. We have returned to Kaelon Two, and established contact with Science Minister B'tardat.
 
 [Ready room]
 

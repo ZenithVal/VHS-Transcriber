@@ -53,7 +53,7 @@ RIKER [OC]: All sections ready to begin the survey, sir.
 PICARD: Very good. I'm on my way. Thank you.
 CRUSHER: Don't forget the trip, Jean-Luc. Think about it. You never know who you'll meet on the Orient Express.
 
-Captain's log, stardate 47869.2. After weathering an unexpected magnascopic storm in the Mekorda Sector, we are continuing our search for new Federation colony sites.
+PICARD: Captain's log, stardate 47869.2. After weathering an unexpected magnascopic storm in the Mekorda Sector, we are continuing our search for new Federation colony sites.
 
 [Bridge]
 
@@ -571,7 +571,7 @@ LAFORGE: Captain.
 
 (it's a champagne send-off for baby, and as they sip their drinks, Troi, Worf and Data are in an empty holodeck)
 
-Captain's log, supplemental. The Enterprise is back under our control. All traces of the emergent intelligence are gone and the object it created has disappeared into space.
+PICARD: Captain's log, supplemental. The Enterprise is back under our control. All traces of the emergent intelligence are gone and the object it created has disappeared into space.
 
 [Ready room]
 

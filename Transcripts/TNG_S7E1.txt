@@ -51,7 +51,7 @@ DATA: The Borg aspire to the perfection my Brother and I represent. Fully artifi
 LORE: The reign of biological life forms is coming to an end. You, Picard, and those like you are obsolete. Take them, brother.
 (Lore takes the phasers away)
 
-Acting Captain's log, supplemental. The skeleton crew left on board the Enterprise is unable to help in the search for Commander Data. The planet's unusual EM field is interfering with the ship's sensors, severely limiting their effectiveness.
+Acting PICARD: Captain's log, supplemental. The skeleton crew left on board the Enterprise is unable to help in the search for Commander Data. The planet's unusual EM field is interfering with the ship's sensors, severely limiting their effectiveness.
 
 [Bridge]
 
@@ -538,7 +538,7 @@ HUGH: Perhaps in time, we will learn to function as individuals and work togethe
 PICARD: Good luck, Hugh.
 HUGH: Goodbye.
 
-Captain's log, stardate 47025.4. We have returned to Federation Space and are en route to Starbase two nine five. Mister La Forge remains under Doctor Crusher's care.
+PICARD: Captain's log, stardate 47025.4. We have returned to Federation Space and are en route to Starbase two nine five. Mister La Forge remains under Doctor Crusher's care.
 
 [Data's quarters]
 

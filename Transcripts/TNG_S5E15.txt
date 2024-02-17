@@ -2,7 +2,7 @@ ST:TNG S5.15
 Star Trek:TNG S5.15
 Power Play
 
-Captain's log, stardate 45571.2. We are going into orbit around an unexplored M-class moon of Mab-Bu Six. Though the moon was reported to be uninhabited, we have picked up a weak distress call.
+PICARD: Captain's log, stardate 45571.2. We are going into orbit around an unexplored M-class moon of Mab-Bu Six. Though the moon was reported to be uninhabited, we have picked up a weak distress call.
 [Bridge]
 
 DATA: The intense electromagnetic whirlwinds on the moon's surface make it virtually impossible to locate the source of the signal, Captain.
@@ -252,7 +252,7 @@ PICARD: Picard to Worf. Report.
 PICARD [OC]: Mister Worf acknowledge. Can you hear me, Mister Worf?
 TROI: Yes, Bridge. He can hear you.
 
-Captain's log, supplemental. Following an aborted attempt to take control of the Bridge, Counsellor Troi, Mister Data, and Chief O'Brien have seized Ten Forward.
+PICARD: Captain's log, supplemental. Following an aborted attempt to take control of the Bridge, Counsellor Troi, Mister Data, and Chief O'Brien have seized Ten Forward.
 
 [Bridge]
 
@@ -714,7 +714,7 @@ CRUSHER [OC]: On our way, Captain.
 PICARD: Mister Worf, prepare to transport these prisoners back down to the moon's surface.
 WORF: Gladly, sir.
 
-Captain's log, stardate 45572.1. Doctor Crusher has examined Troi, Data and O'Brien. There seem to be no residual effects from their experience.
+PICARD: Captain's log, stardate 45572.1. Doctor Crusher has examined Troi, Data and O'Brien. There seem to be no residual effects from their experience.
 
 [Corridor]
 

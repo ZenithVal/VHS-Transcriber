@@ -2,7 +2,7 @@ ST:TNG S4.03
 Star Trek:TNG S4.03
 Brothers
 
-Captain's log, Stardate 44085.7. Due to a medical emergency, we have been forced to cut short a two day liberty on Ogus Two and set course for Starbase four one six. It seems a young man's practical joke has come dangerously close to a lethal conclusion.
+PICARD: Captain's log, Stardate 44085.7. Due to a medical emergency, we have been forced to cut short a two day liberty on Ogus Two and set course for Starbase four one six. It seems a young man's practical joke has come dangerously close to a lethal conclusion.
 [Observation lounge]
 
 (Troi escorts a teenager into the room)
@@ -524,7 +524,7 @@ DATA: Then it is alright for you to die, because I will remain alive. You know t
 SOONG: You will, in your own way. Goodbye. Goodbye, Data.
 DATA: Goodbye, Father.
 
-Captain's log, Stardate 44091.1. We have been at Starbase four one six for three days. Young Willie Potts is responding well to treatment and has been returned to the Enterprise.
+PICARD: Captain's log, Stardate 44091.1. We have been at Starbase four one six for three days. Young Willie Potts is responding well to treatment and has been returned to the Enterprise.
 
 [Corridor]
 

@@ -2,7 +2,7 @@ ST:TNG S3.03
 Star Trek:TNG S3.03
 The Survivors
 
-Captain's log, stardate 43152.4. We are cautiously entering the Delta Rana star system three days after receiving a distress call from the Federation colony on its fourth planet. The garbled transmission reported the colony under attack from an unidentified spacecraft. Our mission is one of rescue and, if necessary, confrontation with a hostile force.
+PICARD: Captain's log, stardate 43152.4. We are cautiously entering the Delta Rana star system three days after receiving a distress call from the Federation colony on its fourth planet. The garbled transmission reported the colony under attack from an unidentified spacecraft. Our mission is one of rescue and, if necessary, confrontation with a hostile force.
 [Bridge]
 
 RIKER: Shields up, maximum strength.
@@ -468,6 +468,6 @@ PICARD: We're not qualified to be your judges. We have no law to fit your crime.
 (Troi is back in her seat)
 RIKER: Helm, break orbit. Full impulse.
 
-Captain's log, Stardate 43153.7. We are departing the Rana system for Starbase One Three Three. We leave behind a being of extraordinary power and conscience. I am not certain if he should be praised or condemned. Only that he should be left alone.
+PICARD: Captain's log, Stardate 43153.7. We are departing the Rana system for Starbase One Three Three. We leave behind a being of extraordinary power and conscience. I am not certain if he should be praised or condemned. Only that he should be left alone.
 
 NARRATOR: 🎵 🙂🙂😊😊😊😊 End Credits 🎵

@@ -74,7 +74,7 @@ MORIARTY: Ask him to meet me in the sitting room at Baker Street. That would be 
 BARCLAY: I'll have to store you in memory again until I get an answer.
 (Reg pulls out a chip and puts the cover back. Moriarty vanishes. Barclay leaves. Moriarty reappears with a sly smile.)
 
-Captain's log, stardate 46424.1. The Enterprise has arrived at the Detrian system to observe a unique celestial event the collision of two planets.
+PICARD: Captain's log, stardate 46424.1. The Enterprise has arrived at the Detrian system to observe a unique celestial event the collision of two planets.
 
 [Engineering]
 

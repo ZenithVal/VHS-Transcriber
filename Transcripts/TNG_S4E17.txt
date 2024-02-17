@@ -2,7 +2,7 @@ ST:TNG S4.17
 Star Trek:TNG S4.17
 Night Terrors
 
-Captain's log, Stardate 44631.2. We are proceeding through the rim of an uncharted binary star system, where we may have located the USS Brittain. The missing science vessel failed to arrive at its destination and has not been heard from since a distress call twenty nine days ago.
+PICARD: Captain's log, Stardate 44631.2. We are proceeding through the rim of an uncharted binary star system, where we may have located the USS Brittain. The missing science vessel failed to arrive at its destination and has not been heard from since a distress call twenty nine days ago.
 [Bridge]
 
 PICARD: On screen. Magnify.
@@ -73,7 +73,7 @@ VOICE: Eyes in the dark. One moon. Eyes in the dark. One moon circles. See the e
 TROI: Where are you?
 (then she wakes up, gasping for air)
 
-Captain's log, stardate 44635.8. Four days have passed, but we have made little progress in solving the mystery of the Brittain. I have decided we should return to Starbase two twenty, and to that end, Commander La Forge is rigging the Brittain for towing.
+PICARD: Captain's log, stardate 44635.8. Four days have passed, but we have made little progress in solving the mystery of the Brittain. I have decided we should return to Starbase two twenty, and to that end, Commander La Forge is rigging the Brittain for towing.
 
 [Brittain Bridge]
 
@@ -175,7 +175,7 @@ DATA: No, sir. Apparently we do not.
 LIN: We're adrift.
 RIKER: Just like the Brittain.
 
-Captain's log, stardate 44639.9. The Enterprise has now been adrift for a total of ten days. We have sent subspace distress calls, but because of our distant location, we cannot expect a response for at least another two weeks.
+PICARD: Captain's log, stardate 44639.9. The Enterprise has now been adrift for a total of ten days. We have sent subspace distress calls, but because of our distant location, we cannot expect a response for at least another two weeks.
 
 [Observation lounge]
 
@@ -353,7 +353,7 @@ TROI: It's all right. Everything's fine, thank you.
 (Security leave)
 TROI: Let me take you to Sickbay.
 
-Acting Captain's log, stardate 44642.1. I have assumed command of the Enterprise at the request of Captain Picard. Our situation is deteriorating. Many of the crew are unable to function and our life support systems are beginning to falter.
+Acting PICARD: Captain's log, stardate 44642.1. I have assumed command of the Enterprise at the request of Captain Picard. Our situation is deteriorating. Many of the crew are unable to function and our life support systems are beginning to falter.
 
 [Sickbay]
 

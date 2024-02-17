@@ -86,7 +86,7 @@ RIKER: On screen. Admiral?
 HANSON [on viewscreen]: The fight does not go well, Enterprise. We're attempting to withdraw and regroup. Rendezvous with fleet
 (transmission lost)
 
-Captain's Log, stardate 44002.3. Repairs are complete, and the Enterprise is warping to rendezvous with Starfleet at Wolf three five nine. Communications from the site of battle have been cut off, possibly by Borg interference.
+PICARD: Captain's log, stardate 44002.3. Repairs are complete, and the Enterprise is warping to rendezvous with Starfleet at Wolf three five nine. Communications from the site of battle have been cut off, possibly by Borg interference.
 
 [Observation lounge]
 

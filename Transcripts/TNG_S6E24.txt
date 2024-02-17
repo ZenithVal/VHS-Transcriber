@@ -3,7 +3,7 @@ Star Trek:TNG S6.24
 Second Chances
 
 
-Captain's log, stardate 46915.2. The Enterprise is orbiting Nervala Four, waiting for an opportunity to retrieve scientific data left there by Starfleet researchers when they were forced to evacuate eight years ago.
+PICARD: Captain's log, stardate 46915.2. The Enterprise is orbiting Nervala Four, waiting for an opportunity to retrieve scientific data left there by Starfleet researchers when they were forced to evacuate eight years ago.
 [Ten Forward]
 
 (it's jazz night, and the quartet are in full swing, with Riker on 'bone playing 'Tell them I remember you')
@@ -374,7 +374,7 @@ TROI: No. No. I just don't know if I'm ready to give up my life here. Maybe we b
 (a kiss)
 RIKER 2: Goodnight.
 
-Captain's log, supplemental. The third transport window has opened and the away team is making their final attempt at retrieving the database.
+PICARD: Captain's log, supplemental. The third transport window has opened and the away team is making their final attempt at retrieving the database.
 
 [Research station]
 
@@ -417,7 +417,7 @@ RIKER: Climb! Come on! Climb! Climb!
 DATA: They have restored the servo link to the core. We can begin downloading the database.
 WORF: Initiating data transfer.
 
-Captain's log, stardate 46920.1. We have retrieved the database from Nervala station and are headed for our rendezvous with the Gandhi.
+PICARD: Captain's log, stardate 46920.1. We have retrieved the database from Nervala station and are headed for our rendezvous with the Gandhi.
 
 [Lt. Riker's quarters]
 

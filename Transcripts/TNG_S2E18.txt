@@ -48,7 +48,7 @@ DATA: Medical emergency. Doctor Pulaski to the Bridge.
 PICARD: What happened?
 DATA: He just collapsed, sir.
 
-Captain's log, stardate 42823.2. We're departing from Starbase Seven Three to investigate the source of the mysterious distress signal. Meanwhile, my Security Officer remains in Sickbay, where Doctor Pulaski is searching for the cause of his collapse.
+PICARD: Captain's log, stardate 42823.2. We're departing from Starbase Seven Three to investigate the source of the mysterious distress signal. Meanwhile, my Security Officer remains in Sickbay, where Doctor Pulaski is searching for the cause of his collapse.
 
 [Sickbay]
 
@@ -133,7 +133,7 @@ TROI: Captain, these people have been isolated for three hundred years. They cou
 PICARD: Your point is well taken, Counsellor. Number One, you're going to have to go down there.
 RIKER: On my way.
 
-Captain's log, stardate 42827.3. Commander Riker has reached the caverns, where he is making preparations to begin the evacuation.
+PICARD: Captain's log, stardate 42827.3. Commander Riker has reached the caverns, where he is making preparations to begin the evacuation.
 
 [Bridge]
 
@@ -255,7 +255,7 @@ PICARD: The point, Mister Odell.
 DANILO: Well, in all your travels, have you heard anything from the other colony?
 PICARD: The other colony?
 
-Captain's log, supplemental. A review of stellar charts has revealed a Class M planet only half a light year from the Bringloid system. I am proceeding on the premise that it was the destination of the colony which possessed the more sophisticated equipment.
+PICARD: Captain's log, supplemental. A review of stellar charts has revealed a Class M planet only half a light year from the Bringloid system. I am proceeding on the premise that it was the destination of the colony which possessed the more sophisticated equipment.
 
 [Riker's quarters]
 
@@ -307,7 +307,7 @@ WORF: Madam, have you considered a career in security?
 BRENNA: If it's anything like babysitting, I'm an authority.
 (The women laugh)
 
-Captain's log, supplemental. We are approaching the class M planet where we hope to find the other colonists.
+PICARD: Captain's log, supplemental. We are approaching the class M planet where we hope to find the other colonists.
 
 [Bridge]
 
@@ -361,7 +361,7 @@ WORF: Clones?
 RIKER: Clones?
 GRANGER: Clones.
 
-Captain's log, supplemental. Prime Minister Granger has requested an urgent meeting to discuss the future of the Mariposan colony. I've invited him to the Enterprise.
+PICARD: Captain's log, supplemental. Prime Minister Granger has requested an urgent meeting to discuss the future of the Mariposan colony. I've invited him to the Enterprise.
 
 [Observation lounge]
 
@@ -394,7 +394,7 @@ GRANGER: You'd be most welcome. Perhaps you will find a solution that we have ov
 PULASKI: Well, I appreciate the compliment, but I don't think that's very likely. And repairing that equipment will certainly not solve your problems.
 GRANGER: What other solution do we have? Doctor, remember, there are only five of us.
 
-Captain's log, supplemental. Commander Riker and Doctor Pulaski have returned to Mariposa with a team of Enterprise technicians.
+PICARD: Captain's log, supplemental. Commander Riker and Doctor Pulaski have returned to Mariposa with a team of Enterprise technicians.
 
 [Granger's office]
 

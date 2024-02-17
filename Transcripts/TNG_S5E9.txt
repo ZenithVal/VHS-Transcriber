@@ -2,7 +2,7 @@ ST:TNG S5.09
 Star Trek:TNG S5.09
 A Matter of Time
 
-Captain's log, stardate 45349.1. The Enterprise is on its way to Penthara Four, where a type C asteroid has struck an unpopulated continent. The resulting dust cloud could very well create a phenomenon not unlike the nuclear winters of twenty first century Earth. Commander La Forge has begun work on a plan that would counteract the devastation.
+PICARD: Captain's log, stardate 45349.1. The Enterprise is on its way to Penthara Four, where a type C asteroid has struck an unpopulated continent. The resulting dust cloud could very well create a phenomenon not unlike the nuclear winters of twenty first century Earth. Commander La Forge has begun work on a plan that would counteract the devastation.
 [Engineering]
 
 LAFORGE: I'm afraid the numbers coming in are already indicating climatic changes, Commander.
@@ -128,7 +128,7 @@ DATA: Since you seemed to know so much about Captain Picard and the ship, I assu
 RASMUSSEN: It'd be best if you kept your assumptions to yourself, wouldn't it?
 DATA: Yes, sir. Sorry, sir.
 
-Captain's log, stardate 45350.3. We have arrived at Penthara Four and can see for ourselves the atmospheric devastation caused by the asteroid impact.
+PICARD: Captain's log, stardate 45350.3. We have arrived at Penthara Four and can see for ourselves the atmospheric devastation caused by the asteroid impact.
 
 [Penthara science lab]
 
@@ -395,7 +395,7 @@ DATA: If our phaser discharge is off by as little as point zero six terawatts, i
 PICARD: Meaning?
 DATA: We would completely burn off the planet's atmosphere.
 
-Captain's log, supplemental. While Doctor Moseley takes La Forge's plan to the leaders of the colony, I find myself weighing the potential consequences of a more philosophical issue.
+PICARD: Captain's log, supplemental. While Doctor Moseley takes La Forge's plan to the leaders of the colony, I find myself weighing the potential consequences of a more philosophical issue.
 
 [Ready room]
 
@@ -441,7 +441,7 @@ RASMUSSEN: How's that?
 PICARD: By refusing to assist me, you left me with the same choice I had to began with. To try or not to try, to take a risk or to play it safe. Your arguments have reminded me how precious the right to choose is. And because I've never been one to play it safe, I choose to try. Mister Data, programme the firing sequence.
 DATA: Aye, sir.
 
-Captain's log, stardate 45351.9. Doctor Moseley has met with the colony leaders, who all agree they are willing to take the risk.
+PICARD: Captain's log, stardate 45351.9. Doctor Moseley has met with the colony leaders, who all agree they are willing to take the risk.
 
 [Bridge]
 

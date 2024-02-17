@@ -2,7 +2,7 @@ ST:TNG S3.22
 Star Trek:TNG S3.22
 The Most Toys
 
-Captain's log, Stardate 43872.2. In order to neutralise a sudden contamination of the water supply at the Federation colony on Beta Agni Two, we are procuring one hundred and eight kilos of hytritium from the Zibalian trader, Kivas Fajo. Because pure hytritium is too unstable for our transporters, Lieutenant Commander Data has been shuttling the material to the Enterprise.
+PICARD: Captain's log, Stardate 43872.2. In order to neutralise a sudden contamination of the water supply at the Federation colony on Beta Agni Two, we are procuring one hundred and eight kilos of hytritium from the Zibalian trader, Kivas Fajo. Because pure hytritium is too unstable for our transporters, Lieutenant Commander Data has been shuttling the material to the Enterprise.
 [Jovis Cargo bay]
 
 DATA: Data to Enterprise.
@@ -32,7 +32,7 @@ LAFORGE: Containment field stable. Gravitational fluctuations within acceptable 
 (Shuttlepod Pike goes Ka-BOOM! Stunned expressions all round)
 WORF: Data.
 
-Captain's log, supplemental. As the result of a yet unexplained shuttle explosion, Lieutenant Commander Data has been lost.
+PICARD: Captain's log, supplemental. As the result of a yet unexplained shuttle explosion, Lieutenant Commander Data has been lost.
 
 [Bridge]
 

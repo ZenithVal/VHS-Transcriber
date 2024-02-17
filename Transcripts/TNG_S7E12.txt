@@ -388,7 +388,7 @@ PICARD: Mister Data?
 DATA: Theoretically it is possible, sir. But it would take several hours to study the device and determine how to link it to our systems.
 PICARD: Make it so.
 
-Captain's log, stardate 47457.1. We have been trapped inside the asteroid for over eight hours. Mister Data and Commander La Forge inform me that they are nearly ready to engage the cloak.
+PICARD: Captain's log, stardate 47457.1. We have been trapped inside the asteroid for over eight hours. Mister Data and Commander La Forge inform me that they are nearly ready to engage the cloak.
 
 [Engineering]
 

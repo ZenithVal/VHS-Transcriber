@@ -40,7 +40,7 @@ PICARD [OC]: This is the Captain. We have arrived at the Tyran system. All senio
 CRUSHER: Wait!
 RIKER: Sorry, you heard the Captain. Duty calls. I guess we'll have to do this some other time.
 
-Captain's log, stardate 46307.2. We have just come into orbit of Tyrus Seven A to monitor progress on the Tyran particle fountain, a radically new mining technology. So far the project has been fraught with problems, and is well behind schedule. Mister La Forge has been assigned to evaluate the situation.
+PICARD: Captain's log, stardate 46307.2. We have just come into orbit of Tyrus Seven A to monitor progress on the Tyran particle fountain, a radically new mining technology. So far the project has been fraught with problems, and is well behind schedule. Mister La Forge has been assigned to evaluate the situation.
 
 [Particle fountain laboratory]
 
@@ -105,7 +105,7 @@ DATA: How were you able to accomplish the repair so quickly?
 
 LAFORGE: You know, I'm not exactly sure.
 
-Captain's log, stardate 46315.2. Repairs to the particle fountain seem to have succeeded and it is now functioning smoothly. Doctor Farallon is coming aboard to demonstrate the device that carried out the repairs.
+PICARD: Captain's log, stardate 46315.2. Repairs to the particle fountain seem to have succeeded and it is now functioning smoothly. Doctor Farallon is coming aboard to demonstrate the device that carried out the repairs.
 
 [Transporter room]
 
@@ -292,7 +292,7 @@ DATA: Doctor, I must ask you to stop using the exocomps.
 FARALLON: Why? Is there something wrong with them?
 DATA: No. It is not that. I have reason to believe the exocomps are alive.
 
-Captain's log, stardate 46316.6. I have summoned the senior staff in order to discuss Commander Data's theory that the exocomps are a life form. Doctor Farallon has attended only reluctantly.
+PICARD: Captain's log, stardate 46316.6. I have summoned the senior staff in order to discuss Commander Data's theory that the exocomps are a life form. Doctor Farallon has attended only reluctantly.
 
 [Observation lounge]
 
@@ -359,7 +359,7 @@ CRUSHER: And then replicated the correct tool to eliminate the false overload si
 DATA: I see no other possible explanation.
 CRUSHER: The exocomp didn't fail the test, it saw right through it.
 
-Captain's log, stardate 46317.8. At Doctor Farallon's request, I have agreed to tour the station and assess the situation personally. I must decide soon whether it is in Starfleet's best interest to recommend the particle fountain as a reliable technology.
+PICARD: Captain's log, stardate 46317.8. At Doctor Farallon's request, I have agreed to tour the station and assess the situation personally. I must decide soon whether it is in Starfleet's best interest to recommend the particle fountain as a reliable technology.
 
 [Particle fountain laboratory]
 

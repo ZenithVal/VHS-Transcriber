@@ -2,7 +2,7 @@ ST:TNG S5.05
 Star Trek:TNG S5.05
 Disaster
 
-Captain's log, stardate 45156.1. Our mission to Mudor Five has been completed and since our next assignment will not begin for several days, we are enjoying a welcome respite from our duties.
+PICARD: Captain's log, stardate 45156.1. Our mission to Mudor Five has been completed and since our next assignment will not begin for several days, we are enjoying a welcome respite from our duties.
 [Ten Forward]
 
 (Keiko O'Brien is a good eight months pregnant)
@@ -441,7 +441,7 @@ WORF: Now I will cut the umbilical cord. Blanket. I believe she looks like Chief
 (he hands the baby to Keiko)
 KEIKO: Hello. You were wonderful, Worf. I couldn't have done it without you. Hello.
 
-Captain's log, supplemental. We are en route to Starbase sixty seven, to undergo repairs. Life aboard the Enterprise is slowly returning to normal.
+PICARD: Captain's log, supplemental. We are en route to Starbase sixty seven, to undergo repairs. Life aboard the Enterprise is slowly returning to normal.
 
 [Bridge]
 

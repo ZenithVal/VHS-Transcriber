@@ -3,7 +3,7 @@ Star Trek:TNG S1.26
 True Q
 
 
-Captain's log, stardate 46192.3. We have arrived at Starbase one one two and are loading relief supplies destined for Tagra Four, an ecologically devastated planet in the Argolis Cluster. We have also taken on a rather unusual passenger.
+PICARD: Captain's log, stardate 46192.3. We have arrived at Starbase one one two and are loading relief supplies destined for Tagra Four, an ecologically devastated planet in the Argolis Cluster. We have also taken on a rather unusual passenger.
 [Ready room]
 
 PICARD: Welcome to the Enterprise, Miss Rogers. I'm delighted to have you aboard.
@@ -443,7 +443,7 @@ Q: Don't be naive. You have no idea what it means to be Q. With unlimited power 
 PICARD: So what have you concluded? Does she live or does she die?
 Q: I haven't decided yet.
 
-Captain's log, stardate 46193.8. We have arrived at Tagra Four and have begun delivering supplies. In the meantime, I am faced with a crisis of a different nature.
+PICARD: Captain's log, stardate 46193.8. We have arrived at Tagra Four and have begun delivering supplies. In the meantime, I am faced with a crisis of a different nature.
 
 [Observation lounge]
 

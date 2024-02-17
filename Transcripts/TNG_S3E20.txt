@@ -2,7 +2,7 @@ ST:TNG S3.20
 Star Trek:TNG S3.20
 Tin Man
 
-Captain's log, Stardate 43779.3. The Enterprise is preparing detailed exospheric charts of the Hayashi system. Although tedious, this endeavour is the first step toward planet colonisation.
+PICARD: Captain's log, Stardate 43779.3. The Enterprise is preparing detailed exospheric charts of the Hayashi system. Although tedious, this endeavour is the first step toward planet colonisation.
 [Bridge]
 
 DATA: Captain, sensors report the USS Hood is closing on an intercept course at high warp.
@@ -110,7 +110,7 @@ TAM: So, Data, I guess you're the brains of this outfit, huh?
 PICARD: Mister Elbrun, one of the reasons I'm asking you to work closely with a member of my staff is to avoid any further omissions. The possibility of an encounter with Romulans on this mission is hardly trivial. And yet
 TAM: All right, all right. I should have brought up the Romulans earlier, but I was distracted. And no, Billy boy, I wasn't distracted on Ghorusda. If Darson had listened to me, no one would have died. No? Well I don't care whether you believe that or not.
 
-Captain's log, supplemental. Travelling at high warp, we are still several days from rendezvous with the mysterious entity which Starfleet has christened Tin Man. My immediate concern is with Tam Elbrun. Starfleet considers his unique abilities crucial to our mission, yet he seems to me unstable.
+PICARD: Captain's log, supplemental. Travelling at high warp, we are still several days from rendezvous with the mysterious entity which Starfleet has christened Tin Man. My immediate concern is with Tam Elbrun. Starfleet considers his unique abilities crucial to our mission, yet he seems to me unstable.
 
 [Crusher's office]
 
@@ -376,7 +376,7 @@ ROMULAN [on viewscreen]: Enterprise, your presence here is a violation of Romula
 PICARD: We are not familiar with the terms of your claim on this sector. We're here engaged in scientific research. Do you wish to participate?
 ROMULAN [on viewscreen]: We have monitored the destruction of our sister ship by the star creature. We claim right of vengeance. We will destroy the alien. If you interfere, we will destroy you as well.
 
-Captain's log, Supplemental. A confrontation between the Romulan Warbird and Tin Man is imminent. I have no alternative but to rely on the telepathic abilities of Tam Elbrun.
+PICARD: Captain's log, Supplemental. A confrontation between the Romulan Warbird and Tin Man is imminent. I have no alternative but to rely on the telepathic abilities of Tam Elbrun.
 
 [Bridge]
 
@@ -465,7 +465,7 @@ DATA: Difficult to explain, Captain.
 TROI: Tam?
 DATA: I believe he found what he was looking for, Counsellor.
 
-Captain's log, supplemental. With all main systems at least temporarily restored, we are proceeding to Starbase one five two for inspection and additional repairs. We have had no further encounter with the Romulans. As for the whereabouts of Tin Man and Tam Elbrun, we can only speculate.
+PICARD: Captain's log, supplemental. With all main systems at least temporarily restored, we are proceeding to Starbase one five two for inspection and additional repairs. We have had no further encounter with the Romulans. As for the whereabouts of Tin Man and Tam Elbrun, we can only speculate.
 
 [Observation lounge]
 

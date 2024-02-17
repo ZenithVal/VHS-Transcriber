@@ -28,7 +28,7 @@ LAFORGE: Ready? Ow!
 (Spot runs out and there's a crash sound)
 LAFORGE: Training. Definitely.
 
-Captain's log, Stardate 47310.2. We're investigating the disappearance of the Medical Transport Fleming somewhere in the Hekaras Corridor. Our search is complicated by the unique properties of this particular region of space.
+PICARD: Captain's log, Stardate 47310.2. We're investigating the disappearance of the Medical Transport Fleming somewhere in the Hekaras Corridor. Our search is complicated by the unique properties of this particular region of space.
 
 [Observation lounge]
 
@@ -202,7 +202,7 @@ LAFORGE: I know. He's just trying to get me angry. There. That should do it. Com
 COMPUTER: Power conversion levels are at ninety seven point two percent.
 LAFORGE: Too bad, Mister Kaplan.
 
-Captain's log, supplemental. We have traced the Fleming's most likely course. It now appears that the vessel may have come to an unfortunate end.
+PICARD: Captain's log, supplemental. We have traced the Fleming's most likely course. It now appears that the vessel may have come to an unfortunate end.
 
 [Bridge]
 
@@ -544,7 +544,7 @@ WORF: A structural breach is imminent.
 DATA: We have cleared the rift, sir. Hull stress has returned to normal.
 PICARD: Cancel red alert.
 
-Captain's log, stardate 47314.5. We have been continuing our research, while the Federation Council studies our preliminary reports on the subspace rift. It now appears certain that what we've seen here will have repercussions for many years to come.
+PICARD: Captain's log, stardate 47314.5. We have been continuing our research, while the Federation Council studies our preliminary reports on the subspace rift. It now appears certain that what we've seen here will have repercussions for many years to come.
 
 [Observation lounge]
 

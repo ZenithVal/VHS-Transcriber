@@ -312,7 +312,7 @@ TROI: Look at him.
 CRUSHER: I don't want to look at him. Talk to me. Just keep talking to me.
 TROI: The first man I ever loved was my father. He was strong and tall. He carried me when the ground was muddy. He chased away the monsters that hid under my bed at night. And he sang to me, and kept me safe. And he went away. What I wouldn't give to hear those songs again. To feel his arms protect me. I never will, but I can still feel his warmth and his love as though he were here with me. If you can feel those things from the man we know as Will Riker, accept them. Accept the love.
 
-Captain's log, stardate 44823.8. Representatives of the two moons of Peliar Zel have agreed to come on board to meet the new Ambassador Odan.
+PICARD: Captain's log, stardate 44823.8. Representatives of the two moons of Peliar Zel have agreed to come on board to meet the new Ambassador Odan.
 
 [Observation lounge]
 
@@ -401,7 +401,7 @@ CRUSHER: Yes.
 RIKER: Beverly, I want you. If you're going to leave, you'd better go right now.
 CRUSHER: I'm not leaving.
 
-Captain's log, stardate 44824.4. Governor Leka and the representatives of the two moons are ready to transport on board. We have learned that they each have troops massed and are ready for combat if this final effort at peace is not successful.
+PICARD: Captain's log, stardate 44824.4. Governor Leka and the representatives of the two moons are ready to transport on board. We have learned that they each have troops massed and are ready for combat if this final effort at peace is not successful.
 
 [Ready room]
 

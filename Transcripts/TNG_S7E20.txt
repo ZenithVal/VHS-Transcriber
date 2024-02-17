@@ -2,7 +2,7 @@ ST:TNG S7.20
 Star Trek:TNG S7.20
 Journey's End
 
-Captain's log, stardate 47751.2. The Enterprise has arrived at Starbase three one zero for a meeting with Fleet Admiral Necheyev. This visit will also give us the opportunity to pick up a member of the family.
+PICARD: Captain's log, stardate 47751.2. The Enterprise has arrived at Starbase three one zero for a meeting with Fleet Admiral Necheyev. This visit will also give us the opportunity to pick up a member of the family.
 [Wesley's quarters]
 
 CRUSHER: Here you are, your very own quarters. They're as far away from mine as possible, so you don't even have to see me if you don't want to.
@@ -91,7 +91,7 @@ LAFORGE: I don't know what's gotten into you, Wes.
 WESLEY: Look, do you want my help or not?
 LAFORGE: With this kind of an attitude, absolutely not. You're dismissed.
 
-Captain's log, supplemental. The Enterprise has arrived at Dorvan Five and I have spoken to the Leader of the Tribal Council. He has agreed to meet with us this afternoon to discuss the situation.
+PICARD: Captain's log, supplemental. The Enterprise has arrived at Dorvan Five and I have spoken to the Leader of the Tribal Council. He has agreed to meet with us this afternoon to discuss the situation.
 
 [Meeting room]
 
@@ -382,7 +382,7 @@ GUL EVEK: Then if there's nothing else, I will return to my ship. I have a rathe
 (Evek leaves)
 ANTHWARA: I was right, Captain. You did not take us from our land and you have wiped clean a very old stain of blood.
 
-Captain's log, stardate 47755.3. The Enterprise is preparing to leave Dorvan Five, but former cadet Wesley Crusher will be staying behind.
+PICARD: Captain's log, stardate 47755.3. The Enterprise is preparing to leave Dorvan Five, but former cadet Wesley Crusher will be staying behind.
 
 [Transporter room]
 

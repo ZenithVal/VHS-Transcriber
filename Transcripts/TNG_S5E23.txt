@@ -2,7 +2,7 @@ ST:TNG S5.23
 Star Trek:TNG S5.23
 I, Borg
 
-Captain's log, stardate 45854.2. The Enterprise is charting six star systems that make up the Argolis cluster, an area being considered for colonisation.
+PICARD: Captain's log, stardate 45854.2. The Enterprise is charting six star systems that make up the Argolis cluster, an area being considered for colonisation.
 [Bridge]
 
 (a large orange sun is on the viewscreen)

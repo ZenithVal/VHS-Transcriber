@@ -55,7 +55,7 @@ LAFORGE: Nothing. I'm seeing my reflection in a panel.
 
 LAFORGE: I forgot what a handsome guy I am.
 
-Captain's log, stardate 47215.5. We are responding to a distress call from the science vessel Raman, which is apparently trapped inside the turbulent atmosphere of an unusual gas giant planet. We will use an experimental interface probe in our attempt to rescue it.
+PICARD: Captain's log, stardate 47215.5. We are responding to a distress call from the science vessel Raman, which is apparently trapped inside the turbulent atmosphere of an unusual gas giant planet. We will use an experimental interface probe in our attempt to rescue it.
 
 [Bridge]
 
@@ -617,7 +617,7 @@ CRUSHER: Switching inputs.
 PICARD: Is it working?
 CRUSHER: His vital signs are stabilising. He's going to make it.
 
-Captain's log, supplemental. We have succeeded in disengaging Mister La Forge from the interface and are en route to Starbase four nine five.
+PICARD: Captain's log, supplemental. We have succeeded in disengaging Mister La Forge from the interface and are en route to Starbase four nine five.
 
 [Ready room]
 

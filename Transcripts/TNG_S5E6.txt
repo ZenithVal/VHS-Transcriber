@@ -39,7 +39,7 @@ RIKER: How far does this game go?
 ETANA: As far as you can take it. Would you like to go for level two?
 (two horns and two discs and more pleasure without effort)
 
-Captain's log, stardate 45208.2. Commander Riker has rejoined the Enterprise from Risa, and we are on our way to an uncharted area called the Phoenix Cluster. We're all anticipating this historic first look at the region.
+PICARD: Captain's log, stardate 45208.2. Commander Riker has rejoined the Enterprise from Risa, and we are on our way to an uncharted area called the Phoenix Cluster. We're all anticipating this historic first look at the region.
 
 [Bridge]
 
@@ -271,7 +271,7 @@ ROBIN: Hey, that's Law Forty six. Life isn't
 WESLEY: Always fair. Yeah, I know that law. I still have to work on the sensor relays, but I'd like a chance to even the score. Ten Forward, nineteen hundred hours. Will you join me for coffee?
 ROBIN: No. But I'll meet you for dinner.
 
-Captain's log, supplemental. We have arrived at the Phoenix Cluster, but it will take us several hours to determine the best possible location from which to conduct our survey. Commander Data's condition remains unchanged with no further indication as to the cause of his collapse.
+PICARD: Captain's log, supplemental. We have arrived at the Phoenix Cluster, but it will take us several hours to determine the best possible location from which to conduct our survey. Commander Data's condition remains unchanged with no further indication as to the cause of his collapse.
 
 [Crusher's quarters]
 
@@ -536,7 +536,7 @@ RIKER: That should reach almost everyone. Take a medical team to treat the rest.
 DATA: Aye, sir.
 PICARD: We'll take the alien ship to the nearest Federation starbase. Ensign, lay in a course.
 
-Captain's log, stardate 45212.1. We have delivered the Ktarian vessel to Starbase eighty two and are now on a course to rendezvous with the Starship Merrimack, which will transport Wesley Crusher back to Starfleet Academy.
+PICARD: Captain's log, stardate 45212.1. We have delivered the Ktarian vessel to Starbase eighty two and are now on a course to rendezvous with the Starship Merrimack, which will transport Wesley Crusher back to Starfleet Academy.
 
 [Wesley's room]
 

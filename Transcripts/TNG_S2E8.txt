@@ -54,7 +54,7 @@ PICARD: Any particular reason?
 RIKER: Because nobody's ever done it before.
 PICARD: I'll notify Starbase of your acceptance They'll contact the Klingon vessel, make the arrangements.
 
-Captain's log, stardate 42506.5. We have departed from Starbase one seven nine and are headed for a rendezvous with the Klingon vessel, Pagh. I have informed the staff of Commander Riker's temporary assignment.
+PICARD: Captain's log, stardate 42506.5. We have departed from Starbase one seven nine and are headed for a rendezvous with the Klingon vessel, Pagh. I have informed the staff of Commander Riker's temporary assignment.
 
 [Corridor]
 
@@ -416,7 +416,7 @@ KLAG: The Enterprise has changed hailing messages. They now include a promise of
 RIKER: I told you, they're here to help.
 KARGAN: I do not believe them. Arm all weapons. Prepare to attack!
 
-Captain's log, Stardate 42507.8. Although our search has been extensive, we are still unable to locate the Klingon ship or any evidence of it's destruction.
+PICARD: Captain's log, Stardate 42507.8. Although our search has been extensive, we are still unable to locate the Klingon ship or any evidence of it's destruction.
 
 [Bridge]
 

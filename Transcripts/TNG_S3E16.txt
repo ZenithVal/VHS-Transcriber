@@ -2,7 +2,7 @@ ST:TNG S3.16
 Star Trek:TNG S3.16
 The Offspring
 
-Captain's log, Stardate 43657.0 While Commander Riker is away on personal leave, the Enterprise has travelled to sector three nine six to begin charting the Selebi Asteroid Belt.
+PICARD: Captain's log, Stardate 43657.0 While Commander Riker is away on personal leave, the Enterprise has travelled to sector three nine six to begin charting the Selebi Asteroid Belt.
 [Corridor]
 
 LAFORGE: He sent for you too?
@@ -35,7 +35,7 @@ DATA: It is an accepted custom that we wear clothing.
 WESLEY: Data, it called you Father.
 DATA: Yes, Wesley. Lal is my child.
 
-Captain's log, supplemental. I have just been advised of a highly unusual project undertaken by Commander Data.
+PICARD: Captain's log, supplemental. I have just been advised of a highly unusual project undertaken by Commander Data.
 
 [Laboratory]
 
@@ -223,7 +223,7 @@ HAFTEL [on monitor]: I have discussed my concerns with Starfleet Command. You ar
 PICARD: Understood.
 HAFTEL [on monitor]: I should advise you, Captain, that if I'm not satisfied with what I see, I am empowered to take the android back with me. Haftel out.
 
-Captain's log, supplemental. We are holding position pending the arrival of Admiral Haftel from Starfleet Research. Commander Data is completing his final neural transfers to the android he has named Lal, which I have learned, in the language Hindi means beloved.
+PICARD: Captain's log, supplemental. We are holding position pending the arrival of Admiral Haftel from Starfleet Research. Commander Data is completing his final neural transfers to the android he has named Lal, which I have learned, in the language Hindi means beloved.
 
 [Ten Forward]
 

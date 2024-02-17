@@ -62,7 +62,7 @@ O'BRIEN: Acknowledged.
 
 RIKER: This is the strangest feeling. My whole leg just went dead.
 
-Captain's log, Stardate 42976.1. During a geological survey on Surata Four, Commander Riker has become infected by an unidentified microbe.
+PICARD: Captain's log, Stardate 42976.1. During a geological survey on Surata Four, Commander Riker has become infected by an unidentified microbe.
 
 [Sickbay]
 

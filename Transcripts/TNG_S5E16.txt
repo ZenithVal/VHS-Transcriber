@@ -31,7 +31,7 @@ CRUSHER: Worf, there is no restraining field.
 WORF: But I can't move my legs.
 CRUSHER: I know. You can't move because one of the containers shattered seven of your vertebrae and crushed your spinal cord. I'm afraid there's no way we can repair this kind of injury.
 
-Captain's log, stardate 45587.3. Lieutenant Worf has been removed from active duty following a severe injury. Although a neuro-specialist has arrived, Doctor Crusher believes his paralysis may be permanent.
+PICARD: Captain's log, stardate 45587.3. Lieutenant Worf has been removed from active duty following a severe injury. Although a neuro-specialist has arrived, Doctor Crusher believes his paralysis may be permanent.
 
 [Transporter room]
 

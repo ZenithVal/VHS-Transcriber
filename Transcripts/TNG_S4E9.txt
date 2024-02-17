@@ -2,7 +2,7 @@ ST:TNG S4.09
 Star Trek:TNG S4.09
 Final Mission
 
-Captain's log, stardate 44307.3. I am preparing to leave by shuttlecraft for Pentarus Five, where I have been asked to mediate a dispute among the salenite miners, a contentious group unfortunately prone to violence. But first I must deal with a situation of a far more personal nature.
+PICARD: Captain's log, stardate 44307.3. I am preparing to leave by shuttlecraft for Pentarus Five, where I have been asked to mediate a dispute among the salenite miners, a contentious group unfortunately prone to violence. But first I must deal with a situation of a far more personal nature.
 [Bridge]
 
 (Wesley hurries in, breathless)

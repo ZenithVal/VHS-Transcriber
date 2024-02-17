@@ -141,13 +141,13 @@ PICARD: No, Mister Remmick. Be my guest.
 [Ready room]
 
 (Remmick sits himself in the Captain's chair and gestures Riker to sit too)
-REMMICK: If you prefer to stand, fine, Mister Riker. It won't have an effect on the length of my inquiry. (Riker sits) Now, there are several seeming discrepancies in the Captain's log. Let's go over them one by one, shall we?
-RIKER: The Captain's log?
+REMMICK: If you prefer to stand, fine, Mister Riker. It won't have an effect on the length of my inquiry. (Riker sits) Now, there are several seeming discrepancies in the PICARD: Captain's log. Let's go over them one by one, shall we?
+RIKER: The PICARD: Captain's log?
 REMMICK: Yes. To the best of your knowledge, has the Captain ever falsified a log?
 RIKER: Have you discussed this with him?
 REMMICK: Right now, I'm asking you.
 RIKER: If you want to discuss anything about Captain Picard, you bring him in here and ask him face to face.
-REMMICK: You are required to answer my questions, Mister Riker, unless you're trying to cover something up! Now, there are several discrepancies in the Captain's log. Shall we go over them one by one?
+REMMICK: You are required to answer my questions, Mister Riker, unless you're trying to cover something up! Now, there are several discrepancies in the PICARD: Captain's log. Shall we go over them one by one?
 RIKER: Proceed.
 
 [Engineering]

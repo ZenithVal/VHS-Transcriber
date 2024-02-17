@@ -2,7 +2,7 @@ ST:TNG S4.16
 Star Trek:TNG S4.16
 Galaxy's Child
 
-Captain's Log, Stardate 44614.6. We are approaching Starbase three one three, where we will pick up a shipment of scientific equipment for transport to a Federation outpost in the Guernica System. During the journey we will be hosting a special guest.
+PICARD: Captain's log, Stardate 44614.6. We are approaching Starbase three one three, where we will pick up a shipment of scientific equipment for transport to a Federation outpost in the Guernica System. During the journey we will be hosting a special guest.
 [Ready room]
 
 PICARD: Come.
@@ -319,7 +319,7 @@ TROI: It's feeding off the energy of the Enterprise as it would from its mother.
 WORF: What action should we take, sir?
 PICARD: None, Lieutenant. None at all.
 
-Captain's log, supplemental. Since the newborn has attached itself to the hull, it has been making greater and greater demands on the ship's energy, but we have been able to stabilise our power systems temporarily.
+PICARD: Captain's log, supplemental. Since the newborn has attached itself to the hull, it has been making greater and greater demands on the ship's energy, but we have been able to stabilise our power systems temporarily.
 
 [Observation lounge]
 

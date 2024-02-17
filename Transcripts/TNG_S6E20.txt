@@ -2,7 +2,7 @@ ST:TNG S6.20
 Star Trek:TNG S6.20
 The Chase
 
-Captain's log, Stardate 46731.5. We are in the midst of the Volterra nebula, a stellar nursery. Our three week mission is a routine analysis of several dozen protostars in various stages of development.
+PICARD: Captain's log, Stardate 46731.5. We are in the midst of the Volterra nebula, a stellar nursery. Our three week mission is a routine analysis of several dozen protostars in various stages of development.
 [Bridge]
 
 DATA: Captain, I have completed the spectral evaluation of the outer shell. Our survey of this protostar is complete.
@@ -45,7 +45,7 @@ GALEN: We may have considerably more than that.
 PICARD: I don't understand.
 GALEN: I am currently on an expedition. A journey into an unexplored and historical territory, and I intend to take you with me.
 
-Captain's log, supplemental. It's been over thirty years since I last saw my archaeology professor. His presence has taken me back to a time when I had considered a very different career.
+PICARD: Captain's log, supplemental. It's been over thirty years since I last saw my archaeology professor. His presence has taken me back to a time when I had considered a very different career.
 
 [Ten Forward]
 
@@ -114,7 +114,7 @@ GALEN: I'll be going.
 PICARD: But Professor, you're not scheduled to catch the Vulcan ship for another two days.
 GALEN: There's nothing for me here. Goodbye, Captain.
 
-Captain's log, supplemental. We have completed our mission in the nebula and are en route to a diplomatic conference on Atalia Seven. I must admit I've lost my enthusiasm for those proceedings.
+PICARD: Captain's log, supplemental. We have completed our mission in the nebula and are en route to a diplomatic conference on Atalia Seven. I must admit I've lost my enthusiasm for those proceedings.
 
 [Bridge]
 
@@ -281,7 +281,7 @@ OCETT [on viewscreen]: And you have nothing to lose by delaying a purely scienti
 WORF: Captain, a Klingon attack cruiser decloaking off the starboard bow. They are hailing us.
 KLINGON [OC]: This is the Klingon vessel Maht-H'a. What are you doing here?
 
-Captain's log, supplemental. It seems that we have not one, but two competitors in our attempt to complete Professor Galen's puzzle. I have prevailed upon the Cardassian and Klingon captains to meet with me.
+PICARD: Captain's log, supplemental. It seems that we have not one, but two competitors in our attempt to complete Professor Galen's puzzle. I have prevailed upon the Cardassian and Klingon captains to meet with me.
 
 [Observation lounge]
 
@@ -441,7 +441,7 @@ OCETT: The very notion. That a Cardassian could have anything in common with a K
 PICARD: Picard to Enterprise.
 RIKER [OC]: Standing by, sir.
 
-Captain's log, stardate 46735.2. Our frequent use of high warp over the last few days has overextended the propulsion systems. We are finishing minor repairs before returning to Federation territory.
+PICARD: Captain's log, stardate 46735.2. Our frequent use of high warp over the last few days has overextended the propulsion systems. We are finishing minor repairs before returning to Federation territory.
 
 [Picard's quarters]
 

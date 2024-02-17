@@ -40,7 +40,7 @@ WORF: Sir, receiving another signal of a vessel leaving orbit of Solarion Four. 
 PICARD: Open a channel.
 MAN [OC]: This is the Bajora. We claim responsibility for the destruction of the Federation colony on Solarion Four. As long as we are without our homeland, no one will be safe in this sector.
 
-Captain's log, stardate 45076.3. We have arrived at Lya Station Alpha with survivors from Solarion Four. Admiral Kennelly has rendezvoused to discuss the Bajoran terrorist attack.
+PICARD: Captain's log, stardate 45076.3. We have arrived at Lya Station Alpha with survivors from Solarion Four. Admiral Kennelly has rendezvoused to discuss the Bajoran terrorist attack.
 
 [Observation lounge]
 
@@ -136,7 +136,7 @@ RO: Captain, I know the routine. You don't have to worry about me. We're stuck w
 (Ro leaves)
 PICARD: Dismissed.
 
-Captain's log, supplemental. We are approaching the Valo system on the outskirts of Cardassian territory, where many Bajorans have resettled.
+PICARD: Captain's log, supplemental. We are approaching the Valo system on the outskirts of Cardassian territory, where many Bajorans have resettled.
 
 [Observation lounge]
 
@@ -156,7 +156,7 @@ RO: Oh, it will be. Don't fool yourself. This mission will end in bloodshed.
 PICARD: Well, let's hope that you're mistaken, Ensign. But can you point us at the right individual, as Mister Data suggested?
 RO: I would go to the camp on the southern continent of Valo Two. Find a man named Keeve Falor. He has no diplomatic experience. And he won't ask you to dance.
 
-Captain's log, supplemental. I read about the achievements of the ancient Bajoran civilisation in my fifth grade reader. They were architects and artists, builders and philosophers when humans were not yet standing erect. Now I see how history has rewarded them.
+PICARD: Captain's log, supplemental. I read about the achievements of the ancient Bajoran civilisation in my fifth grade reader. They were architects and artists, builders and philosophers when humans were not yet standing erect. Now I see how history has rewarded them.
 
 [Bajoran camp]
 
@@ -196,7 +196,7 @@ RO: The blankets were helpful. Nothing I said mattered.
 PICARD: In an age when their technology should be able to clothe and feed all of them, that they should have to live like this.
 RO: I couldn't, and I wouldn't. That's one reason I ran away. They're lost, defeated. I will never be.
 
-Captain's log, stardate 45077.8. Keeve Falor has kept his promise and directed us toward the third moon of Valo One, where we will meet tomorrow with the terrorist leader, Orta.
+PICARD: Captain's log, stardate 45077.8. Keeve Falor has kept his promise and directed us toward the third moon of Valo One, where we will meet tomorrow with the terrorist leader, Orta.
 
 [Ten Forward]
 
@@ -370,7 +370,7 @@ PICARD: Good. Our orders were to find him, to bring him back to the camps any wa
 RO: And then what?
 PICARD: And then watch what happens.
 
-Captain's log, supplemental. I have become convinced that we are somehow involved in a conspiracy. I am hopeful the purpose behind it will be revealed in the next few hours.
+PICARD: Captain's log, supplemental. I have become convinced that we are somehow involved in a conspiracy. I am hopeful the purpose behind it will be revealed in the next few hours.
 
 [Bridge]
 

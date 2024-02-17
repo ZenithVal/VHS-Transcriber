@@ -2,7 +2,7 @@ ST:TNG S3.11
 Star Trek:TNG S3.11
 The Hunted
 
-Captain's log, Stardate 43489.2. We have arrived at Angosia Three, a planet that has expressed a strong desire for membership in the Federation. Prime Minister Nayrok has taken Commander Riker and me on a tour of the capital city.
+PICARD: Captain's log, Stardate 43489.2. We have arrived at Angosia Three, a planet that has expressed a strong desire for membership in the Federation. Prime Minister Nayrok has taken Commander Riker and me on a tour of the capital city.
 [Angosian Senate]
 
 PICARD: Well, I'm greatly impressed with everything I've seen so far, Prime Minister.

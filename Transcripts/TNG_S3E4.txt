@@ -2,7 +2,7 @@ ST:TNG S3.04
 Star Trek:TNG S3.04
 Who Watches the Watchers
 
-Captain's log, Stardate 43173.5. We are en route to Mintaka Three, where a three man Federation anthropological field team has been studying the inhabitants. Our mission is to resupply the outpost and repair their malfunctioning reactor.
+PICARD: Captain's log, Stardate 43173.5. We are en route to Mintaka Three, where a three man Federation anthropological field team has been studying the inhabitants. Our mission is to resupply the outpost and repair their malfunctioning reactor.
 [Bridge]
 
 PICARD: Mister La Forge, report.
@@ -486,7 +486,7 @@ NURIA: Liko, don't do it!
 OJI: Father, no!
 (Oji jolts Liko's arm enough to deflect the arrow into Picard's shoulder. Nuria holds up her blood-stained hand to Liko and he bursts into tears)
 
-Captain's log, supplemental. Doctor Crusher has repaired my injury with her usual skill. Mister La Forge will supervise the dismantling of the observation post after I make one last visit to Mintaka Three.
+PICARD: Captain's log, supplemental. Doctor Crusher has repaired my injury with her usual skill. Mister La Forge will supervise the dismantling of the observation post after I make one last visit to Mintaka Three.
 
 [Hillside]
 

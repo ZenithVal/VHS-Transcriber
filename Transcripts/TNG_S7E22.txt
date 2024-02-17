@@ -233,7 +233,7 @@ JASON: Thanks, but I think I can figure it out myself.
 PICARD: Perhaps we could climb together. I'm probably not as skilled as you, but I'm not inexperienced.
 JASON: Look, I'm sorry. I appreciate what you're trying to do. But Captain. Captain, father, Jean-Luc, I don't know what I'm supposed to call you. As soon as this thing with Bok is over, I'm leaving. So don't you see? There really isn't any point in our getting acquainted. Let me know as soon as you catch him, all right?
 
-Captain's log, stardate 47829.1. We've been in the Xendi Kabu system for over three hours, and still no sign of Bok.
+PICARD: Captain's log, stardate 47829.1. We've been in the Xendi Kabu system for over three hours, and still no sign of Bok.
 
 [Bridge]
 
@@ -441,7 +441,7 @@ PICARD: They will cripple your vessel and keep you here until the Ferengi author
 (Tol disarms Bok)
 TOL: There is no profit in this for us.
 
-Captain's log, stardate 47831.8. At Jason's request, the Enterprise has returned to Camor Five.
+PICARD: Captain's log, stardate 47831.8. At Jason's request, the Enterprise has returned to Camor Five.
 
 [Corridor]
 

@@ -48,7 +48,7 @@ PICARD: With its Lang-cycle fusion engines still intact.
 DATA: Sensors indicate no life signs aboard, Captain.
 PICARD: I should hope not, Mister Data. That ship belongs in a museum. I'm afraid we're a little late. That call for help was probably initiated over a thousand years ago.
 
-Captain's log, Stardate 43205.6. We have arrived at Orelious Nine, to chart the battle in which the Menthars and Promellians fought to their mutual extinction. Among the ruins we have found a relic, a Promellian battle cruiser that has withstood the centuries.
+PICARD: Captain's log, Stardate 43205.6. We have arrived at Orelious Nine, to chart the battle in which the Menthars and Promellians fought to their mutual extinction. Among the ruins we have found a relic, a Promellian battle cruiser that has withstood the centuries.
 
 [Corridor]
 
@@ -226,7 +226,7 @@ RIKER [OC]: Away team to Enterprise. Captain, we may have found something. There
 
 RIKER: Coils here.
 DATA: They are identical to the coil we found earlier, Captain.
-PICARD [OC]: The Captain's log, perhaps?
+PICARD [OC]: The PICARD: Captain's log, perhaps?
 RIKER: That's what we were thinking.
 
 [Bridge]

@@ -3,7 +3,7 @@ Star Trek:TNG S1.26
 Hero Worship
 
 
-Captain's log, stardate 45397.3. Two days ago, Starbase five one four lost contact with the research vessel Vico, which was sent to explore the interior of a Black Cluster. We are en route to investigate.
+PICARD: Captain's log, stardate 45397.3. Two days ago, Starbase five one four lost contact with the research vessel Vico, which was sent to explore the interior of a Black Cluster. We are en route to investigate.
 [Bridge]
 
 FELTON: Captain, we are entering sector nine seven.
@@ -52,7 +52,7 @@ RIKER: Stay here, Geordi. Data.
 (a little further along, they find a young boy trapped under debris) 
 TIMOTHY: Are my parents alright?
 
-Captain's log, supplemental. A young boy, shielded from our initial sensor scans, has been discovered pinned beneath a fallen beam. The degree of damage to the Vico is making our rescue attempt difficult.
+PICARD: Captain's log, supplemental. A young boy, shielded from our initial sensor scans, has been discovered pinned beneath a fallen beam. The degree of damage to the Vico is making our rescue attempt difficult.
 
 [Bridge]
 
@@ -112,7 +112,7 @@ DATA: I am an android. My strength is many times that of a human. It is going to
 (he pushes up the beam with one hand, Timothy wriggles out and runs. Data drops the beam and follows, picking the boy up when he stumbles at the steps) 
 DATA: Energise.
 
-Captain's log, supplemental. A thorough search of the Vico has revealed no additional survivors. We have begun the process of counselling the boy with regard to the tragedy.
+PICARD: Captain's log, supplemental. A thorough search of the Vico has revealed no additional survivors. We have begun the process of counselling the boy with regard to the tragedy.
 
 [Sickbay]
 

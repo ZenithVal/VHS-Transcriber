@@ -117,7 +117,7 @@ SETAL: I must see your captain immediately.
 RIKER: We'll take you to Sickbay, after that
 SETAL: This cannot wait. I have information vital to your survival.
 
-Captain's log, Stardate 43462.5. We have beamed aboard an apparent Romulan defector, who claims to be a low ranking logistics officer with extraordinary information about a secret offensive.
+PICARD: Captain's log, Stardate 43462.5. We have beamed aboard an apparent Romulan defector, who claims to be a low ranking logistics officer with extraordinary information about a secret offensive.
 
 [Observation lounge]
 
@@ -212,7 +212,7 @@ CRUSHER: They're very bad burns. I hardly think
 PICARD: A possibility.
 (She nods)
 
-Captain's log, Stardate 43463.7. We're holding a position at the Neutral Zone border proximate to Nelvana Three. If our guest is telling the truth, there are twenty one hours left before the Romulan base becomes functional.
+PICARD: Captain's log, Stardate 43463.7. We're holding a position at the Neutral Zone border proximate to Nelvana Three. If our guest is telling the truth, there are twenty one hours left before the Romulan base becomes functional.
 
 [Ready room]
 

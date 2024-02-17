@@ -2,7 +2,7 @@ ST:TNG S2.11
 Star Trek:TNG S2.11
 Contagion
 
-Captain's log, stardate 42609.1. In response to a desperate plea for aid by my old friend, Captain Donald Varley of the USS Yamato, I am running a grave risk by taking the Enterprise into the Neutral Zone. Varley's request was prompted by dangerous malfunctions which have been plaguing our sister ship. Perhaps with both crews working together we can able to eliminate the problems before our presence is detected by the Romulans.
+PICARD: Captain's log, stardate 42609.1. In response to a desperate plea for aid by my old friend, Captain Donald Varley of the USS Yamato, I am running a grave risk by taking the Enterprise into the Neutral Zone. Varley's request was prompted by dangerous malfunctions which have been plaguing our sister ship. Perhaps with both crews working together we can able to eliminate the problems before our presence is detected by the Romulans.
 [Bridge]
 
 PICARD: How long to rendezvous, Mister Crusher?
@@ -47,7 +47,7 @@ WORF: Sir!
 DATA: Sensors indicate no life readings, sir.
 WORF: Captain. Another vessel is coming within sensor range. It is Romulan.
 
-Captain's log, supplemental. The Yamato's entire crew and their families, more than a thousand people, have been lost. Circumstances unfortunately permit us no pause for grief.
+PICARD: Captain's log, supplemental. The Yamato's entire crew and their families, more than a thousand people, have been lost. Circumstances unfortunately permit us no pause for grief.
 
 [Bridge]
 
@@ -162,7 +162,7 @@ PICARD: Easily? Oh no, not easily. We handle it because we're trained to, as you
 WESLEY: Didn't you order tea, sir?
 PICARD: Now that should not have happened.
 
-Captain's log, supplemental. As happened with our sister ship, the Enterprise is being to experience a series of system failures. So far they are random, but I fear they could be early symptoms of what happened to the Yamato.
+PICARD: Captain's log, supplemental. As happened with our sister ship, the Enterprise is being to experience a series of system failures. So far they are random, but I fear they could be early symptoms of what happened to the Yamato.
 
 [Engineering]
 
@@ -364,7 +364,7 @@ WESLEY: Why would the Romulans be experiencing problems? They weren't probed.
 RIKER: They must have tapped into the Yamato log. Taris got a whole lot more than she bargained for. Maintain Red Alert. Try to keep those shields up in case Taris decides to act on her threat.
 WESLEY: Commander, what about the away team? With the shields up, we can't beam them back.
 
-Captain's log, supplemental. While there is little left on the surface of Iconia, we have found what appears to be a control centre which seems to have remained intact.
+PICARD: Captain's log, supplemental. While there is little left on the surface of Iconia, we have found what appears to be a control centre which seems to have remained intact.
 
 [Iconian Control room]
 

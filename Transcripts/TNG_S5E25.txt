@@ -2,7 +2,7 @@ ST:TNG S5.25
 Star Trek:TNG S5.25
 The Inner Light
 
-Captain's log, stardate 45944.1. Following a magnetic wave survey of the Parvenium Sector, we've detected an object which we cannot immediately identify.
+PICARD: Captain's log, stardate 45944.1. Following a magnetic wave survey of the Parvenium Sector, we've detected an object which we cannot immediately identify.
 [Bridge]
 
 (the strange object is on the viewscreen)

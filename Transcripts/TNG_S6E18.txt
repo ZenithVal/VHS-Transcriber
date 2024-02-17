@@ -2,7 +2,7 @@ ST:TNG S6.18
 Star Trek:TNG S6.18
 Starship Mine
 
-Captain's log, stardate 46682.4. The Enterprise is docked at the Remmler Array, where it will undergo a routine procedure to eliminate accumulated baryon particles. In preparation for the sweep, we are evacuating the ship.
+PICARD: Captain's log, stardate 46682.4. The Enterprise is docked at the Remmler Array, where it will undergo a routine procedure to eliminate accumulated baryon particles. In preparation for the sweep, we are evacuating the ship.
 [Corridor]
 
 CREWWOMAN [OC]: Attention personnel on decks fourteen and fifteen. Your transporter room assignment has been changed. Report to transporter room three.

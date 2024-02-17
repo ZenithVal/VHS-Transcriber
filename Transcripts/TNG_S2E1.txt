@@ -62,7 +62,7 @@ DATA: Aye, sir.
 
 (The light pops up through the floor, hides from them follow a couple of crew, and goes up into crew quarters. It seems to examine one man asleep, then passes through a bulkhead, goes underneath the sheets and into Deanna Troi, who wakes up panting)
 
-Captain's log, Stardate 42073.1. There has been an outbreak of an unclassified plasma plague in the Rachelis system. We are on an emergency run to collect specimens of the deadly plague and transport them to Science Station Tango Sierra, where hopefully an antidote can be produced.
+PICARD: Captain's log, Stardate 42073.1. There has been an outbreak of an unclassified plasma plague in the Rachelis system. We are on an emergency run to collect specimens of the deadly plague and transport them to Science Station Tango Sierra, where hopefully an antidote can be produced.
 
 [Cargo deck five]
 
@@ -147,7 +147,7 @@ RIKER: Doctor, is there any health risk to Counsellor Troi if the foetus is abor
 TROI: Captain, do whatever you feel is necessary to protect the ship and the crew, but know this. I'm going to have this baby.
 PICARD: Then it seems that the discussion is over.
 
-Captain's log, supplemental. We have finally arrived at 'audet Nine, where we will pick up the specimens of plasma plague for transport to Rachelis. It is only because so many lives are at stake that I am willing to put this ship and crew at such great risk. Meanwhile, Counsellor Troi's pregnancy continues to progress at an astonishing rate.
+PICARD: Captain's log, supplemental. We have finally arrived at 'audet Nine, where we will pick up the specimens of plasma plague for transport to Rachelis. It is only because so many lives are at stake that I am willing to put this ship and crew at such great risk. Meanwhile, Counsellor Troi's pregnancy continues to progress at an astonishing rate.
 
 [Bridge]
 
@@ -169,7 +169,7 @@ DEALT [on viewscreen]: Very good. I will allow access you to my computer banks, 
 (transmission ends)
 PICARD: Mister Data, download the inventory and cross-reference it with the medical computer. Number One, arrange to have Hester Dealt transported up.
 
-Captain's log, supplemental. Although it's been fourteen hours since we arrived at 'audet Nine. Hester Dealt has still not completed inspection of the containment unit. A transfer will not be permitted until he's assured of zero growth during our voyage. Meanwhile, the desperate pleas from the Rachelis System continue.
+PICARD: Captain's log, supplemental. Although it's been fourteen hours since we arrived at 'audet Nine. Hester Dealt has still not completed inspection of the containment unit. A transfer will not be permitted until he's assured of zero growth during our voyage. Meanwhile, the desperate pleas from the Rachelis System continue.
 
 [Bridge]
 
@@ -267,7 +267,7 @@ IAN: Hello.
 PICARD: Hello, Ian.
 IAN: Please don't worry. Everything is okay.
 
-Captain's log, supplemental. We are faced with two major problems. Troi's child and the deadly cargo we are about to take on. In the hours since his birth, Troi's baby has continued his rapid growth and now appears, physically and mentally, to be a child of eight. Still there is no indication as to who he is, or why he is here.
+PICARD: Captain's log, supplemental. We are faced with two major problems. Troi's child and the deadly cargo we are about to take on. In the hours since his birth, Troi's baby has continued his rapid growth and now appears, physically and mentally, to be a child of eight. Still there is no indication as to who he is, or why he is here.
 
 [Bridge]
 
@@ -423,7 +423,7 @@ PICARD: How serious?
 
 DEALT: Very.
 
-Captain's log, supplemental. For reasons as yet unknown, one of the deadly specimens of plasma plague has begun to grow.
+PICARD: Captain's log, supplemental. For reasons as yet unknown, one of the deadly specimens of plasma plague has begun to grow.
 
 [Bridge]
 

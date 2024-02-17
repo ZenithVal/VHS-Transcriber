@@ -2,7 +2,7 @@ ST:TNG S2.17
 Star Trek:TNG S2.17
 Samaritan Snare
 
-Captain's log, Stardate 42779.1. We're en route to the Epsilon Nine Sector for astronomical survey of a new pulsar cluster. In the meantime, Ensign Crusher will be diverting to Starbase Five One Five for Starfleet exams.
+PICARD: Captain's log, Stardate 42779.1. We're en route to the Epsilon Nine Sector for astronomical survey of a new pulsar cluster. In the meantime, Ensign Crusher will be diverting to Starbase Five One Five for Starfleet exams.
 [Bridge]
 
 RIKER: This just came in for you from Starfleet

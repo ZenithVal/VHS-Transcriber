@@ -2,7 +2,7 @@ ST:TNG S6.10
 Star Trek:TNG S6.10
 Chain of Command, Part 1
 
-Captain's log, stardate 46357.4. We have rendezvoused with the starship Cairo near the Cardassian border for an urgent meeting with Vice Admiral Nechayev.
+PICARD: Captain's log, stardate 46357.4. We have rendezvoused with the starship Cairo near the Cardassian border for an urgent meeting with Vice Admiral Nechayev.
 [Ready room]
 
 PICARD: Come.
@@ -104,7 +104,7 @@ JELLICO: He was your first officer for five years.
 PICARD: One of the finest officers that I have ever served with.
 JELLICO: Of course he is, Jean-Luc. I'm sure it'll all work out.
 
-Captain's log, stardate 46358.2. The Enterprise is on course for a rendezvous with the Cardassian ship Reklar. Fortunately, I still have time to prepare the ship and crew for the task ahead.
+PICARD: Captain's log, stardate 46358.2. The Enterprise is on course for a rendezvous with the Cardassian ship Reklar. Fortunately, I still have time to prepare the ship and crew for the task ahead.
 
 [Bridge]
 

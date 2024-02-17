@@ -2,7 +2,7 @@ ST:TNG S5.10
 Star Trek:TNG S5.10
 New Ground
 
-Captain's log, stardate 45376.3. We are approaching the planet Bilana Three, where a new method of propulsion known as the Soliton Wave is being developed. The Enterprise has been asked to participate in one of the first tests of this new technology.
+PICARD: Captain's log, stardate 45376.3. We are approaching the planet Bilana Three, where a new method of propulsion known as the Soliton Wave is being developed. The Enterprise has been asked to participate in one of the first tests of this new technology.
 [Engineering]
 
 LAFORGE: Data! Data, isn't this exciting? We are going to witness a moment in history.

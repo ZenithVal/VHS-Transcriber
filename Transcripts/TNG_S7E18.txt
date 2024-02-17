@@ -177,7 +177,7 @@ CRUSHER: Three, maybe four hours.
 RIKER: This time I want someone with you.
 WORF: I shall accompany you, Counsellor.
 
-Captain's log, stardate 47623.2. We've arrived at Starbase three twenty eight on schedule. After taking aboard medical supplies, we will depart for Barson Two.
+PICARD: Captain's log, stardate 47623.2. We've arrived at Starbase three twenty eight on schedule. After taking aboard medical supplies, we will depart for Barson Two.
 
 [Troi's quarters]
 

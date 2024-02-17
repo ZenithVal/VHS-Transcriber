@@ -2,7 +2,7 @@ ST:TNG S3.17
 Star Trek:TNG S3.17
 Sins of the Father
 
-Captain's log, Stardate 43685.2 As part of an exchange programme, we're taking aboard a Klingon officer to return the recent visit of Commander Riker to the cruiser Pagh.
+PICARD: Captain's log, Stardate 43685.2 As part of an exchange programme, we're taking aboard a Klingon officer to return the recent visit of Commander Riker to the cruiser Pagh.
 [Corridor]
 
 PICARD: We must take care that while he is with us, Commander Kurn is accorded all the rights and responsibilities due the first officer of this ship. If he should feel patronised in any way

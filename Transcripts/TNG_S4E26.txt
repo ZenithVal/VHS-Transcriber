@@ -2,7 +2,7 @@ ST:TNG S4.26
 Star Trek:TNG S4.26
 Redemption
 
-Captain's log, stardate 44995.3. We're en route to the Klingon home world, where I will participate in the installation ceremony of Gowron, the next designated Leader of the High Council. This visit should also provide an opportunity for one of my officers to correct a grave injustice.
+PICARD: Captain's log, stardate 44995.3. We're en route to the Klingon home world, where I will participate in the installation ceremony of Gowron, the next designated Leader of the High Council. This visit should also provide an opportunity for one of my officers to correct a grave injustice.
 [Worf's quarters]
 
 (Worf is doing his bat'leth exercises when the doorbell rings)
@@ -151,7 +151,7 @@ WORF: I am the elder brother, Kurn. I speak for our family. We will back Gowron.
 KURN: It will be difficult to convince my allies to back Gowron. But I will try. I must go to the Mempa sector to meet with the other squadron commanders.
 WORF: Contact me when you have gained their support. Then I will be ready for Gowron.
 
-Captain's log, stardate 44996.8. My role as Arbiter of Succession has again brought me to the Great Hall of the Klingon High Council. 
+PICARD: Captain's log, stardate 44996.8. My role as Arbiter of Succession has again brought me to the Great Hall of the Klingon High Council. 
 
 [Great Hall]
 
@@ -358,7 +358,7 @@ GOWRON: You have done well, Commander Kurn. Lursa and B'Etor have moved more qui
 (transmission ends)
 GOWRON: Advise the Enterprise that their delegation is welcome to attend my installation as leader.
 
-Captain's log, stardate 44998.3. With new-found support, Gowron has chosen to proceed with the installation ceremony. The Enterprise has returned so that I may perform my final duty as Arbiter of Succession.
+PICARD: Captain's log, stardate 44998.3. With new-found support, Gowron has chosen to proceed with the installation ceremony. The Enterprise has returned so that I may perform my final duty as Arbiter of Succession.
 
 [Great hall]
 

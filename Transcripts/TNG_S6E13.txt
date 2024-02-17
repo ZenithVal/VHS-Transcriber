@@ -2,7 +2,7 @@ ST:TNG S6.13
 Star Trek:TNG S6.13
 Aquiel
 
-Captain's log, stardate 46461.3. We have arrived at a communication relay station near the Klingon border, where we are scheduled to deliver supplies. However, the station has not responded to repeated hails.
+PICARD: Captain's log, stardate 46461.3. We have arrived at a communication relay station near the Klingon border, where we are scheduled to deliver supplies. However, the station has not responded to repeated hails.
 [Relay Station ops]
 
 (an away team arrives to investigate)
@@ -276,7 +276,7 @@ COMPUTER: The logs have been deleted.
 LAFORGE: Who deleted them?
 COMPUTER: Unknown.
 
-Captain's log, supplemental. The Qu'Vat has arrived with Commander Morag. We are preparing to question him regarding his involvement in the murder of Lieutenant Rocha.
+PICARD: Captain's log, supplemental. The Qu'Vat has arrived with Commander Morag. We are preparing to question him regarding his involvement in the murder of Lieutenant Rocha.
 
 [Observation lounge]
 

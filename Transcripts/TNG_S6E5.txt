@@ -2,7 +2,7 @@ ST:TNG S6.05
 Star Trek:TNG S6.05
 Schisms
 
-Captain's log, stardate 46154.2. The Enterprise has entered the Amargosa Diaspora, an unusually dense globular cluster. We are faced with the daunting task of charting this vast region.
+PICARD: Captain's log, stardate 46154.2. The Enterprise has entered the Amargosa Diaspora, an unusually dense globular cluster. We are faced with the daunting task of charting this vast region.
 [Riker's quarters]
 
 (Riker walks from a very unrestful night's sleep. The clock says 10:37)
@@ -508,7 +508,7 @@ SHIPLEY: Emitters recharging.
 
 (the rupture turns into a blue streak which whizzes around then flies out into space)
 
-Captain's log, stardate 46191.2. The tetryon emissions in cargo bay four have ceased, and there have been no further indications of alien intrusions. All Enterprise crewmembers are safe and accounted for. But we are still left with some unanswered questions.
+PICARD: Captain's log, stardate 46191.2. The tetryon emissions in cargo bay four have ceased, and there have been no further indications of alien intrusions. All Enterprise crewmembers are safe and accounted for. But we are still left with some unanswered questions.
 
 [Observation lounge]
 

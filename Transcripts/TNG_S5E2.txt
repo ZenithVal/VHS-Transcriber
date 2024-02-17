@@ -2,7 +2,7 @@ ST:TNG S5.02
 Star Trek:TNG S5.02
 Darmok
 
-Captain's log, stardate 45047.2. The Enterprise is en route to the uninhabited El-Adrel system, its location is near the territory occupied by an enigmatic race known as The Children of Tama.
+PICARD: Captain's log, stardate 45047.2. The Enterprise is en route to the uninhabited El-Adrel system, its location is near the territory occupied by an enigmatic race known as The Children of Tama.
 
 [Observation lounge]
 
@@ -211,7 +211,7 @@ TROI: I think we've got something.
 
 [Planet surface]
 
-PICARD: A captain's log?
+PICARD: A PICARD: Captain's log?
 DATHON: Darmok!
 (Dathon comes running back.)
 DATHON: Darmok and Jalad at Tanagra!

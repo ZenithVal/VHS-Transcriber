@@ -47,7 +47,7 @@ RIKER: Hold your position, Mister Worf.
 
 LAFORGE: Worf!
 
-Captain's log, Stardate 43349.2. An unidentified distress signal has led to the discovery of a crashed Romulan vessel on the surface of Galorndon Core, a Federation planet. We have recovered one survivor, but Lieutenant Commander La Forge did not report back with the away team and is still missing.
+PICARD: Captain's log, Stardate 43349.2. An unidentified distress signal has led to the discovery of a crashed Romulan vessel on the surface of Galorndon Core, a Federation planet. We have recovered one survivor, but Lieutenant Commander La Forge did not report back with the away team and is still missing.
 
 [Transporter room]
 

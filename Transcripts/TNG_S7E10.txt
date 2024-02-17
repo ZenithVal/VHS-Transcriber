@@ -2,7 +2,7 @@ ST:TNG S7.10
 Star Trek:TNG S7.10
 Inheritance
 
-Captain's log, stardate 47410.2. The Atrean government has requested assistance in averting a natural disaster. Two of their geologists have come aboard, one of whom is a human who has been living on Atrea Four.
+PICARD: Captain's log, stardate 47410.2. The Atrean government has requested assistance in averting a natural disaster. Two of their geologists have come aboard, one of whom is a human who has been living on Atrea Four.
 [Observation lounge]
 
 JULIANA: Captain, our situation has worsened since my husband and I first contacted you. The molten core of our planet is not just cooling, it's begun to solidify.
@@ -401,7 +401,7 @@ PICARD: It's a difficult choice. You must do what you think best, Data. But what
 JULIANA: Data? What happened? The last thing I remember is jumping off a cliff.
 DATA: You were knocked unconscious by the fall. You broke a bone in your arm, but Doctor Crusher repaired it. Everything is fine.
 
-Captain's log, supplemental. The infusion of plasma into the core of Atrea Four has been accomplished. The core should remain molten for several hundred years.
+PICARD: Captain's log, supplemental. The infusion of plasma into the core of Atrea Four has been accomplished. The core should remain molten for several hundred years.
 
 [Transporter room]
 

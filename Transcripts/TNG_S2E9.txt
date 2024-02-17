@@ -2,7 +2,7 @@ ST:TNG S2.09
 Star Trek:TNG S2.09
 The Measure Of A Man
 
-Captain's log, stardate 42523.7. We are en route to newly established Starbase one seven three for port call. Crew rotation is scheduled, and we will be off-loading experiment modules.
+PICARD: Captain's log, stardate 42523.7. We are en route to newly established Starbase one seven three for port call. Crew rotation is scheduled, and we will be off-loading experiment modules.
 [Data's quarters]
 
 (Pulaski, La Forge, Data (wearing a dealer's shade) O'Brien and Riker are sitting down for an evening's entertainment)
@@ -176,7 +176,7 @@ MADDOX: Resigned? You can't resign.
 DATA: I regret the decision, but I must. I am the culmination of one man's dream. This is not ego or vanity, but when Doctor Soong created me he added to the substance of the universe. If by your experiments I am destroyed, something unique, something wonderful will be lost. I cannot permit that, I must protect his dream.
 MADDOX: And so must I. But keep packing, because one way or the other, you will be reporting.
 
-Captain's log, supplemental. Commander Bruce Maddox, having been thwarted by Data's abrupt resignation, is now seeking a legal remedy for his woes. Captain Louvois has requested my presence at those discussions.
+PICARD: Captain's log, supplemental. Commander Bruce Maddox, having been thwarted by Data's abrupt resignation, is now seeking a legal remedy for his woes. Captain Louvois has requested my presence at those discussions.
 
 [JAG office]
 

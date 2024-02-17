@@ -24,7 +24,7 @@ TROI: It's a start.
 RIKER [OC]: Riker to Data. Please report to the Bridge.
 DATA: Acknowledged, sir. On my way.
 
-Captain's log, stardate 47615.2. We have encountered a rogue comet in sector one one five six. It is not native to this region of space, and there is no previous record of this object on any Federation charts.
+PICARD: Captain's log, stardate 47615.2. We have encountered a rogue comet in sector one one five six. It is not native to this region of space, and there is no previous record of this object on any Federation charts.
 
 [Bridge]
 
@@ -470,7 +470,7 @@ PICARD: Acknowledged, Number One. Mister Data, are you all right?
 DATA: I believe so, sir. I am not entirely certain what has happened. Have I been dreaming again?
 PICARD: I'm afraid that will take some time to explain.
 
-Captain's log, stardate 47618.4. Commander La Forge has managed to disable the alien transformation programme. Starfleet has dispatched an archaeological team to study the archive further.
+PICARD: Captain's log, stardate 47618.4. Commander La Forge has managed to disable the alien transformation programme. Starfleet has dispatched an archaeological team to study the archive further.
 
 [Ready room]
 

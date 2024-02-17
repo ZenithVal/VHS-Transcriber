@@ -2,7 +2,7 @@ ST:TNG S2.21
 Star Trek:TNG S2.21
 Peak Performance
 
-Captain's log, Stardate 42923.4. Despite misgivings, I have agreed to Starfleet's request that the Enterprise divert to the Braslota System, to take part in a war game exercise. Joining us as observer and mediator is the Zakdorn Master Strategist, Sirna Kolrami.
+PICARD: Captain's log, Stardate 42923.4. Despite misgivings, I have agreed to Starfleet's request that the Enterprise divert to the Braslota System, to take part in a war game exercise. Joining us as observer and mediator is the Zakdorn Master Strategist, Sirna Kolrami.
 [Observation lounge]
 
 (As they were walking through the Bridge, we could see that Kolrami takes two quick steps to Riker's one stride. He's a short, round, busy person.)
@@ -505,7 +505,7 @@ PICARD: Data?
 DATA: Our shields will not withstand another assault.
 KOLRAMI: Then there are no options. Retreat or die.
 
-Captain's log, supplemental. Due to a miscalculation on my part, Enterprise has been subjected a surprise attack by the Ferengi. I find myself with little time to decide the fate of forty of my crew stranded aboard the derelict Hathaway.
+PICARD: Captain's log, supplemental. Due to a miscalculation on my part, Enterprise has been subjected a surprise attack by the Ferengi. I find myself with little time to decide the fate of forty of my crew stranded aboard the derelict Hathaway.
 
 PICARD: I am open to suggestions.
 BURKE: Captain, we are now capable of launching a limited number of photon torpedoes.
@@ -609,7 +609,7 @@ RIKER [OC]: With pleasure, Captain.
 KOLRAMI: I must admit your Commander Riker acquitted himself quite admirably. And so, Captain, have you. My report to Starfleet will be most favourable.
 PICARD: Thank you. Initiate recovery procedures. Continue repairs. Plot a course for the nearest starbase.
 
-Captain's log, supplemental. With the transporter repaired and my crew safely back aboard, we have officially ended our first Starfleet battle simulation.
+PICARD: Captain's log, supplemental. With the transporter repaired and my crew safely back aboard, we have officially ended our first Starfleet battle simulation.
 
 [Ten forward]
 

@@ -32,7 +32,7 @@ TROI: You've been moving from starship to starship since Clara was two years old
 SUTTER: You're probably right.
 TROI: Give Clara a chance. As she learns to make friends on the Enterprise, you'll probably find that she'll leave her imaginary world behind.
 
-Captain's log, stardate 45852.1. The Enterprise has arrived at FGC four seven, a nebula which has formed around a neutron star. We are eager to investigate this unique formation.
+PICARD: Captain's log, stardate 45852.1. The Enterprise has arrived at FGC four seven, a nebula which has formed around a neutron star. We are eager to investigate this unique formation.
 
 [Bridge]
 

@@ -2,7 +2,7 @@ ST:TNG S6.02
 Star Trek:TNG S6.02
 Realm of Fear
 
-Captain's Log, Stardate 46041.1. We have located the USS Yosemite, a Starfleet science vessel sent to the Igo sector to observe a remote plasma streamer. The ship has not been heard from in several days.
+PICARD: Captain's log, Stardate 46041.1. We have located the USS Yosemite, a Starfleet science vessel sent to the Igo sector to observe a remote plasma streamer. The ship has not been heard from in several days.
 [Bridge]
 
 PICARD: Magnify.
@@ -442,7 +442,7 @@ LAFORGE: It looks like he pushed molecular dispersion past the integrity point. 
 BARCLAY: The residual energy from the plasma streamer. It must've amplified the charge in the buffer enough to keep your patterns from degrading.
 (Worf and the security team are beamed back with three more Yosemite crewmembers)
 
-Captain's log, stardate 46043.6. The reprogrammed biofilter was effective in removing the alien microbes from Mister Barclay and the four crewmembers. The microbes have been returned to the plasma streamer.
+PICARD: Captain's log, stardate 46043.6. The reprogrammed biofilter was effective in removing the alien microbes from Mister Barclay and the four crewmembers. The microbes have been returned to the plasma streamer.
 
 [Ten Forward]
 

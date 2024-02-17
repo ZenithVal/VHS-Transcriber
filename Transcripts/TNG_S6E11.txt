@@ -40,7 +40,7 @@ PICARD: Picard, Jean-Luc.
 MADRED: Place of birth?
 PICARD: La Barre, France.
 
-Captain's log, stardate 46360.8. The negotiations with the Cardassians have made little progress. I believe a military confrontation may be unavoidable.
+PICARD: Captain's log, stardate 46360.8. The negotiations with the Cardassians have made little progress. I believe a military confrontation may be unavoidable.
 
 [Observation lounge]
 

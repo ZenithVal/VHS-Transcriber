@@ -2,7 +2,7 @@ ST:TNG S4.04
 Star Trek:TNG S4.04
 Suddenly Human
 
-Captain's log, Stardate 44143.7. We have moved into Sector two one nine four seven in response to a distress call from a Talarian observation craft. The alien vessel appears adrift, and our initial scans have detected a life-threatening radiation leak within its propulsion system.
+PICARD: Captain's log, Stardate 44143.7. We have moved into Sector two one nine four seven in response to a distress call from a Talarian observation craft. The alien vessel appears adrift, and our initial scans have detected a life-threatening radiation leak within its propulsion system.
 [Bridge]
 
 WORF: I get no further response from the vessel.
@@ -38,7 +38,7 @@ CRUSHER: Commander, quickly.
 RIKER: What is it?
 CRUSHER: This boy. He's human.
 
-Captain's log, supplemental. We have completed emergency evacuation of four Talarians and one human. How this young man found himself in the company of these aliens remains a mystery.
+PICARD: Captain's log, supplemental. We have completed emergency evacuation of four Talarians and one human. How this young man found himself in the company of these aliens remains a mystery.
 
 [Sickbay]
 
@@ -241,7 +241,7 @@ ENDAR: What is his condition? Is he injured?
 PICARD: He was not wounded in the mishap, but as a representative of the Federation, I require an explanation. Why has this child been held in your custody for so many years?
 ENDAR: No explanation is warranted, Captain. He is my son.
 
-Captain's log, supplemental. Captain Endar's claim that Jeremiah Rossa is his son is clearly unacceptable. However, to avoid escalating tensions, I have invited the Talarian leader to come aboard the Enterprise so that we may address the issue face to face.
+PICARD: Captain's log, supplemental. Captain Endar's claim that Jeremiah Rossa is his son is clearly unacceptable. However, to avoid escalating tensions, I have invited the Talarian leader to come aboard the Enterprise so that we may address the issue face to face.
 
 [Ready room]
 
