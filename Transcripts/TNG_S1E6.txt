@@ -325,7 +325,8 @@ PICARD: He's unconscious. Why?
 CRUSHER: I'm not certain yet.
 WESLEY: He phased, sir.
 PICARD: What does that mean?
-WESLEY: Parts of him disappeared and then came back. Nobody else was paying attention to him the first time. RIKER: When we saw it this time, he seemed to be struggling, fighting it.
+WESLEY: Parts of him disappeared and then came back. Nobody else was paying attention to him the first time. 
+RIKER: When we saw it this time, he seemed to be struggling, fighting it.
 CRUSHER: He's dying.
 PICARD: He mustn't. He's the only one who can get us back.
 CRUSHER: Realistically, it does not seem possible.
@@ -368,7 +369,7 @@ PICARD: Until now.
 TRAVELLER: Captain, I seek only transportation in order to see and experience your reality. I am no a threat to you, your ship or your crew.
 WESLEY: He isn't, Captain. I know he isn't.
 PICARD: Our reality? And in order to satisfy this curiosity, you have brought my ship and my crew into great risk.
-TRAVELLER: I have made some mistakes.
+TRAVELLER: I have made some mistakes.😟
 PICARD: Some mistakes? What mistakes could possibly explain these incredible explosions of velocity?
 TRAVELLER: I don't know if I can put this in terms you'll understand.
 PICARD: I believe there may be a warp speed that can get us beyond Galaxy M Thirty Three, but there is no velocity of any magnitude that can possibly bring us wherever this is. Is it true what our navigation sensors are telling us? Are we millions of light years away from where we were?
@@ -408,7 +409,8 @@ KOSINSKI: Wait, Captain, not so fast. We have an opportunity here for scientific
 PICARD: And we report our observations how? To whom? (to the Traveller) Can you get us back?
 TRAVELLER: I will try.
 PICARD: Number One, take him down to main Engineering. I'll be on the Bridge.
-WESLEY: No! He's very weak. TRAVELLER: The Captain's right. We must hurry. But first, I request a moment with the Captain. Alone.
+WESLEY: No! He's very weak. 
+TRAVELLER: The Captain's right. We must hurry. But first, I request a moment with the Captain. Alone.
 (Riker, Kosinski, Crusher and Wesley leave)
 PICARD: Strange how he seems to care for you.
 TRAVELLER: He will forget me in time, which is as it should be. It's Wesley I wanted to speak to you about.
@@ -489,7 +491,7 @@ DATA: Sleigh ride?
 LAFORGE: Or whatever you want to call it, Data. I don't have a proper name for it.
 (Riker enters)
 RIKER: The Traveller's gone, sir.
-PICARD: Gone?
+PICARD: Gone?😟
 RIKER: He's phased completely out of existence. At least, out of our existence.
 PICARD: Attention all decks. This is to inform you that with your support the Traveller has returned us to our galaxy. However, he has now left us. Wherever he has gone, we wish him well. Have the boy sent to the Bridge, Number One.
 RIKER: Wesley Crusher, report to the Bridge, on the double.
@@ -508,7 +510,8 @@ PICARD: Please don't interrupt me, Wesley.
 WESLEY: I'm sorry, sir.
 PICARD: Any commissioned rank? Even ensign?
 RIKER: That would give him authorised access to the Bridge.
-PICARD: Well, then, I'll have to make him an acting ensign. PICARD: Captain's log, stardate 41263.4. For outstanding performance in the best of Starfleet tradition, Wesley Crusher is made Acting Ensign, with the duties and privileges of that rank. And whether that rank becomes permanent, Mister Crusher, depends on you. At the earliest opportunity, your entrance application for Starfleet Academy will be tendered. Until then, you will learn this ship. Every operation, every function. Commander Riker, a duty schedule for Mister Crusher, heavy on study.
+PICARD: Well, then, I'll have to make him an acting ensign. 
+PICARD: Captain's log, stardate 41263.4. For outstanding performance in the best of Starfleet tradition, Wesley Crusher is made Acting Ensign, with the duties and privileges of that rank. And whether that rank becomes permanent, Mister Crusher, depends on you. At the earliest opportunity, your entrance application for Starfleet Academy will be tendered. Until then, you will learn this ship. Every operation, every function. Commander Riker, a duty schedule for Mister Crusher, heavy on study.
 RIKER: Aye, sir.
 PICARD: Meanwhile, you can sit here and learn something.
 (Wesley perches on the end of the arch supporting the command seats)

@@ -515,7 +515,7 @@ Captain's log, stardate 46191.2. The tetryon emissions in cargo bay four have ce
 DATA: Based on the information gathered by Commander Riker's tricorder, we have determined that the molecular structure of the alien life forms is solanogen-based.
 LAFORGE: We think that's why they couldn't come through into our space, as easily as they could take us into theirs. They needed to learn how to remodulate their cellular energy states in order to survive in our universe.
 DATA: The tricorder readings indicate they created a small pocket of our universe in their laboratory to keep those they abducted alive.
-RIKER: Like putting a fish in a bucket of water.
+RIKER: Like putting a fish in a bucket of water.🎣
 LAFORGE: That's probably what they were trying to do in cargo bay four. Create a pocket of their universe in ours.
 PICARD: What can we do to prevent this from happening again?
 LAFORGE: It looks like they found us initially by discovering my modified sensor signal. We should warn all Starfleet ships not to make that same mistake.

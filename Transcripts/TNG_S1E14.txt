@@ -96,7 +96,7 @@ LAFORGE: Doctor Noonien Soong, my friend, happens to have been Earth's foremost 
 TASHA: Until he tried to make Asimov's dream of a positronic brain come true.
 RIKER: A positronic brain. He promised so much. And then when he failed completely, Doctor Soong disappeared. Now we know he went somewhere else to try a second time. Data, Geordi, we'll get a close look at this lab. You and Lieutenant Worf reconnoitre where these corridors lead.
 TASHA: Aye, sir.
-(Tasha and Work leave)
+(Tasha and Worf leave)
 (Riker presses a button and a cover slides back to reveal a transparent torso and face mask. Data puts the mask over his own face)
 LAFORGE: Data, it's you.
 RIKER: An epidermal mold. Made to give your exterior the desired finish.
@@ -197,7 +197,7 @@ DATA: All of which you will learn more about when the Captain has approved your 
 LORE: Have I committed an offence?
 WESLEY: You will find that there are many rules on starships that must be learnt.
 LORE: You're very clever, Wesley. I now have duties to perform. Correct?
-WORF: Were you ever this anxious to please, Data?
+WORF: Were you ever this anxious to please, Data?😟
 DATA: Never. I judge Lore to be superior in that desire.
 LORE: Because I was designed to be so human, my brother, I enjoy pleasing humans.
 LAFORGE: My brother. That has a nice sound to it, Data.
@@ -238,7 +238,7 @@ DATA: Use it also to describe for the Captain the time you spent among the colon
 LORE: I promise a report of great detail and accuracy.
 DATA: Thank you, Lore. I now have duties to perform. Unless of course, you need something more.
 LORE: I have more than I dreamed possible, brother.
-(And Lore starts accessing ship's records at great speed from terminal 40271)
+(And Lore starts accessing ship's records at great speed from terminal 40271)😟
 
 PICARD: Captain's log, stardate 41242.5. Thanks to Lore's report, we now know what happened to the colonists. Beginning with a child's drawing, enhanced by Lore's description, our computer has constructed the image of a great crystalline entity which feeds on life, insatiably ravenous for the life force found in living forms, capable of stripping all life from an entire world.
 
@@ -264,14 +264,14 @@ TASHA: Thank you, sir.
 
 [Data's Quarters]
 
-(Lore pours out two glasses of champagne, and adds a substance to one of them. Data enters)
+(Lore pours out two glasses of champagne, and adds a substance to one of them. Data enters)😟
 LORE: Lesson number one in becoming more human. You must observe all human customs.
 DATA: Champagne?
 LORE: An ancient ritual still practiced when they celebrate events of importance. My brother, I toast our discovery of each other. May it fill our lives with new meaning.
 (Data drinks from the doctored glass)
 DATA: I have some doubts about the value of human customs (feels an effect) in this. My brother!
 LORE: And let us toast also Doctor Soong, who gave me the full richness of human needs and ambitions. A perfect match for my mind, my body.
-(Data collapses)
+(Data collapses)😟😟😱😱😨😨😭😭
 LORE: And let us toast also the great Crystal Entity with whom I learned to communicate. Before Doctor Soong disassembled me, I earned its gratitude by revealing the way to the colonists. Can you image its gratitude when I give it the life on this vessel?
 
 [Bridge]
@@ -309,7 +309,7 @@ RIKER: I can't believe anything's overtaking us this fast.
 LORE: Beautiful, isn't it?
 RIKER: I recognise it, sir. It's the crystal image Lore described.
 CRUSHER: My God.
-(The Enterprise is dwarfed by the Entity)
+(The Enterprise is dwarfed by the Entity)😟
 TASHA: Still no ID being transmitted, sir. Also no answer to our inquiries.
 (Geordi enters, or re-enters. Some time must have passed)
 PICARD: Did you get a direct look at it?
@@ -412,7 +412,8 @@ LORE: Thank you for my human quality, Doctor Soong. Wait! A small payment for yo
 DATA: Wes! The transporter.
 (Data throws Lore onto the pad, and just as Lore aims the phaser)
 DATA: Wesley, now!
-(Wesley beams Lore out, somewhere. Tasha and Riker arrive, armed, followed by Picard and Crusher)
+(Wesley beams Lore out, somewhere.)😊😊😊🙂🙂🙂🙂
+(Tasha and Riker arrive, armed, followed by Picard and Crusher)
 WESLEY: Lore's gone, sir. Permanently.
 PICARD: Doctor, now that Wesley's safe, go to Sickbay at once.
 (Crusher leaves)

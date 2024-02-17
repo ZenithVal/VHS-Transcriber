@@ -170,7 +170,11 @@ COMPUTER: Programme installation complete. You may enter.
 (The comic is standing on a small stage behind a microphone stand)
 COMIC: Thank you ladies and gentlemen. Thank you very much. You've been great. As a matter of fact I'd like to take you home with me. Unfortunately I took the last audience home and there's no more room. Boom, boom. But thank you, really. Thank you. Hey, and thank you for bringing me here. What's up?
 DATA: Mister Comic, I wish to know what is funny.
-COMIC: Funny? I don't know. It's a matter of opinion, I guess. Tip O'Neill in a dress? Some people say words that end with a K are funny. A briefcase that looks like a fish. Personally I find that hysterical.
+COMIC: Funny? I don't know. It's a matter of opinion, I guess. 
+COMIC: Tip O'Neill in a dress? 
+COMIC: Some people say words that end with a K are funny. 
+COMIC: A briefcase that looks like a fish. 🎣
+COMIC: Personally I find that hysterical.
 DATA: Tip O'Neill. Accessing. Twentieth century male, politician, overweight, wearing female clothing, carrying a valise that looks like a fish. So, the juxtaposition of gender and an amphibian briefcase is funny.
 COMIC: Well, I think whatever makes you laugh is funny.
 (They sit at a table)

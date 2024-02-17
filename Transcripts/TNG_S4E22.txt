@@ -218,7 +218,10 @@ ENSIGN: Aye, sir.
 [Ten Forward]
 
 (Timicin is sitting gazing at the stars)
-LWAXANA: I'm so sorry, Timicin. I had one of those named after me once. Brilliant young astronomer from Rigel Four. Of course, I sparkled a bit myself in those days. You see, that's called fishing for a compliment. You're supposed to tell me I still sparkle. I'm sorry, I'm not helping, am I?
+LWAXANA: I'm so sorry, Timicin. I had one of those named after me once. Brilliant young astronomer from Rigel Four. Of course, I sparkled a bit myself in those days. 
+LWAXANA: You see, that's called fishing for a compliment. 
+LWAXANA: You're supposed to tell me I still sparkle. 
+LWAXANA: I'm sorry, I'm not helping, am I?
 TIMICIN: You're very kind. I'm just not adequate company right now.
 LWAXANA: Oh, that's all right, I can make enough conversation for both of us. I'll leave you alone.
 TIMICIN: No. Please stay. I wanted to tell you how much I wish we had met years ago.

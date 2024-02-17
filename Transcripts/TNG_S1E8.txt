@@ -111,7 +111,7 @@ LAFORGE: Warp eight, sir.
 
 [Crusher's quarters]
 
-WESLEY: Him Mom. You're back early.
+WESLEY: Hi Mom. You're back early.
 CRUSHER: Yes.
 (She looks at the computer monitor he's studying)
 WESLEY: Physical sciences class. We're studying Doctor Channing's theory on dilithium crystals.
@@ -149,7 +149,7 @@ SINGH [OC]: Engineering to Captain Picard.
 
 [Engineering]
 
-SINGH: We have something wrong with warp drive circuitry, sir.
+SINGH: We have something wrong with warp drive circuitry, sir.😟
 
 [Bridge]
 
@@ -208,7 +208,7 @@ DATA: Sir, subspace radio is out.
 PICARD: All right, gentlemen, your theories on this sudden vulnerability of these systems. 
 DATA: If the Enterprise were really this fragile, sir, she never would have left Spacedock. Therefore, her systems' failures are not endemic to the ship, but are the result of the actions of an unknown adversary.
 RIKER: We have a saboteur aboard.
-DATA: I believe I said that.
+DATA: I believe I said that.😊😊
 PICARD: Gentlemen. The question is, who? I can't believe it's one of our people.
 RIKER: Agreed. It must be someone from either alien delegation. Now, if the Ferengi could have bought or bribed even one of them, that's all that they'd need.
 DATA: Ferengi contacts have been detected on both Selay and Antica, sir.
@@ -304,7 +304,7 @@ CRUSHER: Yes.
 TROI: I want you to go back in your mind to the moment when you first recall this sensation of memory loss. Picture it exactly as it occurred.
 CRUSHER: He's lying on the hospital bed sedated. I'm walking up to him. I.
 TROI: How do you feel at this moment, as you lean over him to take the specimen?
-CRUSHER: I feel someone else. There's someone else who's there. Not alone. Get out. Get out of my mind.
+CRUSHER: I feel someone else. There's someone else who's there. Not alone. Get out. Get out of my mind.😟
 TROI: (to Worf) That's almost exactly what you said. As though there was something else inside you.
 
 [Observation lounge]
@@ -371,7 +371,7 @@ O'BRIEN: Please, return to your quarters, delegates!
 DATA: A mere change of direction hardly justifies mutiny.
 CRUSHER: Exactly what do you believe you're sensing from him?
 TROI: It's just a feeling that he's, well, that he's closed part of his mind to me. I just feel that the Captain has become, perhaps dangerous.
-RIKER: If he's dangerous. If.
+RIKER: If he's dangerous. If.😟😟
 LAFORGE: Then he'd have to be relieved of command. Which you could do, Doctor, but it's beaucoup trouble if you're wrong.
 DATA: And at the moment it is all pure speculation. He has done nothing to subject the Enterprise to danger.
 CRUSHER: I'd need a medical log citing clear evidence of incapacity. You could do it without that problem.

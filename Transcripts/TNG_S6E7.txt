@@ -366,7 +366,7 @@ LURIN: Very hazardous, Commander.
 
 [School room]
 
-(the classroom seven computer interface is a talking fish with a male voice)
+(the classroom seven computer interface is a talking fish 🎣 with a male voice)
 COMPUTER: Hello. I'm the classroom computer system. What can I do for you, today?
 PICARD JR: Computer, display interior security grid.
 COMPUTER: I'm sorry, but I can't do that. Would you like to play a game?

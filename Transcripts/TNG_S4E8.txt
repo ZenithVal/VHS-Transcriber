@@ -364,7 +364,7 @@ RIKER: I'll have to take your word for that because I don't remember any of it. 
 
 [Corridor]
 
-RIKER: I'm not sure it's still in the memory banks, but I used to have a great fishing programme on the holodeck.
+RIKER: I'm not sure it's still in the memory banks, but I used to have a great fishing programme on the holodeck.🎣🎣
 JEAN-LUC: The Curtis Creek programme?
 RIKER: You know it?
 JEAN-LUC: Sure. We've gone to Curtis Creek lots of times.
@@ -375,7 +375,8 @@ JEAN-LUC: Great!
 
 [Riker's quarters]
 
-JEAN-LUC: And then Mom tried to net the fish, and she fell in the creek, too. And then you tried to pull us both out, and you fell in.
+JEAN-LUC: And then Mom tried to net the fish,🎣 and she fell in the creek, too. 
+JEAN-LUC: And then you tried to pull us both out, and you fell in.
 RIKER: I'm not sure I want to remember that.
 JEAN-LUC: Mom really liked Curtis Creek. We went there for picnics and stuff lots of times.
 RIKER: What was she like?
