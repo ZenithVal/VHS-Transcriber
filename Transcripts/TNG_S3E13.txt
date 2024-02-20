@@ -15,7 +15,9 @@ DATA: No, Doctor. It is a most unusual phenomenon.
 PICARD: Won't the moon disintegrate prior to impact?
 SCIENTIST [on viewscreen]: No, it has a ferrous crystalline structure and it will be able to withstand tidal forces, Captain
 RIKER: Could we blow it into pieces?
-DATA: The total mass of the moon would remain the same, Commander, and the impact of thousands of fragments would spread destruction over an even wider area.
+DATA: The total mass of the moon would remain the same, Commander, 
+DATA: and the impact of thousands of fragments would spread destruction 
+DATA: over an even wider area.
 PICARD: How long before impact?
 DATA: Twenty nine hours, sir. Projecting it somewhere on the western continent. That would destroy an area eight hundred kilometres in radius.
 SCIENTIST [on viewscreen]: That damage would be insignificant, Captain, compared to the seismic repercussions massive landquakes, and tsunami.
@@ -106,14 +108,24 @@ Q: Given the option, I'll walk. You've disappointed me, Jean-Luc. I'm very disap
 
 [Turbolift]
 
-Q: It was a mistake. I never should have picked human. I knew it the minute I said it. To think of the future in this shell. Forced to cover myself with fabric because of some outdated human morality. To say nothing of being too hot or too cold, growing feeble with age, losing my hair, catching a disease, being ticklish, sneezing, having an itch, a pimple, bad breath. Having to bathe.
-WORF: Too bad.
+Q: It was a mistake. 
+Q: I never should have picked human. 
+Q: I knew it the minute I said it. 
+Q: To think of the future in this shell. 
+Q: Forced to cover myself with fabric because of some outdated human morality. 
+Q: To say nothing of being too hot or too cold, growing feeble with age, losing my hair, 
+Q: catching a disease, being ticklish, sneezing, having an itch, a pimple, bad breath. 
+Q: Having to bathe. 
+WORF: Too bad. 😊😊😊😊🙂
 
 [Corridor]
 
 Q: Klingon. I should have said Klingon. In my heart of hearts, I am a Klingon, Worf.
 (Q puts his hand on Worf's shoulder and quickly removes it)
-Q: Sorry. So you understand I could never survive in confinement. I mean, this is cruel and unusual punishment. The universe has been my back yard. As a fellow Klingon, if you would speak to the Captain on my behalf, I would be eternally grateful. which doesn't mean as much as it used to, I admit.
+Q: Sorry. So you understand I could never survive in confinement. I mean, this is cruel and unusual punishment. 
+Q: The universe has been my back yard. 
+Q: As a fellow Klingon, if you would speak to the Captain on my behalf, I would be eternally grateful. 
+Q: which doesn't mean as much as it used to, I admit.
 WORF: Be quiet! Or disappear back where you came from.
 Q: I can't disappear any more than you could win a beauty contest.
 
@@ -265,7 +277,9 @@ DATA: I have observed that the selection of food is often influenced by the mood
 Q: I'm in a dreadful mood. Get me something appropriate.
 DATA: When Counsellor Troi is unhappy, she usually eats something chocolate.
 Q: Chocolate?
-DATA: A chocolate sundae, for example. Although I do not speak from personal experience, I have seen it have a profound psychological impact.
+DATA: A chocolate sundae, for example. 
+DATA: Although I do not speak from personal experience, 
+DATA: I have seen it have a profound psychological impact.
 Q: I'll have ten chocolate sundaes. 🍽️
 WAITRESS: Ten?
 DATA: I've never seen anyone eat ten chocolate sundaes.
@@ -353,8 +367,8 @@ WORF: The added harmonics are blocking the tachyon field.
 [Ten forward]
 
 (Q is freed, and falls to the floor)
-Q: Help me! Somebody, help me!
-GUINAN: How the mighty have fallen. 😊😊
+Q: Help me! Somebody, help me! 😊
+GUINAN: How the mighty have fallen. 😊
 
 PICARD: Captain's log, supplemental. 
 PICARD: We have sustained light damage from an attack by an alien species known as the Calamarain. 
@@ -404,8 +418,10 @@ WORF [OC]: Aye, sir.
 [Corridor]
 
 Q: Picard thinks I can't cut it on his starship. I can do anything his little trained minions can do.
-DATA: I do not perceive your skills to be in doubt, Q. The Captain is more concerned with your ability to interact successfully with his little trained minions.
-DATA: Human interpersonal relationships are more complex. Your experiences may not have adequately prepared you.
+DATA: I do not perceive your skills to be in doubt, Q. 
+DATA: The Captain is more concerned with your ability to interact successfully with his little trained minions.
+DATA: Human interpersonal relationships are more complex. 
+DATA: Your experiences may not have adequately prepared you.
 Q: I'm not interested in human interpersonal relationships. I just want to prove to Picard that I'm indispensable.
 
 [Turbolift]
@@ -473,12 +489,13 @@ PICARD [OC]: Do you recommend that we proceed?
 Q: The two parts of the moon will have different inertial densities.
 LAFORGE: Stand by, Captain. I can adjust the field symmetry to compensate.
 Q: I doubt it.
-LAFORGE: You don't know what this ship can do, Mister. Yes, Captain, I still believe it'll work. Increasing power and warp field and tractor beam.
+LAFORGE: You don't know what this ship can do, Mister. Yes, Captain, I still believe it'll work. 
+LAFORGE: Increasing power and warp field and tractor beam.
 Q: And if you're wrong, the moon will crumble due to subspace compression. Don't say I didn't warn you.
-LAFORGE: Shut up, Q.
+LAFORGE: Shut up, Q. 😭
 Q: I will not be spoken to in this manner!
 LAFORGE: Data.
-DATA: Q, I strongly suggest that you cooperate.
+DATA: Q, I strongly suggest that you cooperate. 😊
 DATA: Inertial mass of the moon is decreasing to approximately two point five million metric tonnes.
 LAFORGE: It's working. We can move it. Firing impulse engines.
 
@@ -690,7 +707,9 @@ SCIENTIST [on viewscreen]: How ever you did it, thank you. 🙂🙂🙂
 RIKER: Let's see it, Worf.
 (a diagram of a circular orbit on the screen)
 PICARD: Mister Data, your analysis?
-DATA: The moon's altitude is fifty five thousand kilometres. Projected orbit is circular. There is no further danger to the planet.
+DATA: The moon's altitude is fifty five thousand kilometres. 
+DATA: Projected orbit is circular. 
+DATA: There is no further danger to the planet.
 PICARD: Ensign, set course for Station Nigala Four.
 ENSIGN: Aye, sir.
 PICARD: Perhaps there's a residue of humanity in Q after all.  😊😊
