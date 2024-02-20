@@ -19,7 +19,7 @@ def convert_lines(lines, settings):
         "💤": "FAT+0.2",
         "🏃": "FAT-0.2",
         "🍽️": "HUN+0.2",
-        "🤢": "SIC+0.2", 
+        "🤢": "SIC+0.1", 
         "😱": "PAN+0.2", # Max 100
         "😨": "FEA+0.2", 
         "👻": "LFT+0.2", #Light Footed
