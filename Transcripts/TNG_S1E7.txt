@@ -2,7 +2,12 @@ ST:TNG S1.07
 Star Trek:TNG S1.07
 The Last Outpost
 
-PICARD: Captain's log, stardate 41386.4. We are in pursuit of a starship of Ferengi design. Our mission is to intercept and recover a T9 energy converter which the Ferengi stole from an unmanned monitor post on Gamma Tauri Four. A theft which automatic scanners recorded, providing us with the long awaited opportunity to make close contact with a Ferengi vessel. If we succeed in this chase, it will be Starfleet's first look at a life form which, discounting rumour, we know almost nothing about.
+PICARD: Captain's log, stardate 41386.4. We are in pursuit of a starship of Ferengi design. 
+PICARD: Our mission is to intercept and recover a T9 energy converter which the Ferengi 
+PICARD: stole from an unmanned monitor post on Gamma Tauri Four. 
+PICARD: A theft which automatic scanners recorded, providing us with the long awaited opportunity to make close contact with a Ferengi vessel.
+PICARD: If we succeed in this chase, it will be Starfleet's first look at a life form 
+PICARD: which, discounting rumour, we know almost nothing about.😨
 [Bridge]
 
 RIKER: There she is.
@@ -158,9 +163,15 @@ PICARD: The one that leads to total annihilation.
 
 PICARD: Open hailing frequencies.
 DATA: Open, sir.
-PICARD: Attention, Ferengi starship. This is Captain Picard. It is obvious that we are in a situation here which needs resolving, and we are willing to do whatever is required, whatever is necessary. I would like, I would request, that you present your terms to us.
+PICARD: Attention, Ferengi starship. This is Captain Picard. 
+PICARD: It is obvious that we are in a situation here which needs resolving, 
+PICARD: and we are willing to do whatever is required, whatever is necessary. 
+PICARD: I would like, I would request, that you present your terms to us.
 
-PICARD: Captain's log, stardate 41386.5. It is with a heavy heart that I have offered to meet whatever reasonable and necessary terms are demanded by the Ferengi. I fear for my people and my vessel in the event the unknown Ferengi ask the unreasonable. How can I oppose even unreasonable demands?
+PICARD: Captain's log, stardate 41386.5. 
+PICARD: It is with a heavy heart that I have offered to meet whatever reasonable and necessary terms are demanded by the Ferengi. 
+PICARD: I fear for my people and my vessel in the event the unknown Ferengi ask the unreasonable. 
+PICARD: How can I oppose even unreasonable demands?
 
 [Bridge]
 
@@ -170,25 +181,35 @@ TASHA: Ready torpedoes, sir? We have enough power for a few of them.
 PICARD: Ready, but hold on ready. Open hailing frequencies.
 DATA: Hailing frequencies open, sir.
 PICARD: Ferengi vessel, we are awaiting your response.
-TASHA: Suggest first strike, sir. Our shields now only have sixty three seconds of power left before lowering.
+TASHA: Suggest first strike, sir. 
+TASHA: Our shields now only have sixty three seconds of power left before lowering.😟
 WORF: If the Ferengi ship's sensors can read us, sir, they will be waiting until we are most vulnerable.
 RIKER: I'm afraid I agree, Captain. They have not responded.
 PICARD: We'll wait a bit more, Number One.
-TASHA: Fifty seconds.
-PICARD: Patience. Patience.
+TASHA: Fifty seconds. 😟
+PICARD: Patience ~ Patience. 🙂
 TARR [OC]: The quicker we can come to terms, the better, NCC 1701-D.
 PICARD: Who is speaking?
 TARR: I am Tarr. DaiMon of the Ferengi. You wish to discuss surrender, Captain Picard?
 PICARD: What I said, DaiMon Tarr, is
-TARR [OC]: Unconditional surrender, I warn you, is totally unacceptable! We will die to the last one of us before such dishonour!
+TARR [OC]: Unconditional surrender, I warn you, is totally unacceptable! 
+TARR [OC]: We will die to the last one of us before such dishonour!
 TASHA: Hailing frequencies closed, sir.
-PICARD: Something has seized their ship too. They're in the same predicament as us. (to Geordi) Launch a sensor probe. Set it to search for the source of whatever this something is that is holding both ships. Go back to hailing frequency, fast. And I regret, DaiMon Tarr, that I can no longer negotiate unless it is conducted visually.
+PICARD: Something has seized their ship too. 
+PICARD: They're in the same predicament as us. 
+PICARD: (to Geordi) Launch a sensor probe. 
+PICARD: Set it to search for the source of whatever this something is that is holding both ships. 
+PICARD: Go back to hailing frequency, fast. 
+PICARD: And I regret, DaiMon Tarr, that I can no longer negotiate unless it is conducted visually.
 TARR [OC]: Your complete message not received, Enterprise, but visual communication is against our custom.
 PICARD: And it is against Starfleet orders to accept a surrender otherwise. Do you withdraw your surrender?
 TARR [OC]: You give us no choice, Enterprise. May we have a visual on you as well?
 PICARD: Agreed, DaiMon Tarr. You should be able to view us now. Are we on your screen?
-(The face of a humanoid with enormous ears fills the viewscreen. He even has crooked pointed teeth)
-TARR [on viewscreen]: Yes. The ugliness of the human was not an exaggeration. I do not know how your twisted alien culture has paralysed our vessel, but I concede your Enterprise is superior. We will return your worthless T9 device and we offer the life of our second officers as required by the Ferengi code.
+(The face of a humanoid with enormous ears fills the viewscreen. He even has crooked pointed teeth) 🤢
+TARR [on viewscreen]: Yes. The ugliness of the human was not an exaggeration. 
+TARR [on viewscreen]: I do not know how your twisted alien culture has paralysed our vessel, 
+TARR [on viewscreen]: but I concede your Enterprise is superior. 
+TARR [on viewscreen]: We will return your worthless T9 device and we offer the life of our second officers as required by the Ferengi code.
 DATA: (sotto voce to Geordi) Fortunately, Starfleet has no such rules involving our second officers.
 TARR: Is this to your satisfaction, Picard Captain?
 PICARD: Your offer may be inadequate, but I will discuss it with my staff. Stand by for further communications.
@@ -248,9 +269,9 @@ PICARD: With regard to the surrender, DaiMon Tarr. The facts are somewhat differ
 TARR [on viewscreen]: Our own probe has already shown us your trickery, human. We withdraw our surrender.
 PICARD: Agreed. Perhaps you would agree to a more productive relationship?
 TARR [on viewscreen]: I prefer a more profitable one, human.
-DATA: Yankee trader.
+DATA: Yankee trader. 😊😊
 TARR [on viewscreen]: Explain what means yankee traders?
-LAFORGE: He heard that.
+LAFORGE: He heard that. 😊
 PICARD: He recognises your interest in profit. Or is that an incorrect assumption?
 TARR [on viewscreen]: We seek only what is equitable. What do you seek? Why did you begin by attacking us?
 PICARD: We did not attack you. We gave chase in order to recover a Federation-owned energy device which

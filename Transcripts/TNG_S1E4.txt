@@ -2,7 +2,9 @@ ST:TNG S1.04
 Star Trek:TNG S1.04
 Code Of Honour
 
-PICARD: Captain's log, stardate 41235.25. Our location, planet Ligon Two, source of a rare vaccine needed on Federation planet Styris Four. Starfleet has instructed me to engage in a friendly visit and open treaty negotiations to acquire this medicinal substance.
+PICARD: Captain's log, stardate 41235.25. 
+PICARD: Our location, planet Ligon Two, source of a rare vaccine needed on Federation planet Styris Four. 
+PICARD: Starfleet has instructed me to engage in a friendly visit and open treaty negotiations to acquire this medicinal substance.
 [Bridge]
 
 LAFORGE: Standard orbit, sir.
