@@ -46,7 +46,7 @@ AMANDA: Well, thanks for walking me down.
 RIKER: Sure.
 (Riker leaves)
 AMANDA: Oh, no. Oh, no, no, no, no. I didn't mean it.
-(I count ten puppies)
+(About ten puppies)
 AMANDA: You guys can't stay here. (some vanish) Come on, all of you.
 (she picks up the last two)
 AMANDA: Hello. Come here, little one. You too. Come on, come on.
@@ -54,8 +54,11 @@ AMANDA: Hello. Come here, little one. You too. Come on, come on.
 
 [Medical lab]
 
-(Beverly is demonstrating a tricorder by using it on Amanda)
-CRUSHER: See all these readouts? That's your heart rate, your blood pressure all your vital signs. You're in good shape. You might just live to be my age.
+(Beverly is demonstrating a tricorder by using it on Amanda)🏥
+CRUSHER: See all these readouts? 
+CRUSHER: That's your heart rate, your blood pressure all your vital signs. 🏥
+CRUSHER: You're in good shape. 😊
+CRUSHER: You might just live to be my age.😊😊
 CRUSHER: Now, all these tricorders need to be tested before they get put in the supply containers that we're taking to Tagra.
 AMANDA: So I should scan myself with each one to make sure all the readouts are working?
 CRUSHER: Any unit that doesn't, put it aside and we'll do a diagnostic on it later.

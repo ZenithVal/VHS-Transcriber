@@ -28,10 +28,10 @@ DATA: The Tamarian seems to be stating the proper names of individuals and locat
 PICARD: Yes, but what does it all mean?
 DATA: I am at a loss, sir.
 PICARD: Captain, would you be prepared to consider the creation of a mutual non-aggression pact between our two peoples, possibly leading to a trade agreement and cultural interchange. Does this sound like a reasonable course of action to you?
-(the Tamarian crew find this funny)
+(the Tamarian crew find this funny)😊
 TAMARIAN [on viewscreen]: Kadir beneath Mo Moteh.
 DATHON [on viewscreen]: The river Temarc! In winter.
-(that wipes the smiles off their races)
+(that wipes the smiles off their races)😟
 PICARD: Impressions, Number One?
 RIKER: It appears they're trying their best.
 PICARD: As are we. For what it's worth.
@@ -46,11 +46,11 @@ TAMARIAN [on viewscreen]: Mirab.
 DATHON [on viewscreen]: Temarc! The river Temarc.
 (Dathon takes his aides dagger, and his own, and holds them out) 
 DATHON [on viewscreen]: Darmok and Jalad at Tanagra.
-(Dathon beams away, then Picard)
+(Dathon beams away, then Picard)😱😱😱
 RIKER: Block their transporter with the shields! Extend to maximum range!
-WORF: Not enough time.
+WORF: Not enough time.😨😨😭
 RIKER: Where is he?
-DATA: The Tamarians have transported Captain Picard to the planet surface along with their own captain.
+DATA: The Tamarians have transported Captain Picard to the planet surface along with their own captain.🙂🙂
 RIKER: Riker to O'Brien.
 DATA: It will not be possible to transport, sir. The Tamarian ship has created a particle scattering field on the planet's ionosphere.
 RIKER: Riker to Captain Picard. Captain, do you read me? Can we compensate?
@@ -69,9 +69,10 @@ PICARD: You want to fight with me? Is that it? A challenge?
 DATHON: Darmok and Jalad.
 PICARD: I don't know who or what Darmok and Jalad are, but I certainly didn't come here to start a war.
 DATHON: Darmok and Jalad at Tanagra.
-(Dathon throws a dagger towards Picard's feet. Picard picks it up and throws it back)
-PICARD: Sorry, Captain.
-DATHON: Shaka. When the walls fell.
+(Dathon throws a dagger towards Picard's feet.)😨
+(Picard picks it up and throws it back)
+PICARD: Sorry, Captain.😭
+DATHON: Shaka. When the walls fell.😭
 (he picks up the dagger and backs away)
 
 [Bridge]
@@ -90,12 +91,13 @@ WORF: Gladly, sir.
 RIKER: Worf, I want you to assemble a security team, take a shuttle down to the planet, bring back the captain.
 WORF: Aye, Commander.
 DATA: Sir, the Tamarians are fully capable of stopping a shuttle.
-RIKER: I'm aware of that. But disrupting our transporter beam and firing on a shuttle are two entirely different things. I'm betting they're not going to push it that far.
+RIKER: I'm aware of that. But disrupting our transporter beam and firing on a shuttle are two entirely different things. 
+RIKER: I'm betting they're not going to push it that far.
 
 [Planet surface]
 
 (It is night. Dathon has lit a cozy fire while Picard is only just getting his started when it goes out)
-DATHON: Shaka. When the walls fell.
+DATHON: Shaka. When the walls fell.😊
 PICARD: Shaka indeed. What now, Captain? Will you attack me in my sleep? If I don't freeze to death first.
 DATHON: Darmok of Kanza. Jalad of the Kituay.
 PICARD: Picard of the Federation. Of the starship Enterprise. Of the planet Earth.
@@ -103,11 +105,12 @@ DATHON: Kadir beneath Mo Moteh.
 (He casts some runes to make his mind up then lies down to sleep with his dagger. But Picard is pacing. Dathon gets up and throws a flaming brand towards him)
 DATHON: Temba.
 PICARD: Temba? What does that mean? Fire? Does Temba mean fire?
-DATHON: Temba. His arms wide.
-PICARD: Temba is a person? His arms wide. Because he's holding them apart in, in generosity. In giving. In taking.
-DATHON: Temba. His arms wide.
-(Picard accepts the gift of fire, and Dathon smiles.)
-PICARD: Thank you. Thank you.
+DATHON: Temba. His arms wide. 😊
+PICARD: Temba is a person? His arms wide. 
+PICARD: Because he's holding them apart in, in generosity ~ In giving ~ In taking.
+DATHON: Temba. His arms wide. 😊
+(Picard accepts the gift of fire, and Dathon smiles.) 😊😊😊🙂🙂🙂
+PICARD: Thank you. Thank you. 😊
 
 RIKER: First Officer's log, supplemental. I am sending a shuttlecraft to find Captain Picard, gambling that the Tamarians will sit tight rather than risk an exchange of phaser fire.
 
@@ -186,7 +189,7 @@ PICARD: Forgive the intrusion, Captain, but I need some answers.
 [Data's quarters]
 
 DATHON [on monitor]: Darmok at Tanagra.
-TAMARIAN [on monitor]: Shaka! Mirab, his sails unfurled.
+TAMARIAN [on monitor]: Shaka! Mirab, his sails unfurled.🙂
 DATHON [on monitor]: Darmok.
 TAMARIAN [on monitor]: Mirab.
 DATA: Freeze. Darmok.
@@ -211,7 +214,7 @@ TROI: I think we've got something.
 
 [Planet surface]
 
-PICARD: A PICARD: Captain's log?
+PICARD: Captain's log?
 DATHON: Darmok!
 (Dathon comes running back.)
 DATHON: Darmok and Jalad at Tanagra!
@@ -220,11 +223,12 @@ PICARD: I was curious. I meant no harm.
 DATHON: Shaka! Temba! His arms wide. Temba.
 (Dathon tries to give Picard the dagger.)
 PICARD: Enough! I'm not going to fight you. You'll just have to
-(Something big roars nearby.)
+(Something big roars nearby.)😨😨
 DATHON: Darmok and Jalad at Tanagra.
-(They look around, and rocks tumble down a hillside. Dathon offers the dagger again.)
-DATHON: Temba. His arms wide.
-(Picard takes the dagger.)
+(They look around, and rocks tumble down a hillside.)
+(Dathon offers the dagger again.)
+DATHON: Temba. His arms wide.🙂
+(Picard takes the dagger.)🔪
 PICARD: I'll go along with that.
 
 [Bridge]
@@ -452,8 +456,8 @@ O'BRIEN: We got him, Commander.
 
 RIKER: Maximum shields.
 WORF: Aye, sir.
-(The Tamarians return fire)
-RIKER: Red alert!
+(The Tamarians return fire)🔫
+RIKER: Red alert!😱😱
 WORF: Starboard shields holding at fifty two percent. Forward shields are gone.
 RIKER: Let's get out of here.
 DATA: That may not be possible, sir. The starboard nacelle sustained a direct hit. Warp engines are offline.
@@ -470,17 +474,18 @@ TAMARIAN [on viewscreen]: Zinda! His face black, his eyes red
 PICARD: Temarc! The river Temarc in winter.
 TAMARIAN [on viewscreen]: Darmok?
 PICARD: And Jalad. At Tanagra. Darmok and Jalad on the ocean.
-TAMARIAN [on viewscreen]: Sokath, his eyes open!
+TAMARIAN [on viewscreen]: Sokath, his eyes open!😊😊🙂
 PICARD: The beast at Tanagra. Uzani, his army. Shaka when the walls fell.
-(Picard holds up Dathon's journal, and the Tamarians beam it away.)
-TAMARIAN [on viewscreen]: Picard and Dathon at El-Adrel. Mirab, with sails unfurled.
-PICARD: (holds out the dagger) Temba, his arms open.
+(Picard holds up Dathon's journal, and the Tamarians beam it away.)😊😊🙂
+TAMARIAN [on viewscreen]: Picard and Dathon at El-Adrel. Mirab, with sails unfurled.😊😊
+PICARD: (holds out the dagger) Temba, his arms open.😊🙂
 TAMARIAN [on viewscreen]: Temba at rest.
-PICARD: Thank you.
-DATA: Power has been restored, sir.
+PICARD: Thank you.😊🙂
+DATA: Power has been restored, sir.😊🙂
 (Transmission ends.)
-RIKER: New friends, Captain?
-PICARD: I can't say, Number One. But at least they're not new enemies.
+RIKER: New friends, Captain?😊
+PICARD: I can't say, Number One. 
+PICARD: But at least they're not new enemies.😊😊😊🙂
 
 [Ready room]
 
