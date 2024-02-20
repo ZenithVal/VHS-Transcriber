@@ -11,16 +11,16 @@ def parse_settings():
 # Function to convert transcript lines to Lua format
 def convert_lines(lines, settings):
     emoji_codes = {
-        "😠": "ANG+10", # Max 100
+        "😠": "ANG+0.2", # Max 100
         "😟": "STS+0.2",
         "🙂": "STS-0.2",
         "😊": "UHP-0.2",
         "😭": "UHP+0.2",
-        "💤": "FAT+1",
-        "🏃": "FAT-1",
+        "💤": "FAT+0.2",
+        "🏃": "FAT-0.2",
         "🍽️": "HUN+0.2",
         "🤢": "SIC+0.2", 
-        "😱": "PAN+10", # Max 100
+        "😱": "PAN+0.2", # Max 100
         "😨": "FEA+0.2", 
         "👻": "LFT+0.2", #Light Footed
         "🔨": "CRP+0.2", #carpentry
