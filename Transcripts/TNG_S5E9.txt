@@ -388,7 +388,7 @@ PICARD: The good news.
 DATA: The motion of the dust has created a great deal of electrostatic energy in the upper atmosphere. With a modified phaser blast, we could create a shock front that would encircle the planet and ionise the particles.
 PICARD: That would be like striking a spark in a gas-filled room.
 DATA: With one exception, sir. The particles would be converted into a high energy plasma which our shields could absorb and then re-direct harmlessly into space.
-PICARD: Turn the Enterprise into a lightning rod?
+PICARD: Turn the Enterprise into a lightning rod?⚡
 DATA: Precisely, sir.
 PICARD: And the bad news?
 DATA: If our phaser discharge is off by as little as point zero six terawatts, it would cause a cascading exothermal inversion.

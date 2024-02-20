@@ -195,7 +195,8 @@ PICARD: Oh, I'm fine, Doctor. Lieutenant Yar, run a structural analysis on the S
 
 [Stargazer Captain's Quarters]
 
-(Picard is going through the books he left behind, and a trunk of clothes. Inside the trunk, something lights up, and he doubles over in agony)
+(Picard is going through the books he left behind, and a trunk of clothes.)
+(Inside the trunk, something lights up, and he doubles over in agony)
 
 [Ferengi Science Lab]
 

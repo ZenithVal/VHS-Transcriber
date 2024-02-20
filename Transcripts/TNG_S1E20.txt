@@ -147,7 +147,8 @@ LAFORGE: Right there.
 
 [Bridge]
 
-PICARD: Geordi, step closer. It looks to me like a spectrograph indicating metal fatigue.
+PICARD: Geordi, step closer. 
+PICARD: It looks to me like a spectrograph indicating metal fatigue.🥈🚗
 
 [Batris Corridor]
 

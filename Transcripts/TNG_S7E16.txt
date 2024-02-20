@@ -3,7 +3,10 @@ Star Trek:TNG S7.16
 Thine Own Self
 
 
-Bridge Officer's log, stardate 47611.2. Doctor Beverly Crusher reporting. We have rendezvoused with Counsellor Troi's shuttlecraft. She has just returned from a three day class reunion on Starbase two three one.
+CRUSHER: Bridge Officer's log, stardate 47611.2. 
+CRUSHER: Doctor Beverly Crusher reporting. 
+CRUSHER: We have rendezvoused with Counsellor Troi's shuttlecraft. 
+CRUSHER: She has just returned from a three day class reunion on Starbase two three one.
 [Bridge]
 
 (nightshift, with 'Captain' Crusher in command)
@@ -12,9 +15,14 @@ RAINER: Aye, sir.
 (Troi enters)
 CRUSHER: Deanna, welcome back.
 TROI: Thank you. I was just reporting in. I didn't expect to find anyone up except Data.
-CRUSHER: Data's away on assignment. A Federation deep space probe went off course and crashed on Barkon Four. Some of the material in the casing was radioactive, so Data was sent to recover it before it could contaminate the biosphere.
+CRUSHER: Data's away on assignment. 
+CRUSHER: A Federation deep space probe went off course and crashed on Barkon Four. 
+CRUSHER: Some of the material in the casing was radioactive, 
+CRUSHER: so Data was sent to recover it before it could contaminate the biosphere.
 TROI: Isn't Barkon Four inhabited?
-CRUSHER: Yes, it's a pre-industrial society, but the probe crashed over a hundred kilometres from the nearest settlement so Data shouldn't have any contact with the Barkonians. So, how was the reunion?
+CRUSHER: Yes, it's a pre-industrial society, but the probe crashed over a hundred kilometres from the nearest settlement 
+CRUSHER: so Data shouldn't have any contact with the Barkonians. 😟
+CRUSHER: So, how was the reunion?
 TROI: Fine. It was good to see some old friends. I'd lost touch with most of them. It's interesting to see the different paths some of their lives have taken. Beverly, you don't usually stand a watch on the Bridge even when Data's not here.
 CRUSHER: I volunteered tonight. I like to put in a little Bridge time now and then, stay on top of operations, tactical procedures. The truth is, I like it. It's not every doctor who gets to command a starship, even if it is the night shift.
 TROI: May I ask you a personal question? Why did you decide to become a Commander? I mean, you didn't need the rank in order to be Chief Medical Officer, so why put yourself through all the extra work?
@@ -34,7 +42,7 @@ GARVIN: So when you return from school tonight, I'll be meeting with the village
 GIA: Again?
 GARVIN: Gia.
 GIA: I know, I know. You're the town magistrate and you have a lot of work to do, but it always seems like you're always in some meeting or
-(enter Data, disheveled, carrying a box and making a strange noise)
+(enter Data, disheveled, carrying a box that's making a strange noise) 😟😨
 GARVIN: Gia, go home. Now. Who are you? What do you want?
 (Gia hides to watch)
 DATA: (trying to imitate the words) Who are you? What do you want?
@@ -58,26 +66,27 @@ GARVIN: Your eyes and skin look so strange. Your clothes, you look like you've b
 DATA: I do not remember being in an accident.
 GARVIN: What do you remember?
 DATA: I walked here from the mountains.
-GARVIN: The mountains? The mountains are over two hundred seltons from here.
+GARVIN: The mountains? 
+GARVIN: The mountains are over two hundred seltons from here. 😊
 DATA: I have a clear memory of my journey.
 GARVIN: What do you remember before that?
 DATA: I have no prior memory.
 GARVIN: Do you know what that is?
-(referring to the box marked Radioactive that Data is carrying)
+(referring to the box marked Radioactive that Data is carrying)😟
 DATA: No.
 GARVIN: May I? May I have it?
-DATA: Yes.
+DATA: Yes.😟
 GARVIN: There might be something in here that can tell us who you are.
 GARVIN: I wonder what these markings mean.
-DATA: Radioactive.
+DATA: Radioactive.😱
 GARVIN: What?
 DATA: That is what is written on the container.
 GARVIN: You can read this language?
 DATA: Evidently.
-GARVIN: Radioactive. What does that mean?
+GARVIN: Radioactive. What does that mean? 😨😨
 DATA: I do not know. Perhaps it is my name.
 GARVIN: I've never heard a name like that. You must come from a very distant place.
-(Garvin opens the box and takes out a piece of shiny metal)
+(Garvin opens the box and takes out a piece of shiny metal) 😱😱😱😨😨😟
 
 [Riker's quarters]
 
@@ -106,11 +115,16 @@ RIKER: We'll start tomorrow morning, oh eight hundred hours.
 
 [Garvin's home]
 
-(the local medicine woman is checking him over)
-TALUR: Remarkable set of teeth. Breath smells like, well, it doesn't have any smell actually. You can close your mouth. Let's see. Heartbeat sounds a little odd, but seems very regular. Skin feels clammy, but you say you feel fine?
+(the local medicine woman is checking him over)🏥
+TALUR: Remarkable set of teeth. 
+TALUR: Breath smells like, well, it doesn't have any smell actually. 
+TALUR: You can close your mouth. 
+TALUR: Let's see. 
+TALUR: Heartbeat sounds a little odd, but seems very regular. 🏥
+TALUR: Skin feels clammy, but you say you feel fine?
 DATA: That is correct.
 TALUR: No headaches, palpitations, sluggishness, indigestion?
-DATA: No. But I cannot have indigestion since I have not eaten.
+DATA: No. But I cannot have indigestion since I have not eaten. 🏥
 TALUR: Ah. Malnutrition. You should try to eat something that will build strength and return your vitality. Lots of meat, butter, cheese, that should be a start.
 GARVIN: What about his eyes and his skin? They're so odd.
 TALUR: Quite so, quite so. I'm sure my grandmother would have called our friend here a demon or spirit or some kind of monster. But current scientific methodology allows us to dismiss such ridiculous superstitions and concentrate on scientific reality.
@@ -129,7 +143,7 @@ GARVIN: Not exactly. She said he's lost his memory, but seems to be fine otherwi
 DATA: I am an ice man.
 GARVIN: We'll have to call you something besides Ice man until your memory returns. What was the word on the container?
 DATA: Radioactive.
-GARVIN: Mister Radioactive?
+GARVIN: Mister Radioactive?😊😊
 GIA: I don't like that name. Let's call him Jayden.
 GARVIN: What do you think of that?
 DATA: Jayden. That is acceptable.
@@ -145,7 +159,7 @@ DATA: I do not know.
 GARVIN: I told you, he's lost his memory and we're calling him Jayden for now.
 SKORAN: Jayden, huh? The metal is slightly warm.
 GARVIN: All the fragments are like that.
-(Skoran hit's it with a hammer on the anvil)
+(Skoran hit's it with a hammer on the anvil)🥈
 SKORAN: It's obviously been tempered and milled. The lustrous quality of the metal is so pure. This wasn't made in any forge I've ever seen. Will you sell them?
 GARVIN: You want them?
 SKORAN: The metal's malleable enough to make some jewellry.
@@ -153,12 +167,12 @@ GARVIN: They belong to Jayden. Do you want to sell them? You're going to need mo
 DATA: You may be right. But I do not wish to sell all the fragments. They may provide a clue to my identity.
 SKORAN: I'll give you twenty doraks for half the lot.
 GARVIN: Agreed.
-(the wooden base of the anvil cracks, and the anvil falls on the apprentice's leg)
+(the wooden base of the anvil cracks, and the anvil falls on the apprentice's leg)🐀
 APPRENTICE: My leg! My leg! Get it off! Get it off!
 (townsfolk rush to help)
 SKORAN: We need a lever.
 GARVIN: It'll be all right. Don't struggle. It will only
-(Data lifts the anvil easily)
+(Data lifts the anvil easily)🥈
 GARVIN: Jayden, put it down.
 DATA: I believe the support structure on the anvil collapsed because some of the wood had rotted. Did I do something wrong, Garvin?
 GARVIN: No, just unexpected.
@@ -186,9 +200,10 @@ DATA: Yes. I do.
 
 [Holodeck - Engineering]
 
-(at red alert)
+(at red alert)😟
 LAFORGE: We just lost contact with everything above deck twenty one, including the Bridge.
-WORF: There is something wrong with one of the antimatter containment units. The magnetic field is starting to fluctuate.
+WORF: There is something wrong with one of the antimatter containment units. 
+WORF: The magnetic field is starting to fluctuate.⚡
 TROI: Switch to auxiliary control.
 WORF: Auxiliary control is not online. We are starting to lose containment on antimatter storage unit three.
 TROI: All right. Switch the EM power inverter to the lateral. No, wait. Use the neodyne relay.
@@ -327,7 +342,9 @@ RIKER: You did exactly what you had to do. You considered all your options, you 
 
 [Garvin's home]
 
-DATA: I have coated this piece of cloth with the liquid which is used in lamps. As you can see, the cloth becomes luminescent when it is exposed to an energy source. This pendant also appears to be an energy source.
+DATA: I have coated this piece of cloth with the liquid which is used in lamps. 
+DATA: As you can see, the cloth becomes luminescent when it is exposed to an energy source. 
+DATA: This pendant also appears to be an energy source.
 (flickers on the cloth)
 TALUR: But where is this pattern of light coming from?
 DATA: I believe a stream of particles is emanating from the metallic pendant and hitting the cloth.
@@ -336,10 +353,18 @@ DATA: You will see there are. I can even block them.
 (Data puts the box in between the pendant and the screen)
 DATA: It would appear that this container was constructed of a material which absorbs or blocks the particles coming from the metal.
 TALUR: It's a trick.
-DATA: No. It is empirical data. I believe the fragments were originally placed in this container to protect people from accidental exposure. The word radioactive may be a warning about the dangerous nature of the metal.
-TALUR: All right. Let's say for the moment that you're right, that there are invisible particles coming from the metal. What should we do?
-DATA: I will continue my experiment. I would like you to gather all the pieces of metal in the village and place them in this container.
-TALUR: All right. But when I return, I want a more thorough explanation of all this. And I want to examine your data, in detail.
+DATA: No. It is empirical data. 
+DATA: I believe the fragments were originally placed in this container to protect people from accidental exposure. 
+DATA: The word radioactive may be a warning about the dangerous nature of the metal.⚡🏥
+TALUR: All right. 
+TALUR: Let's say for the moment that you're right, 
+TALUR: that there are invisible particles coming from the metal. 
+TALUR: What should we do?
+DATA: I will continue my experiment. 
+DATA: I would like you to gather all the pieces of metal in the village and place them in this container.
+TALUR: All right. 
+TALUR: But when I return, I want a more thorough explanation of all this.
+And I want to examine your data, in detail.
 DATA: Of course.
 (Talur leaves. A few moments later there is a thumping at the door. Data opens it.)
 SKORAN: There you are. You're the cause of this, Ice man.
@@ -389,7 +414,8 @@ GIA: Compound
 SKORAN: There he is! You see? It's just as I said.
 DATA: I only wish to help.
 SKORAN: This is how you've helped us, by bringing this plague? Tried to kill us all? Well, you won't succeed. I won't let you!
-(Data pours the compound into the well just as Skoran impales him and gets an electric shock for his effort. Data falls as Talur arrives)
+(Data pours the compound into the well just as Skoran impales him and gets an electric shock for his effort.)😱😱⚡🔪
+(Data falls as Talur arrives)
 
 [Town square]
 
@@ -411,7 +437,9 @@ GIA: We buried them in the forest. What was his real name?
 RIKER: Data.
 GIA: Data. He was my friend, too.
 (Gia leaves and Beverly gets her tricorder out)
-CRUSHER: It's Data all right. He's buried about two metres down. He's been deactivated so I can't tell how bad the damage is.
+CRUSHER: It's Data all right. 
+CRUSHER: He's buried about two metres down. 
+CRUSHER: He's been deactivated so I can't tell how bad the damage is.😟😭😨
 RIKER: We could beam him and the probe fragments right onto the ship. No one would know.
 
 [Sickbay]
@@ -421,7 +449,12 @@ CRUSHER: Positronic net online. Subprocessor relays in place and neuroelectrical
 CRUSHER: Data, are you all right?
 DATA: I do not know. I am surprised to find myself here. I thought I was on Barkon Four.
 PICARD: What's the last thing you remember?
-DATA: I had located the crashed Federation probe and collected the radioactive fragments. I was attempting to download the sensor logs from the probe's onboard computer. There was a power surge. I believe the surge overloaded my positronic matrix. After that, I have no memory until this moment. (looks at his clothes) It appears I had an interesting time.
+DATA: I had located the crashed Federation probe and collected the radioactive fragments. 
+DATA: I was attempting to download the sensor logs from the probe's onboard computer. 
+DATA: There was a power surge. ⚡
+DATA: I believe the surge overloaded my positronic matrix. ⚡
+DATA: After that, I have no memory until this moment. 
+DATA: (looks at his clothes) It appears I had an interesting time.🧵😊😊😊🙂🙂🙂
 RIKER: We don't know much about what happened either. Apparently you saved an entire village from radiation poisoning.
 CRUSHER: And you were a very special friend to a little girl.
 TROI: Well, if you'll excuse me, I have the Bridge this watch.
