@@ -53,7 +53,8 @@ WORF: Your weapons, please.
 OKONA: A Klingon Security officer.
 WORF: Yes.
 OKONA: No wars available, eh?
-(He hands over his gun belt, and Worf holds his hand out for the rest. The knife is down the back of Okona's thigh boots)
+(He hands over his gun belt, and Worf holds his hand out for the rest.)
+(The knife is down the back of Okona's thigh boots)🔪
 OKONA: It's more of a piece of jewellry than a weapon. A remembrance.
 RIKER: Welcome aboard, Captain Okona. I'm Commander Riker. If you'll turn over the inoperative part to Commander Data, we can begin repairs.
 OKONA: I'd be most happy to do the work myself, Commander. I'm sort of the hands-on type.

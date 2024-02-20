@@ -9,13 +9,13 @@ DATA: Geordi?
 LAFORGE: In here, Data.
 (the bedroom)
 LAFORGE: Got her now. She's trapped. Come on out of there, you. Hey, don't you spit at me.
-DATA: Why is Spot under the bed?
-LAFORGE: Probably because she knows if I catch her, I'm going to kill her.
-DATA: Has Spot been misbehaving?
+DATA: Why is Spot under the bed? 😊
+LAFORGE: Probably because she knows if I catch her, I'm going to kill her. 😨😨
+DATA: Has Spot been misbehaving? 😊😊
 LAFORGE: So far she's broken a vase, a teapot, she's ruined one of my chairs using it as a scratch post, and she's coughing hairballs up all over my carpet.
 DATA: These incidents are common to cat owners. When you borrowed Spot, you said you wanted to experience the full range of feline behaviour before getting a cat yourself.
 LAFORGE: Yeah, well, I'm not ready. You can take her back with my blessings. Go ahead, call her.
-DATA: Spot does not respond to verbal commands.
+DATA: Spot does not respond to verbal commands. 😊😊
 LAFORGE: She won't come when you call her? Data, have you ever considered training this cat?
 DATA: I never found it to be necessary.
 LAFORGE: Necessary? Data, the cat is out of control. Half the time I wasn't sure if she was going to lick me or scratch my face off.
@@ -25,7 +25,7 @@ RIKER [OC]: Riker to senior staff. Please report to the Observation lounge. Miss
 LAFORGE: Right, we have to get her out of here. I'll scare her. You grab her when she comes out, okay?
 DATA: I do not think it would be wise to startle her.
 LAFORGE: Ready? Ow!
-(Spot runs out and there's a crash sound)
+(Spot runs out and there's a crash sound) 
 LAFORGE: Training. Definitely.
 
 PICARD: Captain's log, Stardate 47310.2. We're investigating the disappearance of the Medical Transport Fleming somewhere in the Hekaras Corridor. Our search is complicated by the unique properties of this particular region of space.
@@ -170,21 +170,22 @@ PRAK: I believe it would, Captain.
 
 [Data's quarters]
 
-(Spot is sitting on the computer console)
+(Spot is sitting on the computer console) 😊😊😊
 DATA: Spot. Spot. Spot, down. Spot, down. Down. Spot. (lifting the cat off the desk) Down. This is down. Down is good. This is up. Up is no.
 (doorbell)
 DATA: (to Spot) One moment. Come in.
 LAFORGE: Data. I had another idea that might help boost the power conversion levels. Could you give me a hand?
 DATA: I would be happy to.
 LAFORGE: Don't tell me you're trying to teach the cat to use the console.
-DATA: It is part of her training programme. I am teaching Spot to jump down from the desk on my command.
+DATA: It is part of her training programme. 
+DATA: I am teaching Spot to jump down from the desk on my command.🐀
 LAFORGE: How's it going?
-DATA: I have not been entirely successful.
-(Spot meows, and Data goes to the replicator)
+DATA: I have not been entirely successful. 😊😊😊🙂🙂
+(Spot meows, and Data goes to the replicator) 😊
 DATA: Feline supplement number two twenty one.
 LAFORGE: Data, that cat definitely has a mind of her own. Maybe she's just not trainable.
 DATA: I suppose I must accept that possibility. It may be that Spot lacks the intelligence necessary to learn the appropriate responses to my commands.
-(Spot meows again and Data fetches her a toy)
+(Spot meows again and Data fetches her a toy) 😊😊😊🙂🙂
 LAFORGE: I don't know about Spot, but it seems to me your training is coming along just fine. Come on, let's go.
 
 [Engineering]

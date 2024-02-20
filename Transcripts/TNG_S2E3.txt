@@ -44,8 +44,11 @@ DATA: Holmes collected nothing, neither trinkets nor thoughts, which were not sp
 LAFORGE: This?
 DATA: The emerald tie pin. Presented to Holmes by Queen Victoria after he solved the theft of the Bruce-Partington Plans. (a book) A copy of Whitaker's Almanac, which provided Holmes the key to the secret code in The Valley of Fear. The snuff box of Wilhelm Gottsleig Siegesmann Van der Romstein.
 LAFORGE: All right, Data. You solve the cases and get all the gifts, what do I do?
-DATA: Primarily as Doctor Watson, you will keep a written record of everything I say and do. For later publication. And the famous Holmes violin. He purchased this in a pawn shop in Tottenham Court Road for fifty five shillings, which he considered to be a very good investment.
-(And with his back to us, he plays beautifully)
+DATA: Primarily as Doctor Watson, you will keep a written record of everything I say and do for later publication. 
+DATA: And the famous Holmes violin. 
+DATA: He purchased this in a pawn shop in Tottenham Court Road for fifty five shillings, 
+DATA: which he considered to be a very good investment.
+(🎵🎵 And with his back to us, he plays beautifully 🎵🎵)
 LAFORGE: In the hands of some, the violin is a wondrous thing, equally capable of stirring the soul to the heights of bliss as to the depths of despair, but Data, that's incredible. How can you play it like that?
 DATA: Merely throwing myself into the part, Watson.
 LAFORGE: But, in the hands of my friend, Mister Sherlock Holmes, the violin ceases to be a musical instrument at all and becomes
@@ -58,7 +61,8 @@ DATA: Lestrade of course.
 LESTRADE [OC]: Holmes, are you there, man?
 (La Forge opens the door and two men enter)
 LESTRADE: Thank the Almighty you're available today, Holmes, I'm in a deuce of a dilemma.
-DATA: Then may I say your perturbation becomes you, Inspector Lestrade, whilst simultaneously affording me yet again the opportunity to serve Queen and country.
+DATA: Then may I say your perturbation becomes you, Inspector Lestrade, 
+DATA: whilst simultaneously affording me yet again the opportunity to serve Queen and country.
 LAFORGE: Data, Holmes really talked like that?
 DATA: Absolutely.
 LESTRADE: We need your help, Holmes. You see, this gentleman here, the emissary of a foreign government, has been the victim of a most accidentally wicked crime.
@@ -206,10 +210,16 @@ DATA: Doctor Kate Pulaski. But do not concern yourself, Inspector. You have enou
 LESTRADE: She was with you?
 LAFORGE: Inspector, perhaps I can be of assistance. As I take note of this dead man, I deduce that he was strangled. You see, the finger marks on his throat indicate the cause of death, and, as there are signs of struggle, it's quite obvious that his murderer was a stranger who attacked him from behind.
 LESTRADE: Is that correct, Holmes?
-DATA: No. Look at his shoes. He's more a convict, released today from Dartmoor prison. (Pentonville more like, my dear Holmes) He spent the day in a tavern consuming large quantities of gin with his killer, who followed him to this spot and waited over there until the victim slipped into a drunken stupor. Then, out of fear, motivated only by self-protection, strangled him. There is your killer, Inspector.
-(Data points at an old woman)
+DATA: No. Look at his shoes. 
+DATA: He's more a convict, released today from Dartmoor prison. 
+DATA: He spent the day in a tavern consuming large quantities of gin with his killer, 
+DATA: who followed him to this spot and waited over there until the victim slipped into a drunken stupor. 
+DATA: Then, out of fear, motivated only by self-protection, strangled him. 
+DATA: There is your killer, Inspector.
+(Data points at an old woman)😱😱🙂🙂
 LESTRADE: Seize her.
-DATA: And when you check, I believe you will find that this poor soul is the victim's common-law wife, who has been dreading the release of this a vile and abusive man.
+DATA: And when you check, I believe you will find that this poor soul is the victim's common-law wife, 
+DATA: who has been dreading the release of this a vile and abusive man.
 LAFORGE: Holmes, the poor woman hardly has the strength to strangle a man this size.
 DATA: Not with her hands, no. But with this. (a beaded shawl) When used as a garrote, these beads will leave marks quite similar to fingerprints. And, my dear Watson, you will note from the victim's throat, the marks are too evenly spaced to be have been made by human hands.
 LESTRADE: Astounding, Holmes.
@@ -230,7 +240,9 @@ DATA: It is the only obvious choice.
 LAFORGE: Why is the obvious choice all of a sudden the right one? I mean, isn't this a game of misdirection?
 DATA: Not any more. He wants us to find him.
 LAFORGE: Who does?
-DATA: The master criminal. The man Holmes could only defeat at the cost of his own life at Reichenbach Falls. Our adversary, my dear Watson, is none other than Professor Moriarty himself.
+DATA: The master criminal. 
+DATA: The man Holmes could only defeat at the cost of his own life at Reichenbach Falls. 
+DATA: Our adversary, my dear Watson, is none other than Professor Moriarty himself.😊😊😊🙂🙂
 LAFORGE: Now this is getting interesting.
 
 [Warehouse]

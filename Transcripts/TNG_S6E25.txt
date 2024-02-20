@@ -521,8 +521,8 @@ PICARD: Captain's log, stardate 46945.3. We successfully evacuated the crew of t
 (Data takes a kettle off a stove)
 DATA: Come in.
 (Riker peers around, carefully)
-RIKER: Where's that cat of yours?
-DATA: Spot is sleeping, sir. Why do you ask?
+RIKER: Where's that cat of yours? 😊
+DATA: Spot is sleeping, sir. Why do you ask? 😊😊😊
 RIKER: No reason. I've worked out the new rotation schedules. I'd like you to cross-check the personnel assignments. Notify the department heads. Your Bridge shift begins at twenty three hundred hours.
 DATA: Understood, sir.
 (Data puts water into the kettle)

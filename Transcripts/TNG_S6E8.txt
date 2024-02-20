@@ -242,13 +242,14 @@ DATA-FRANK: No. He's more valuable to us alive.
 
 [Data's quarters]
 
-DATA: Feline supplement one hundred twenty seven. Spot, I have formulated a new mixture of foods specifically designed for your highly selective tastes.
-(but Spot runs away from the bowl of food)
+DATA: Feline supplement one hundred twenty seven.  😊
+DATA: Spot, I have formulated a new mixture of foods specifically designed for your highly selective tastes. 
+(but Spot runs away from the bowl of food) 😭
 DATA: I find it extremely difficult to predict what you will find acceptable. Perhaps hunger will compel you to try it again.
-(Data goes to his desk, and Spot jumps on to it)
-DATA: Spot, you are disrupting my ability to work.
-(He puts Spot on the floor, but she jumps up again)
-DATA: Vamoose, you little varmint.
+(Data goes to his desk, and Spot jumps on to it) 😊😊
+DATA: Spot, you are disrupting my ability to work. 😊
+(He puts Spot on the floor, but she jumps up again) 😊😊
+DATA: Vamoose, you little varmint. 😱😱😱😨😟🐀
 
 [Gold Strike saloon]
 

@@ -287,7 +287,8 @@ THOLL: Impossible. I'm a Mizarian. My people are not aggressive.
 ESOQQ: How can we be sure you're a Mizarian? You could be an impostor.
 THOLL: This is nonsense. What if you're an impostor? Esoqq was the last one to appear, and he is the only one with a weapon.
 ESOQQ: Keep talking and I will use it.
-PICARD: Tholl, our captors have transporters, they have stun beams. It is hardly likely that they would try to hold us at bay with a knife.
+PICARD: Tholl, our captors have transporters, they have stun beams. 
+PICARD: It is hardly likely that they would try to hold us at bay with a knife.🔪
 THOLL: Well, then, maybe she's an impostor. She could have triggered the stun beams deliberately.
 HARO: I was hit, too.
 THOLL: To forestall suspicion. You were very quick to volunteer.

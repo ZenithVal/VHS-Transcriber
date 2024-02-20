@@ -76,7 +76,10 @@ COMPUTER: Enter when ready.
 [Holodeck - Temple]
 
 (stonework, a raised altar platform, a central chandelier)
-BRIAM: Astonishing. It is the ancient Temple of Akadar. It is this temple that bonds Krios and Valt, gentlemen. Two brothers ruled a vast empire from this site until they were torn apart by their love for an extraordinary woman. This is where the wars began. And this is where they shall end.
+BRIAM: Astonishing. It is the ancient Temple of Akadar. 
+BRIAM: It is this temple that bonds Krios and Valt, gentlemen. 
+BRIAM: Two brothers ruled a vast empire from this site until they were torn apart by their love for an extraordinary woman. 
+BRIAM: This is where the wars began. And this is where they shall end.
 
 [Cargo bay]
 

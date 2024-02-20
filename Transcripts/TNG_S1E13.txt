@@ -13,7 +13,8 @@ PICARD: Unless it's followed by three wavy lines, in which case the Z becomes a 
 TROI: Exactly.
 PICARD: What a language.
 TROI: But you spell knife with a K.
-PICARD: I spell knife with an N. But then, I never could spell.
+PICARD: I spell knife with an N. 
+PICARD: But then, I never could spell. 😊😊😊🙂🙂
 TROI: Well, this is an insect mind, sir.
 PICARD: My mind is barely working.
 TROI: Take a break.
@@ -201,7 +202,7 @@ DATA: (Bogart) Hiya Doc. What's cooking?
 CRUSHER: You know I had some trouble getting through. Where's Captain Picard?
 DATA: He's on ice.
 CRUSHER: Pardon?
-DATA: He's being grilled.🎣
+DATA: He's being grilled.🎣🍳
 CRUSHER: What is he, a fish?🎣
 WHALEN: H's being interrogated. They think he's committed a murder.
 CRUSHER: Why aren't we all being interrogated? Maybe I should go and help him.
@@ -282,7 +283,8 @@ PICARD: If I leave town, the town leaves with me. I get the feeling your friend 
 MCNARY: We know you're dealing with Redblock, Dixon. Take it from a friend, it doesn't help your case.
 PICARD: Redblock? I'll keep it in mind. Thank you for helping me.
 (Takes a cigarette, inhales and coughs)
-MCNARY: Forget it. Hey, Dix, when are you coming over for supper? The kids'd love to see you, and you know how much you love Sharon's cooking.
+MCNARY: Forget it. Hey, Dix, when are you coming over for supper? 
+MCNARY: The kids'd love to see you, and you know how much you love Sharon's cooking.
 PICARD: Soon, my friend. For the moment, I have other duties.
 MCNARY: Blonde or brunette?
 PICARD: She's a lady, all right, and her name is Enterprise.

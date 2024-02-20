@@ -15,17 +15,17 @@ BARCLAY: Yes, well, this time I'm glad I did. Maybe we can stop the cellular dec
 CRUSHER: Reg, you don't have Terrelian Death Syndrome.
 BARCLAY: You, you're sure?
 CRUSHER: I'm sure.
-BARCLAY: (scans himself) Then maybe it is Symbalene blood burn.
+BARCLAY: (scans himself) Then maybe it is Symbalene blood burn.🏥
 CRUSHER: No, no. I don't see anything wrong with you at all. Wait a minute, there is a slight imbalance in your K three cell count.
 BARCLAY: My K threes? Oh, no.
 CRUSHER: Barclay, I'm sure it's nothing. Look, I'll run a microcellular scan. We'll see. This'll take a couple of minutes.
 (enter Data carrying something in his arms)
 CRUSHER: How's my smallest patient doing?
 DATA: I believe she is doing well. Her appetite has increased by seven percent, and she is starting to engage in prenatal behaviour.
-(Spot is put down on a biobed)
+(Spot is put down on a biobed)😊😊
 CRUSHER: Oh, she's getting close. You'll have a fresh litter of hungry kittens before the week is over. Let me just run an amniotic scan to make sure everything's fine and then I'll
 BARCLAY: Doctor! My capillaries are shrinking!
-CRUSHER: Excuse me. Alyssa, can you take care of Spot for a minute? Start a preliminary amniotic scan.
+CRUSHER: Excuse me. Alyssa, can you take care of Spot for a minute? Start a preliminary amniotic scan.😊
 OGAWA: Yes, Doctor.
 BARCLAY: My intravascular pressure, it's going right through the roof.
 CRUSHER: You're right, it is elevated. You've also got heightened electrophoretic activity.
@@ -322,15 +322,16 @@ PICARD: Agreed.
 [Data's quarters]
 
 (mewing sound)
-DATA: It would appear that Spot has had her kittens.
-PICARD: They sound hungry.
-DATA: Yes. I am curious as to why Spot is not caring for them.
-(it's because on the carpet is an iguana with a pink collar)
+DATA: It would appear that Spot has had her kittens. 😊
+PICARD: They sound hungry. 😊😊
+DATA: Yes. I am curious as to why Spot is not caring for them. 😭
+(it's because on the carpet is an iguana with a pink collar) 😭
 PICARD: It would seem the intron virus is not limited to humanoid lifeforms.
 DATA: No, sir.
 PICARD: What is it?
-DATA: These kittens were born less than twenty four hours. It would appear that Spot's transformation took place at approximately the same time.
-PICARD: So Spot was giving birth to the kittens at the same time that she was changing into a reptilian lifeform.
+DATA: These kittens were born less than twenty four hours. 
+DATA: It would appear that Spot's transformation took place at approximately the same time.
+PICARD: So Spot was giving birth to the kittens at the same time that she was changing into a reptilian lifeform. 🤢
 DATA: I believe so. For some reason, the intron virus was not passed on to the kittens. I do not know why.
 PICARD: If I remember my biology, there are several natural immune systems that come into play in the mother's womb to protect the foetus from viral infections.
 DATA: That is true. Placental barrier, maternal antibodies and amniotic fluids all serve as a filtration system.
