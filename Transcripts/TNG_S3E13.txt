@@ -2,7 +2,10 @@ ST:TNG S3.13
 Star Trek:TNG S3.13
 Deja Q
 
-PICARD: Captain's log, Stardate 43539.1. We have moved into orbit around Bre'el Four. With the assistance of the planet's emergency control centre, we're investigating a potentially catastrophic threat to the population from a descending asteroidal moon.
+PICARD: Captain's log, Stardate 43539.1. 
+PICARD: We have moved into orbit around Bre'el Four. 
+PICARD: With the assistance of the planet's emergency control centre, 
+PICARD: we're investigating a potentially catastrophic threat to the population from a descending asteroidal moon.
 [Bridge]
 
 DATA: The satellite's trajectory is continuing to deteriorate, Captain. This orbit will put it within five hundred kilometres of the planet surface.
@@ -50,21 +53,23 @@ PICARD: Reduce engine power. Tractor beam off.
 RIKER: Lieutenant Worf, what the hell do the sensors say?
 WORF: The sound is not registering, Commander.
 (There is a bright flash, and a naked Q is suspended in mid air, lying on his side, with modesty maintained by the camera angle)
-PICARD: Q!
-Q: Red alert.
+PICARD: Q! 😟😟😊😊😱😱
+Q: Red alert. 🙂🙂😊😊😊😊
 
-PICARD: Captain's log, supplemental. We are no closer to finding a solution to the deteriorating orbit of the Bre'el Four moon, but with the arrival of Q, we now have a good idea of the cause.
+PICARD: Captain's log, supplemental. 
+PICARD: We are no closer to finding a solution to the deteriorating orbit of the Bre'el Four moon, 
+PICARD: but with the arrival of Q, we now have a good idea of the cause.
 
 [Bridge]
 
 PICARD: Our options?
 LAFORGE: We've done everything by the book and a little extra. We need more time or more power, and we're short on both. I'll take a look and see if there are any rules I haven't broken.
 PICARD: Keep me advised.
-(La Forge leaves. Q is now dressed in a pale mauve and olive jumpsuit)
+(La Forge leaves. Q is now dressed in a pale mauve and olive jumpsuit) 😊😊
 RIKER: We know you're behind this, Q.
 Q: These aren't my colours. And what are you blathering about, Riker?
 PICARD: What kind of twisted pleasure does it give you to bring terror into their lives?
-Q: Whose lives?
+Q: Whose lives? 😊
 PICARD: The millions of people down there who are watching as their moon falls out of the sky.
 Q: I haven't the vaguest idea what you're talking about and I have a much more serious problem. I'm no longer a member of the Continuum. My superiors have decided to punish me.
 PICARD: And punish us as well, it would seem.
@@ -72,12 +77,16 @@ Q: They said I've spread chaos through the universe, and they've stripped me of 
 RIKER: If it served your purpose, yes.
 Q: It's the truth. I stand before you defrocked. Condemned to be a member of this lowest of species. A normal, imperfect, lumpen human being.
 TROI: They made you human as part of your punishment?
-Q: No, it was my request. I could have chosen to exist as a Markoffian sea lizard or a Belzoidian flea. Anything I wished as long as it was mortal. And since I only had a fraction of a second to mull and I chose this and asked them to bring me here.
+Q: No, it was my request. 
+Q: I could have chosen to exist as a Markoffian sea lizard or a Belzoidian flea. 
+Q: Anything I wished as long as it was mortal. 
+Q: And since I only had a fraction of a second to mull and I chose this and asked them to bring me here.
 TROI: Why?
-Q: Because in all the universe you're the closest thing I have to a friend, Jean-Luc.
-DATA: Sir, he is reading as fully human.
-Q: What, is there an echo in here?
-TROI: I am sensing an emotional presence, Captain. I would normally describe it as being terrified.
+Q: Because in all the universe you're the closest thing I have to a friend, Jean-Luc. 🙂🙂😊😊
+DATA: Sir, he is reading as fully human. 😱
+Q: What, is there an echo in here? 😊😊
+TROI: I am sensing an emotional presence, Captain. 
+TROI: I would normally describe it as being terrified. 🙂🙂
 Q: How rude.
 PICARD: what is it you want, Q?
 Q: Your compassion. All right, Sanctuary on this ship, dreary as it may sound to both of us.
@@ -89,10 +98,10 @@ WORF: Die.
 Q: Oh, very clever, Worf. Eat any good books lately?
 PICARD: Fine. You want to be treated as a human?
 Q: Absolutely.
-PICARD: All right. Mister Worf, throw him in the brig.
+PICARD: All right. Mister Worf, throw him in the brig. 😊😊😊😊😊
 WORF: Delighted, Captain.
 Q: You can't do this to me, Jean-Luc.
-WORF: You will walk or I will carry you.
+WORF: You will walk or I will carry you. 😊😊😊😊😊🙂🙂
 Q: Given the option, I'll walk. You've disappointed me, Jean-Luc. I'm very disappointed. Hey, I'm claustrophobic, I don't like it in here.
 
 [Turbolift]
@@ -145,8 +154,10 @@ PICARD: What the devil?
 (The light is everywhere)
 RIKER: Data?
 DATA: Sensors are showing broadband emissions, including Berthold rays
-RIKER: Lethal?
-DATA: No, Commander. Overall exposure is less than seventy five rems. Very low intensity, more like a soft medical scan. I would speculate we are being probed.
+RIKER: Lethal? 😱
+DATA: No, Commander. Overall exposure is less than seventy five rems. 
+DATA: Very low intensity, more like a soft medical scan. 🏥
+DATA: I would speculate we are being probed.
 PICARD: By whom?
 DATA: The sensors cannot identify the point of origin. It seems to be coming from all around us.
 
@@ -191,14 +202,22 @@ Q: Well, if you ask me, these human emotions are not what they're cracked up to 
 
 [Engineering]
 
-LAFORGE: The moon will hit its perigee in ten hours. Now, we match its trajectory, increase emitter coolant rate so we can apply continuous warp-equivalent power nine to the tractor beam. We can push it for nearly seven hours and I think that just might do it. But, there's a problem.
-DATA: The Enterprise will be dangerously close to the atmosphere.
+LAFORGE: The moon will hit its perigee in ten hours. 
+LAFORGE: Now, we match its trajectory, increase emitter coolant rate so we can 
+LAFORGE: apply continuous warp-equivalent power nine to the tractor beam. ⚡
+LAFORGE: We can push it for nearly seven hours and I think that just might do it. 
+LAFORGE: But, there's a problem.
+DATA: The Enterprise will be dangerously close to the atmosphere. 😨
 LAFORGE: That's the problem.
 Q: This is incredible.
 LAFORGE: You see something here, Q?
-Q: I think I just hurt my back. I'm feeling pain. I don't like it. What's the right thing to say? Ow?
+Q: I think I just hurt my back. 🙂
+Q: I'm feeling pain. 
+Q: I don't like it. 
+Q: What's the right thing to say? 
+Q: Ow? 😊😊🙂
 LAFORGE + DATA: Ow.
-Q: Ow! I can't straighten up.
+Q: Ow! I can't straighten up. 😊😊😊🙂🙂
 DATA: Medical assistance to Engineering.
 LAFORGE: Q, I've got a few people down on Bre'el Four who are going to be hurt
 Q: Yes, yes, your marvellous plan will not only tear the moon to pieces but your precious ship as well.
@@ -217,8 +236,10 @@ Q: Oh. In that case, never mind.
 (Crusher enters)
 Q: Ah, Doctor Crusher. I see Starfleet has shipped you back into exile.
 DATA: Q says he has hurt his back.
-CRUSHER: Ah ha. Well, if I didn't see it with my own eyes, I wouldn't believe it. According to this, he has classic back trauma. Muscle spasms.
-Q: I've been under a lot of pressure lately. Family problems.
+CRUSHER: Ah ha. Well, if I didn't see it with my own eyes, I wouldn't believe it. 
+CRUSHER: According to this, he has classic back trauma. 🏥
+Q: I've been under a lot of pressure lately. 
+Q: Family problems. 😊😊🙂🙂
 CRUSHER: Well. don't expect too much sympathy from me. You've been a pain in our backside often enough.
 Q: Your bedside manner is admirable, Doctor. I'm sure your patients recover quickly just to get away from you.
 LAFORGE: You know, this might work. We can't change the gravitational constant of the universe, but if we wrap a low level warp field around that moon, we could reduce its gravitational constant. Make it lighter so we can push it.
@@ -226,8 +247,8 @@ Q: Glad I could help. Ow. I think.
 CRUSHER: Now what?
 Q: There's something wrong with my stomach.
 CRUSHER: It hurts?
-Q: It's making noises.
-CRUSHER: Maybe you're hungry.
+Q: It's making noises. 
+CRUSHER: Maybe you're hungry. 🍽️
 
 [Ten Forward]
 
@@ -245,22 +266,24 @@ Q: I'm in a dreadful mood. Get me something appropriate.
 DATA: When Counsellor Troi is unhappy, she usually eats something chocolate.
 Q: Chocolate?
 DATA: A chocolate sundae, for example. Although I do not speak from personal experience, I have seen it have a profound psychological impact.
-Q: I'll have ten chocolate sundaes.
+Q: I'll have ten chocolate sundaes. 🍽️
 WAITRESS: Ten?
 DATA: I've never seen anyone eat ten chocolate sundaes.
 Q: I'm in a really bad mood, and since I've never eaten before, I should be very hungry.
 (We hear the doors open and close)
-Q: This is not a moment I've been looking forward to.
-GUINAN: I hear they drummed you out of the Continuum.
+Q: This is not a moment I've been looking forward to. 😨
+GUINAN: I hear they drummed you out of the Continuum. 😱😱
 Q: I like to think of it as a significant career change.
 GUINAN: Just one of the boys, ay?
 Q: One of the boys with an IQ of two thousand and five.
 DATA: The Captain and many of the crew are not yet convinced he is truly human.
 GUINAN: Really?
-(So she picks up a fork and stabs it into Q's hand)
+(So she picks up a fork and stabs it into Q's hand) 🔪😊😊
 Q: Argh!
 GUINAN: Seems human enough to me.
-Q: This is a dangerous creature. You have no idea. Why Picard would make her a member of the crew and not me
+Q: This is a dangerous creature. 
+Q: You have no idea. 😊
+Q: Why Picard would make her a member of the crew and not me?
 GUINAN: It must be terribly frightening for you, to be totally defenceless after all of those centuries being omnipotent.
 Q: I'm warning you. I still have friends in high places.
 GUINAN: Frightening one race after the other, teasing them like frightened animals, and you enjoying every moment of your victims fears.
@@ -272,19 +295,23 @@ DATA: I am an android, not a robot.
 Q: I beg your pardon.
 GUINAN: I'd enjoy that, and you'd better get used to it.
 Q: What?
-GUINAN: Begging. You're a pitiful excuse for a human. The only way you're going to survive is by the charity of others.
+GUINAN: Begging. 
+GUINAN: You're a pitiful excuse for a human. 
+GUINAN: The only way you're going to survive is by the charity of others.
 (Ten chocolate sundaes arrive)
-Q: I'm not hungry.
+Q: I'm not hungry. 😭😭
 
 [Bridge]
 
-WORF: Captain, sensors are picking up a cloud of energetic plasma. Bearing, three-four one mark two zero. Range, twelve kilometres and closing.
+WORF: Captain, sensors are picking up a cloud of energetic plasma. ⚡
+WORF: Bearing, three-four one mark two zero. 
+WORF: Range, twelve kilometres and closing.
 PICARD: On screen.
 WORF: Energy patterns are reading as highly organized.
 RIKER: A lifeform?
 PICARD: Attempt to make contact, Mister Worf.
 WORF: Receiving a signal, sir. On speaker.
-(but it's unintelligible)
+(it's unintelligible)
 RIKER: Computer, analyse signal
 COMPUTER: Signal patterns indicate intelligence. Unable to derive necessary referents to establish translation matrix.
 
@@ -327,9 +354,12 @@ WORF: The added harmonics are blocking the tachyon field.
 
 (Q is freed, and falls to the floor)
 Q: Help me! Somebody, help me!
-GUINAN: How the mighty have fallen.
+GUINAN: How the mighty have fallen. 😊😊
 
-PICARD: Captain's log, supplemental. We have sustained light damage from an attack by an alien species known as the Calamarain. They apparently have a grievance with Q. No doubt one of many lifeforms that do.
+PICARD: Captain's log, supplemental. 
+PICARD: We have sustained light damage from an attack by an alien species known as the Calamarain. 
+PICARD: They apparently have a grievance with Q. 
+PICARD: No doubt one of many lifeforms that do.
 
 [Observation lounge]
 
@@ -366,7 +396,9 @@ LAFORGE: I'm pretty sure we can do it manually. The moon will come to its perige
 
 [Bridge]
 
-PICARD: Mister Data, you will escort Q to Engineering. You will assist Mister La Forge. Mister Worf, hail the Bre'el Four science station.
+PICARD: Mister Data, you will escort Q to Engineering. 
+PICARD: You will assist Mister La Forge. 
+PICARD: Mister Worf, hail the Bre'el Four science station.
 WORF [OC]: Aye, sir.
 
 [Corridor]
@@ -381,7 +413,8 @@ Q: I'm not interested in human interpersonal relationships. I just want to prove
 DATA: Engineering. To function aboard a starship, or in any human activity, you must learn to form relationships.
 Q: It's so hard.
 DATA: And of more immediate importance is your ability to work within groups.
-Q: I'm not good in groups. It's difficult working in a group when you're omnipotent.
+Q: I'm not good in groups. 
+Q: It's difficult working in a group when you're omnipotent. 
 
 [Bridge]
 
@@ -399,7 +432,7 @@ LAFORGE: The moon has reached its minimum orbital distance. It's time, Captain.
 
 [Bridge]
 
-RIKER: We'll have to lower shields.
+RIKER: We'll have to lower shields. 😨
 PICARD: Proceed. Mister Worf, keep a close eye on Q's friends out there.
 WORF: Understood.
 
@@ -422,8 +455,9 @@ DATA [OC]: Containment fields to flight tolerance.
 [Engineering]
 
 DATA: Warp core to ninety percent.
-LAFORGE: Engage field coils. Tractor beam to stand by. Field output? (nudges Q) Field output?
-Q: Two seventeen.
+LAFORGE: Engage field coils. 
+LAFORGE: Tractor beam to stand by. Field output? (nudges Q) Field output?
+Q: Two seventeen. 😊😊
 LAFORGE: Impulse engines to full. Ready to engage tractor beam.
 
 [Bridge]
@@ -451,14 +485,14 @@ LAFORGE: It's working. We can move it. Firing impulse engines.
 [Bridge]
 
 DATA [OC]: Captain, the moon's trajectory has moved point three percent. Point-four percent.
-WORF: Emergency! Shields up.
+WORF: Emergency! Shields up. 😱😱
 RIKER: Disengage tractor beam.
 WORF: Calamarain attacking. (big jolt) Shields holding. Tachyon field repelled.
 LAFORGE [OC]: Captain, the impact of the blast is pushing us into the upper atmosphere.
 
 [Engineering]
 
-DATA: Hull temperature rising. Two thousand degrees.
+DATA: Hull temperature rising. Two thousand degrees. 😨
 
 [Bridge]
 
@@ -472,23 +506,27 @@ RIKER: Geordi, can you direct any more power to the shields?
 [Engineering]
 
 LAFORGE: We need all the power we have to get out of the atmosphere, Commander.
-(Once again, the light wraps itself around Q)
+(Once again, the light wraps itself around Q) 😱😱
 LAFORGE: Try activating the structural integrity field.
-(Q is pulled into the air. Data grabs his legs and the light wraps around him, too)
+(Q is pulled into the air.)
+(Data grabs his legs and the light wraps around him, too) 😱
 LAFORGE: It's not working. Structural field harmonics on manual.
 RIKER [OC]: La Forge. Hull temperature falling. We're in the clear.
 LAFORGE: Diverting power to forward sections now.
-(Q falls back to the deck, Data also falls over, with residual electricity running over his body)
+(Q falls back to the deck, Data also falls over 😱😱 with residual electricity running over his body)
 
 [Sickbay]
 
-LAFORGE: That charge nearly knocked out his positronic net.
+LAFORGE: That charge nearly knocked out his positronic net. ⚡
 RIKER: What can you do for him?
 LAFORGE: We can try to discharge and reset the motor pathways, recouple the autonomic nodes.
 CRUSHER: There's overpressure in his fluidic systems. Thermal shock. If he was mortal, he'd be dead.
-Q: Let us not overstate the matter here, Doctor. I'm mortal and I survived. The cheers are overwhelming.
-PICARD: Q, you exceed your own standards of self-preoccupation. You have no concern for an officer who may have saved your life.
-Q: He's strong, he'll survive.
+Q: Let us not overstate the matter here, Doctor. 
+Q: I'm mortal and I survived. 
+Q: The cheers are overwhelming.
+PICARD: Q, you exceed your own standards of self-preoccupation. 
+PICARD: You have no concern for an officer who may have saved your life. 😭😭
+Q: He's strong, he'll survive. 😟
 LAFORGE: Osmotic pressure still rising. Maybe we can by-pass the flow regulator.
 CRUSHER: It would be helpful if everybody just got out of here now.
 PICARD: (to guard, as he leaves) Stay with Q.
@@ -511,16 +549,20 @@ Q: It is a joke. A joke on me. The joke of the universe. The king who would be m
 
 [Sickbay]
 
-(Q enters. Data is sitting up)
+(Q enters. Data is sitting up) 😊😊
 CRUSHER: He's going to be all right.
 LAFORGE: We're recalibrating his language circuits, so he can't talk yet.
-Q: There are creatures in the universe who would consider you the ultimate achievement, android. No feelings, no emotions, no pain. And yet you covet those qualities of humanity. Believe me, you're missing nothing. But if it means anything to you, you're a better human than I.
+Q: There are creatures in the universe who would consider you the ultimate achievement, android. 
+Q: No feelings, no emotions, no pain. 
+Q: And yet you covet those qualities of humanity. 
+Q: Believe me, you're missing nothing. 
+Q: But if it means anything to you, you're a better human than I. 😭😭
 
 [Turbolift]
 
 Q: Where's the main shuttlebay?
 COMPUTER: Main shuttlebay is located on deck four.
-Q: Take me there.
+Q: Take me there. 😨
 
 [Bridge]
 
@@ -528,7 +570,7 @@ WORF: Captain, an unscheduled shuttle has just been launched.
 PICARD: On main viewer. Hailing frequency.
 WORF: Frequencies open.
 PICARD: Shuttle occupant, identify yourself.
-Q [on viewscreen]: Don't try to talk me out of it, Jean-Luc.
+Q [on viewscreen]: Don't try to talk me out of it, Jean-Luc. 😱😱
 PICARD: Q, return to the ship immediately.
 Q [on viewscreen]: I just can't get used to following orders.
 WORF: Captain, the plasma cloud is moving toward the shuttle.
@@ -543,8 +585,8 @@ PICARD: It's a perfectly good shuttlecraft.
 CREWMAN [OC]: Captain, unable to transport. For some reason, I can't lock on to the shuttlecraft.
 RIKER: Worf, are you sensing any sort of interference from the Calamarain?
 WORF: No, sir, but they are still moving toward the shuttle.
-RIKER: Geordi, extend shields around shuttle one.
-LAFORGE [OC]: Extending shields.
+RIKER: Geordi, extend shields around shuttle one. 
+LAFORGE [OC]: Extending shields. 😱😱
 
 [Engineering]
 
@@ -561,10 +603,13 @@ RIKER: What the hell is going on?
 [Shuttlecraft]
 
 Q2: Not bad, Q. Not great. But not bad.
-(Dressed in a similar fashion, and stepping through the bulkhead. This Q looks at his hands as if they are something completely new to him)
+(Dressed in a similar fashion and stepping through the bulkhead.)
+(This Q looks at his hands as if they are something completely new to him)
 Q: Q!
-Q2: Sacrificing yourself for these humans? Do I detect a little selfless act?
-Q: You flatter me. I was only trying to put a quick end to a miserable existence.
+Q2: Sacrificing yourself for these humans? 
+Q2: Do I detect a little selfless act? 😊
+Q: You flatter me. 
+Q: I was only trying to put a quick end to a miserable existence. 😭
 Q2: What a dreadful colour.
 Q: Yeah. What are you doing here?
 Q2: I've been keeping track of you.
@@ -599,8 +644,8 @@ RIKER: Scan the sector.
 DATA: I have, sir.
 PICARD: Well, I suppose that is the end of Q.
 (A Mexican Mariachi band appear, with Q as lead trumpet)
-Q: Au contraire, mon capitaine! He's back!
-(Cigars for everyone)
+Q: Au contraire, mon capitaine! He's back! 😊
+(Cigars for everyone) 😊🙂
 Q: I'm forgiven. My brothers and sisters of the Continuum have taken me back. I'm immortal again. Omnipotent again.
 RIKER: Swell.
 Q: Don't fret, Riker. My good fortune is your good fortune.
@@ -608,25 +653,39 @@ Q: Don't fret, Riker. My good fortune is your good fortune.
 RIKER: I don't need your fantasy women.
 Q: Oh, you're so stolid, Commander. You weren't like that before the beard. Very well.
 (the women vanish from Riker and reappear with Worf)
-PICARD: Q!
+PICARD: Q! 😊
 Q: But I feel like celebrating.
-PICARD: I don't.
+PICARD: I don't. 😭
 Q: All right.
 (The women vanish)
 PICARD: All of it.
 (Bye, bye, band, hello uniform)
 PICARD: Now, at the risk of being rude.
-Q: Yes, once again I've overstayed my welcome. As a human, I was ill-equipped to thank you, but as myself you have my everlasting gratitude. Until next time. Ah, but before I go, there's a debt I wish to repay to my professor of the humanities. Data, I've decided to give you something very, very special.
+Q: Yes, once again I've overstayed my welcome. 
+Q: As a human, I was ill-equipped to thank you, but as myself you have my everlasting gratitude. 
+Q: Until next time. Ah, but before I go, there's a debt I wish to repay to my professor of the humanities. 
+Q: Data, I've decided to give you something very, very special.
 DATA: If your intention is to make me human, Q.
-Q: No, no, no, no, no, no. I would never curse you by making you human. Think of it as a going away present.
-(Q vanishes, and Data turns into a quivering heap of helpless, contagious laughter)
-LAFORGE: Data? Data, why are you laughing?
-DATA: I do not know. But it was a wonderful feeling.
+Q: No, no, no, no, no, no. 
+Q: I would never curse you by making you human. 
+Q: Think of it as a going away present.
+(Q vanishes)
+(Data begins to quiver) 😱😟😟🙂🙂
+(He snowballs into helpless contagious laughter) 😊😊😊😊😊😊😊😊🙂🙂
+LAFORGE: Data? 
+(Data pauses and turns to Laforge before bursting out laughing again) 😊😊😊😊😊😊😊😊🙂🙂
+LAFORGE: Data, why are you laughing?
+(Data is about to answer but then he returns to normal) 😭🙂🙂🙂
+DATA: I do not know. 
+DATA: But it was a wonderful... 
+DATA: feeling. 😭😭😭🙂🙂🙂🙂
 WORF: Captain, Bre'el Four is hailing us.
 PICARD: On screen, Lieutenant.
 GARIN [on viewscreen]: Captain Picard you've done it
 PICARD: I'm sorry?
-SCIENTIST [on viewscreen]: The moon. It's back to its normal orbit. How ever you did it, thank you.
+SCIENTIST [on viewscreen]: The moon. 
+SCIENTIST [on viewscreen]: It's back to its normal orbit. 
+SCIENTIST [on viewscreen]: How ever you did it, thank you. 🙂🙂🙂
 (transmission ends)
 RIKER: Let's see it, Worf.
 (a diagram of a circular orbit on the screen)
@@ -634,8 +693,9 @@ PICARD: Mister Data, your analysis?
 DATA: The moon's altitude is fifty five thousand kilometres. Projected orbit is circular. There is no further danger to the planet.
 PICARD: Ensign, set course for Station Nigala Four.
 ENSIGN: Aye, sir.
-PICARD: Perhaps there's a residue of humanity in Q after all. Ensign, en
+PICARD: Perhaps there's a residue of humanity in Q after all.  😊😊
+PICARD: Ensign, en
 (a lit cigar appears in Picard's hand)
-Q [OC]: Don't bet on it, Picard.
+Q [OC]: Don't bet on it, Picard. 😊😊😊😊😊😊😊😊
 
 NARRATOR: 🎵 🙂🙂😊😊😊😊 End Credits 🎵
