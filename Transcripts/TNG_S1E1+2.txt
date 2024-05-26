@@ -235,7 +235,8 @@ Personal log, Commander William Riker. Stardate 41153.7. The USS Hood has droppe
 
 [Zorn's office]
 
-(It is a standard wooden room, a desk with a bowl of fruit on it. Zorn is humanoid in loose clothing with long straight hair)
+(It is a standard wooden room, a desk with a bowl of fruit on it.)🔨
+(Zorn is humanoid in loose clothing with long straight hair)
 ZORN: Ah, Commander Riker, I thought you'd want to know we've still no word from your vessel. I trust we made your waiting comfortable?
 RIKER: Luxurious is more like it.😊😊
 ZORN: Good. (gets muddled over a handshake) Good.

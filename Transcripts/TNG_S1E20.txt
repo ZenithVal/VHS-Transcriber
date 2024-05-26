@@ -293,7 +293,8 @@ CRUSHER: Not good. I'll keep you posted.
 [Guest Quarters]
 
 KORRIS: Sit, friend. Let us eat.
-KONMEL: (to replicator) O'Mat gri tea and piviots. (a tray with a bottle and food arrives)
+KONMEL: (to replicator) O'Mat gri tea and piviots. 
+(a tray with a bottle and food arrives)🍽️
 KORRIS: I did not know there were Klingons serving on human Starfleet vessels.
 WORF: As far as I know, I am the only one.
 KORRIS: Tell me, what it is like for the hunter to lie down with the prey? Have they tamed you, or have you always been docile?

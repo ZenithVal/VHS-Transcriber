@@ -239,10 +239,11 @@ RIKER: Delicious.
 KLAG: Good. Then you'll also enjoy this.
 RIKER: Isn't that gagh?
 KLAG: Very good. You did some research on our nutritional choices.
-RIKER: Yes, but, it's still moving.
+RIKER: Yes, but, it's still moving.🤢
 KLAG: Gagh is always best when served live. Would you like something easier?
 RIKER: Easier?
-KLAG: Yes. If Klingon food is too strong for you, perhaps we could get one of the females to breast feed you.
+KLAG: Yes. If Klingon food is too strong for you, 
+KLAG: perhaps we could get one of the females to breast feed you.
 (laughter all round the tables)
 RIKER: You're not worried about my weakening, are you?
 KLAG: Look around you. There are no old warriors.
@@ -263,7 +264,9 @@ RIKER: I suppose so. Why?
 KLAG: Well, it's just you're not what I expected.
 RIKER: In what way?
 TACTICS: You have a sense of humour.
-RIKER: I was thinking the same thing about you. In all my dealings with Klingons, including our Lieutenant Worf, the thought never occurred to me of Klingons laughing.
+RIKER: I was thinking the same thing about you. 
+RIKER: In all my dealings with Klingons, including our Lieutenant Worf, 
+RIKER: the thought never occurred to me of Klingons laughing.
 TACTICS: There is much about us you do not know.
 RIKER: That's why I'm here.
 KLAG: You should ask.
@@ -452,7 +455,9 @@ KARGAN: Give it to me.
 
 [Bridge]
 
-WORF: We are getting an emergency signal from a command transponder. Location zero three five mark three one three. Frequency and code designate it as Commander Riker.
+WORF: We are getting an emergency signal from a command transponder. 
+WORF: Location zero three five mark three one three. 
+WORF: Frequency and code designate it as Commander Riker.
 PICARD: Chief O'Brien, lock onto that transponder signal.
 
 [Transporter room]
@@ -502,8 +507,12 @@ PICARD: Transporter room, energise.
 
 [Pagh Bridge]
 
-(Captain Kargan is beamed away)
-RIKER: Hold where you are, Klag. I've relieved Captain Kargan. He was acting in an irrational manner. I'm your Captain now. Serve this ship as I have!
+(Captain Kargan is beamed away)🙂
+RIKER: Hold where you are, Klag. 
+RIKER: I've relieved Captain Kargan. 
+RIKER: He was acting in an irrational manner. 
+RIKER: I'm your Captain now. 
+RIKER: Serve this ship as I have!
 
 [Bridge]
 
@@ -548,7 +557,8 @@ RIKER: I don't want your command.
 KARGAN: But you tricked me to get it.
 RIKER: Either way, you can have it back.
 KARGAN: Then return to your station.
-(Riker holds his ground, so Kargan gives him a massive back-hander that sends him flying. Klag checks his injuries)
+(Riker holds his ground, so Kargan gives him a massive back-hander that sends him flying.)🔧🔧
+(Klag checks his injuries)
 KARGAN: Get him off my ship!
 KLAG: Yes, Captain. You understand the Klingons better than I thought, Commander.
 RIKER: Thank you, my friend.

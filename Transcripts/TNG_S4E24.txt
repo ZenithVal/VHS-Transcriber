@@ -183,7 +183,9 @@ LAFORGE: Well, I did take second place in a chess tournament.
 TROI: Yes.
 LAFORGE: And I swam a lot. I worked on my back stroke. The water is very calm on Risa.
 TROI: And?
-LAFORGE: And I walked a lot. That's all. Well, I ate enough for twelve people. The food there is terrific. They've got a chocolate there, Counsellor, you would love.
+LAFORGE: And I walked a lot. That's all. Well, I ate enough for twelve people. 
+LAFORGE: The food there is terrific. 🍽️
+LAFORGE: They've got a chocolate there, Counsellor, you would love.
 TROI: And that's all?
 LAFORGE: Yeah. Well, there was this
 TROI: Yes?
@@ -200,7 +202,7 @@ RIKER: We make no effort to restrict access to our medical supplies.
 VAGH: Are your weapons also freely available?
 PICARD: No, they are not.
 VAGH: Then explain this.
-(Picard catches the phaser rifle that is thrown at him)👻😱
+(Picard catches the phaser rifle that is thrown at him)💃
 PICARD: You took this weapon from the rebels?
 VAGH: That and many more like it.
 RIKER: It does appear to be Federation issue.

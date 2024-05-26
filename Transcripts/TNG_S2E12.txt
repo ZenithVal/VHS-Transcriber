@@ -243,7 +243,7 @@ RIKER: Excuse me. Say, I was wondering if you could tell me
 RIKER: There's a good deal of structural integrity, Worf.
 WORF: Permission to use phaser, sir.
 RIKER: Granted.
-(The phaser has no effect on the wood)
+(The phaser has no effect on the wood)🔨
 DATA: Sir, I can find no other exits. I believe we are trapped here.
 
 PICARD: Captain's log, supplemental. We remain in orbit around Theta Eight, still out of contact with the away team.

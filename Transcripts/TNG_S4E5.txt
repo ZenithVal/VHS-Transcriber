@@ -297,7 +297,10 @@ CRUSHER: Wesley?
 (There's only Picard on the Bridge. All the stations are empty. Beverly even checks the Observation lounge - door labeled Conference - and looks stunned)
 CRUSHER: They're all gone? Riker, Troi, Data? Wait a minute, let me guess. You never heard of any of them.
 PICARD: You know, Doctor, I have been more than fair. I have done everything I can to substantiate your, your perceptions of a
-CRUSHER: Will Riker! Your First Officer. He's very good at playing poker, loves to cook, he listens to jazz music, plays the trombone.
+CRUSHER: Will Riker! 
+CRUSHER: Your First Officer. 
+CRUSHER: He's very good at playing poker, loves to cook, 
+CRUSHER: he listens to jazz music, plays the trombone.🍳
 PICARD: I cannot find any evidence of a Will Riker.
 CRUSHER: Commander Data, the android who sits at Ops, dreams of being human, never gets the punch line of a joke.
 PICARD: Doctor, we'll be arriving at Starbase one three three in a few hours.

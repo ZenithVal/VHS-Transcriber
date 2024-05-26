@@ -199,7 +199,7 @@ THOLL: Does this mean there's nothing here for you to eat?
 ESOQQ: You.
 THOLL: Don't even think that! Picard, you won't let him
 PICARD: Esoqq, how long can you go without food?
-ESOQQ: Three days. Perhaps four.
+ESOQQ: Three days. Perhaps four.🍄
 PICARD: No longer?
 ESOQQ: No longer.
 
@@ -378,7 +378,7 @@ PICARD 2: Number One, has it occurred to you that you might be the one with the 
 
 (Esoqq hands over his vicious knife to Picard, for use as a tool. He shorts out a power line)
 PICARD: Cadet.
-(Haro gets the door to open slightly)
+(Haro gets the door to open slightly)🥈
 HARO: I may have overloaded it, sir.
 (Picard and Esoqq try to prise the doors further apart)
 PICARD: Mister Tholl!

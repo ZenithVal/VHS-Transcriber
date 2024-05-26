@@ -84,7 +84,8 @@ KURN: No, Commander, it is not. If it were a Klingon ship, I would have killed y
 
 (Picard is carving a roast turkey for the buffet)
 KURN: How long has the bird been dead? It appears to have been lying in the sun for quite some time.
-LAFORGE: It's not dead, it's been replicated. You do understand that we cook most of our foods.
+LAFORGE: It's not dead, it's been replicated. 
+LAFORGE: You do understand that we cook most of our foods.🍳
 KURN: Ah, yes. I was told to prepare for that. I shall try some of your burned replicated bird meat.
 (He rips off a leg and plonks it on his plate)
 PICARD: I have attempted to select a menu that will allow you to sample a variety of dishes, Commander.

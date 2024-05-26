@@ -269,11 +269,11 @@ PULASKI: The biobeds aren't working? The ship is falling apart! I've had thirty-
 MEDIC: Doctor Pulaski.
 PULASKI: Yes.
 MEDIC: I've got a problem here. The knitter isn't working.
-PULASKI: Try a splint.
+PULASKI: Try a splint.🏥
 MEDIC: Doctor?
 PULASKI: Splint. It's a very ancient concept. 
-PULASKI: You take two flat pieces of wood or plastic, a bandage. 🔨🧵🧵🏥🏥
-PULASKI: The broken limb is kept immobile.🏥🏥
+PULASKI: You take two flat pieces of wood or plastic, a bandage. 🔨🧵🧵🏥
+PULASKI: The broken limb is kept immobile.🏥
 DOCTOR: That's crazy, that's not practicing medicine.
 PULASKI: Oh yes, it is. 
 PULASKI: It's a time honoured way to practice medicine, with your head and your heart and your hands. 🏥

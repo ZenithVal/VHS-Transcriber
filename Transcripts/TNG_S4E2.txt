@@ -131,7 +131,7 @@ MARIE: As usual, with his vines.
 
 [The Picard Vineyard]
 
-(Robert is tasting the red grapes, making sure they are all right)🚜
+(Robert is tasting the red grapes, making sure they are all right)🚜🚜
 ROBERT: So, you arrived all right. Welcome home, Captain.
 PICARD: Hello, Robert.
 ROBERT: You've shuttled in from the village?
@@ -208,7 +208,8 @@ PICARD: On the contrary. I think that synthehol heightens one's appreciation for
 ROBERT: Delicious, Marie.
 MARIE: Thank you.
 PICARD: Leave it to Robert to find the best cook in France, then marry her.
-ROBERT: Yes, but sadly cooking is becoming a lost art. That's your wretched technology again.
+ROBERT: Yes, but sadly cooking is becoming a lost art. 🍳
+ROBERT: That's your wretched technology again.
 MARIE: Robert and I have had more than a few discussions about getting a replicator in the house.
 PICARD: I remember the same discussions between mother and father.
 ROBERT: Father understood better than anybody else the danger of losing those values which we hold most precious.

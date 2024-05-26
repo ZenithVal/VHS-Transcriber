@@ -70,7 +70,9 @@ PICARD: So, you've heard?
 LAFORGE: Leah's got a few friends at Starfleet Medical. Word gets around.
 PICARD: I'm not an invalid. Irumodic Syndrome can take years to run its course.
 LAFORGE: I know. Once I heard, well, I just wanted to stop by just the same.
-PICARD: Well now that you're here, you can help me carry those tools. Well, my cooking may not be up to Leah's standards, but I can still make a decent cup of tea. Oh, I read your last novel. I thought that the protagonist a little too flamboyant, but for the rest I
+PICARD: Well now that you're here, you can help me carry those tools. 
+PICARD: Well, my cooking may not be up to Leah's standards, 🍳
+PICARD: but I can still make a decent cup of tea. Oh, I read your last novel. I thought that the protagonist a little too flamboyant, but for the rest I
 (he sees three tatty people jeering at him)
 LAFORGE: Captain, are you all right? Captain!
 TASHA [OC]: Captain?

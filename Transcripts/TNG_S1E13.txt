@@ -198,7 +198,7 @@ COMPUTER: Enter when ready. When ready. When ready.
 [Police Station]
 
 (Crusher enters, wobbling a little on her stiletto heels)
-DATA: (Bogart) Hiya Doc. What's cooking?
+DATA: (Bogart) Hiya Doc. What's cooking?🍳
 CRUSHER: You know I had some trouble getting through. Where's Captain Picard?
 DATA: He's on ice.
 CRUSHER: Pardon?

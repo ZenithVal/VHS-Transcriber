@@ -194,7 +194,7 @@ PICARD: Counter-punchers. Thank you, Counsellor. That's quite valuable.
 
 [Guest lounge]
 
-(Data and Sonny are at the food dispenser)
+(Data and Sonny are at the food dispenser)🍽️
 DATA: Talk.
 SONNY: I'd like me a thick Kansas City steak, and some country fried potatoes, and a mess of greens. Oh, hell, just forget all that and give me have a martini, straight up, with two olives. For the vitamins.
 (The glass appears out of thin air. Sonny samples it and whistles)

@@ -89,7 +89,8 @@ WORF: Sir.
 (A well build man with red hair and beard has entered. He stops in front of each of them in turn. Please note this actor really is deaf.)
 TROI: Riva.
 (He goes and stands on his dais. Picard steps forward but is gestured to stop. Two men and a woman in white enter and stand in front of Riva)
-WOMAN: Please, come closer. Before I start, is there anything you need? Food, refreshments?
+WOMAN: Please, come closer. Before I start, is there anything you need? 
+WOMAN: Food, refreshments?🍽️💧
 PICARD: Thank you, no.
 SCHOLAR: (the man in the hat) Then proceed.
 PICARD: Greetings from the United Federation of Planets. I am Captain Jean Luc Picard, of the USS Enterprise. This is Counsellor Troi. Lieutenant Worf.

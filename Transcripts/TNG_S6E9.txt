@@ -262,7 +262,8 @@ DATA: I am searching for a definition that will allow me to test an hypothesis.
 
 [Crusher's office]
 
-CRUSHER: Well, the broadest scientific definition might be that life is what enables plants and animals to consume food, derive energy from it, grow, adapt themselves to their surroundings and reproduce.
+CRUSHER: Well, the broadest scientific definition might be that life is what enables plants and animals to consume food, 
+CRUSHER: derive energy from it, grow, adapt themselves to their surroundings and reproduce.🐀🚜
 DATA: And you suggest that anything which exhibits these characteristics is considered alive?
 CRUSHER: In general, yes.
 DATA: What about fire?

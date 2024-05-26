@@ -264,13 +264,16 @@ KAMINER: Long. It was long.
 LAFORGE: Yeah, and it had a rectangular shape.
 TROI: Computer, show me a rectangular conference table.
 LAFORGE: It's too high. Computer, reduce the height of the table by twenty five percent.
-WORF: No, the table was smaller. And it was inclined. Computer, decrease the table's surface area by twenty percent and incline the top fifteen degrees.
-RIKER: No, it wasn't made of wood. It was smoother, more metallic.
+WORF: No, the table was smaller. 🔨
+WORF: And it was inclined. 
+WORF: Computer, decrease the table's surface area by twenty percent and incline the top fifteen degrees.
+RIKER: No, it wasn't made of wood. 
+RIKER: It was smoother, more metallic.
 TROI: Computer, make this a metal table.
-(a sort of operating table appears)
+(a sort of operating table appears)🥈
 LAFORGE: Yeah, that's starting to look right.
 TROI: Was there anything else in the room? Furniture? Chairs? A door? Other people?
-KAMINER: No, it was dark.
+KAMINER: No, it was dark.🤫
 RIKER: Yes, it was dark. I couldn't see beyond the table.
 TROI: Computer, lower the surrounding light level.
 LAFORGE: There was a light right in my face. A bright light. Computer, give me a bright light right above the table.
@@ -493,7 +496,7 @@ SHIPLEY: Ready.
 
 [Alien lab]
 
-(Riker sneaks over to Rager, and uses a phaser to stun an alien) 🤫🤫🤫💃💃👻🔫🔫
+(Riker sneaks over to Rager, and uses a phaser to stun an alien) 🤫💃👻🔫
 
 [Engineering]
 

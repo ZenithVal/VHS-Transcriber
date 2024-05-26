@@ -144,7 +144,10 @@ CRUSHER: What's he doing?
 PICARD: He's trying to find an access terminal so he can interface with the collective. He doesn't understand that the signal has been cut off.
 LAFORGE: He's emitting a homing signal and a second subspace beacon, but our damping field is blocking both signals.
 PICARD: He's alone. For the first time he's being forced to cope with his environment without the resources of the Collective.
-CRUSHER: He must be hungry. The Borg don't ingest food. Their implants can synthesise any organic molecules the biological tissues require. What they need is energy.
+CRUSHER: He must be hungry. 
+CRUSHER: The Borg don't ingest food. 
+CRUSHER: Their implants can synthesise any organic molecules the biological tissues require. 🚗
+CRUSHER: What they need is energy.
 PICARD: Arrange to feed it.
 LAFORGE: Aye, sir.
 (Picard leaves)

@@ -21,11 +21,12 @@ PICARD: Mister Worf, provide security.
 WORF: Aye, sir.
 (Picard leaves)
 WESLEY: What's in that container?
-PULASKI: Vermicula. It's their food. When they come out of stasis, they'll be very hungry.
-(live fish-like things)
+PULASKI: Vermicula. It's their food. 
+PULASKI: When they come out of stasis, they'll be very hungry.🐀
+(live fish-like things)🎣
 WESLEY: They eat this?
 PULASKI: In great quantities.
-WORF: What a handsome race.
+WORF: What a handsome race.🐀
 
 [Bridge]
 
@@ -482,9 +483,9 @@ PICARD: I think it would be only fair. But let's allow her the moment.
 
 [Sickbay]
 
-ANTEDEANS: Food. Food. Food. Food. Food.
+ANTEDEANS: Food Food Food Food Food.
 PULASKI: Worf, the vermicula.
-(The barrel is opened, and the two fishy aliens almost dive in head first)
+(The barrel is opened, and the two fishy aliens almost dive in head first)🎣🍽️
 PULASKI: Pulaski to Captain Picard.
 PICARD [OC]: Go ahead, Doctor.
 PULASKI [OC]: Our passengers are on their feet.

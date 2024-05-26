@@ -309,7 +309,7 @@ DATA: That would explain why your music composition programme began playing The 
 LAFORGE: It's the same with Doctor Crusher's play, and with the food replicators.
 RIKER: The replicators on decks four through nine are producing nothing but cat food.
 PICARD: Cat food?
-DATA: I have been formulating nutritional supplements for Spot.
+DATA: I have been formulating nutritional supplements for Spot.🐀
 PICARD: When can you correct the problem?
 DATA: We are currently attempting to isolate the corrupt circuit pathways. I reckon the process should take less then two hours.
 PICARD: What did you say?
