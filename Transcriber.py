@@ -19,7 +19,7 @@ def convert_lines(lines, settings, borLine, expList):
         "💤": "FAT+0.2", # Fatigue+
         "🏃": "FAT-0.2", # Fatigue-
         "🍽️": "HUN+0.2", # Hunger+
-        "❓": "HUN-0.2", # Hunger-
+        "🍗": "HUN-0.2", # Hunger-
         "😟": "STS+0.2", # Stress+
         "🙂": "STS-0.2", # Stress-
         "😨": "FEA+0.2", # Fear+
@@ -40,33 +40,33 @@ def convert_lines(lines, settings, borLine, expList):
         "😊": "UHP-0.2", # Unhappiness- 
 
         # Skills
-        "👟": "SPR+0.4", # Sprinting
-        "👻": "LFT+0.4", # Light Footed
-        "💃": "NIM+0.4", # Nimble
-        "🤫": "SNE+0.4", # Sneaking
+        "👟": "SPR+0.8", # Sprinting
+        "👻": "LFT+0.6", # Light Footed
+        "💃": "NIM+0.6", # Nimble
+        "🤫": "SNE+0.6", # Sneaking
 
         # Survival
-        "🎣": "FIS+0.4", # Fishing
-        "🐀": "TRA+0.4", # Trapping
-        "🍄": "FOR+0.4", # foraging
+        "🎣": "FIS+0.6", # Fishing
+        "🐀": "TRA+0.6", # Trapping
+        "🍄": "FOR+0.8", # foraging
 
         # Crafting
-        "🔨": "CRP+0.4", # Carpentry
-        "🍳": "COO+0.4", # Cooking
-        "🚜": "FRM+0.4", # Farming
+        "🔨": "CRP+1.0", # Carpentry
+        "🍳": "COO+0.8", # Cooking
+        "🚜": "FRM+0.8", # Farming
         "🏥": "DOC+0.4", # Medical
-        "⚡": "ELC+0.4", # Electricity
-        "🥈": "MTL+0.4", # Metalworking
-        "🧵": "TAI+0.4", # Tailoring
-        "🚗": "MEC+0.4", # Mechanic
+        "⚡": "ELC+0.5", # Electricity
+        "🥈": "MTL+0.8", # Metalworking
+        "🧵": "TAI+0.8", # Tailoring
+        "🚗": "MEC+0.8", # Mechanic
 
         # Guns
         "🔫": "AIM+0.4", # Aiming
         "🔄": "REL+0.4", # Reloading
 
         # Melee
-        "🪓": "BAA+0.4", # Axe
-        "🔱": "SPE+0.4", # Spear
+        "🪓": "BAA+0.8", # Axe
+        "🔱": "SPE+0.8", # Spear
         "🔧": "SBU+0.4", # Short Blunt
         "⚾": "BUA+0.4", # Long Blunt
         "🔪": "SBA+0.4", # Short blade
@@ -245,6 +245,12 @@ def main():
 
     # Print out the EXP list and their total values
     print("\nEXP List:")
+    # remove ANG, BOR, FAT, HUN, STS, FEA, PAN, SAN, SIC, PAI, DRU, THI, UHP from the list
+    delList = ["ANG", "BOR", "FAT", "HUN", "STS", "FEA", "PAN", "SAN", "SIC", "PAI", "DRU", "THI", "UHP"]
+    for item in delList:
+        if item in expList:
+            del expList[item]
+
     for key, value in expList.items():
         print(f"{key}: {round((value*16.666), 0)}")
 
