@@ -9,34 +9,68 @@ def parse_settings():
     return settings
 
 # Function to convert transcript lines to Lua format
-def convert_lines(lines, settings):
+def convert_lines(lines, settings, borLine):
     emoji_codes = {
-        "😠": "ANG+0.2", # Max 100
-        "😟": "STS+0.2",
-        "🙂": "STS-0.2",
-        "😊": "UHP-0.2",
-        "😭": "UHP+0.2",
-        "💤": "FAT+0.2",
-        "🏃": "FAT-0.2",
-        "🍽️": "HUN+0.2",
-        "🤢": "SIC+0.1", 
-        "😱": "PAN+0.2", # Max 100
-        "😨": "FEA+0.2", 
-        "👻": "LFT+0.2", #Light Footed
-        "🔨": "CRP+0.2", #carpentry
-        "🍳": "COO+0.2", #cooking
-        "🎣": "FIS+0.2",
-        "🚜": "FRM+0.2",
-        "🍄": "FOR+0.2", #foraging
-        "🐀": "TRA+0.2", #Trapping
-        "🔫": "AIM+0.2",
-        "🚗": "MEC+0.2",
-        "🥈": "MTL+0.2", #metalworking
-        "🏥": "DOC+0.2",
-        "🧵": "TAI+0.2",
-        "⚡": "ELC+0.2",
-        "⚾": "BUA+0.2", #Blunt weapons somehow? lol
-        "🔪": "SBA+0.2" #Short blade
+        #Stats
+        "😠": "ANG+0.2", # Anger+
+        "❓": "ANG-0.2", # Anger-
+        "❓": "BOR+0.2", # Boredom
+        "❓": "BOR-0.2", # Boredom-
+        "💤": "FAT+0.2", # Fatigue+
+        "🏃": "FAT-0.2", # Fatigue-
+        "🍽️": "HUN+0.2", # Hunger+
+        "❓": "HUN-0.2", # Hunger-
+        "😟": "STS+0.2", # Stress+
+        "🙂": "STS-0.2", # Stress-
+        "😨": "FEA+0.2", # Fear+
+        "❓": "FEA-0.2", # Fear-
+        "😱": "PAN+0.2", # Panic+ (Max 100)
+        "❓": "PAN-0.2", # Panic-
+        "❓": "SAN+0.2", # Sanity+
+        "🤪": "SAN-0.2", # Sanity-
+        "🤢": "SIC+0.1", # Sick+
+        "❓": "SIC-0.1", # Sick-
+        "❓": "PAI+0.2", # Pain+
+        "❓": "PAI-0.2", # Pain-
+        "🍺": "DRU+0.2", # Drunk+
+        "❓": "DRU-0.2", # Drunk-
+        "💧": "THI+0.2", # Thirst+
+        "❓": "THI-0.2", # Thirst-
+        "😭": "UHP+0.2", # Unhappiness+ (Makes u sadder)
+        "😊": "UHP-0.2", # Unhappiness- 
+
+        # Skills
+        "👟": "SPR+0.4", # Sprinting
+        "👻": "LFT+0.4", # Light Footed
+        "💃": "NIM+0.4", # Nimble
+        "🤫": "SNE+0.4", # Sneaking
+
+        # Survival
+        "🎣": "FIS+0.4", # Fishing
+        "🐀": "TRA+0.4", # Trapping
+        "🍄": "FOR+0.4", # foraging
+
+        # Crafting
+        "🔨": "CRP+0.4", # Carpentry
+        "🍳": "COO+0.4", # Cooking
+        "🚜": "FRM+0.4", # Farming
+        "🏥": "DOC+0.4", # Medical
+        "⚡": "ELC+0.4", # Electricity
+        "🥈": "MTL+0.4", # Metalworking
+        "🧵": "TAI+0.4", # Tailoring
+        "🚗": "MEC+0.4", # Mechanic
+
+        # Guns
+        "🔫": "AIM+0.4", # Aiming
+        "🔄": "REL+0.4", # Reloading
+
+        # Melee
+        "🪓": "BAA+0.4", # Axe
+        "🔱": "SPE+0.4", # Spear
+        "🔧": "SBU+0.4", # Short Blunt
+        "⚾": "BUA+0.4", # Long Blunt
+        "🔪": "SBA+0.4", # Short blade
+        "🗡️": "LBA+0.4" # Long blade
     }
 
 
@@ -63,8 +97,15 @@ def convert_lines(lines, settings):
         # Initialize a dictionary to store the counts of each emoji code
         emoji_counts = {code: 0 for code in emoji_codes.values()}
         
+
+        # List of Codes
+        codes = []
+
+        # Add BOR-0.2 if applicable
+        if borLine == True:
+            codes.append("BOR-0.5")
+
         # Iterate over the dialogue to count emojis and aggregate codes
-        codes = "BOR-0.2"  # Default code
         for emoji, code in emoji_codes.items():
             count = dialogue.count(emoji)
             if count > 0:
@@ -73,7 +114,6 @@ def convert_lines(lines, settings):
                 dialogue = dialogue.replace(emoji, "")
         
         # Generate the combined emoji codes string
-        emoji_code_str = ""
         for code, count in emoji_counts.items():
             if count > 0:
                 # Parse the number past the operator, multiply it by the count, and concatenate it back with the code
@@ -84,16 +124,17 @@ def convert_lines(lines, settings):
                     base_code = code[:operator_index]
                     number = float(code[operator_index + 1:])
                     multiplied_number = number * count
-                    emoji_code_str += f"{base_code}{code[operator_index]}{multiplied_number},"
+                    codes.append(f"{base_code}{code[operator_index]}{round(multiplied_number, 4)}")
 
-        # Remove trailing comma
-        emoji_code_str = emoji_code_str.rstrip(",")
-        codes += f",{emoji_code_str}" if emoji_code_str else ""
+        # Create a list seperated by commas for the codes, if any ()
+        codesStr = ""
+        if len(codes) > 0:
+            codesStr = ",".join(codes)
 
         # Split long lines into multiple sentences
         sentences = re.split(r'(?<!\d\.\d)(?<![A-Z]\.)(?<![A-Z][a-z]\.)(?<!\w\.\w)(?<=\.|\?|!)\s', dialogue)
         for sentence in sentences:
-            converted_lines.append({"text": sentence.strip(), "color": color, "codes": codes})
+            converted_lines.append({"text": sentence.strip(), "color": color, "codes": codesStr})
     return converted_lines
 
 # Function to parse transcript lines with character speaking and dialogue
@@ -173,14 +214,26 @@ def main():
 
                 # Read the rest of the lines for dialogue
                 lines = []
+                lineNumber = 0
+                lineNextBOR = 0
+
                 characters_spoken = set()  # Initialize set to keep track of characters spoken
                 for line in transcript_file.readlines():
                     character, dialogue = parse_transcript_line(line, settings, characters_spoken)
                     if dialogue:  # Skip empty lines
-                        converted_lines = convert_lines([{"text": dialogue}], settings)  # Convert the line
+                        # Check if the line is a BOR line
+                        borLine = False
+                        if lineNextBOR == lineNumber:
+                            borLine = True
+                            lineNextBOR += 15
+                        lineNumber += 1
+
+                        converted_lines = convert_lines([{"text": dialogue}], settings, borLine)  # Convert the line
+
                         color = settings.get(character.upper(), settings.get("DEFAULT", [1.0, 1.0, 1.0]))
                         lines.extend({"text": line["text"], "color": color, "codes": line["codes"]} for line in converted_lines)
                 transcripts[transcript_name] = {"title": title, "itemDisplayName": item_display_name, "lines": lines}
+                print (f"{transcript_name} parsed.")
     
     create_lua_data(transcripts, settings)
     print("Generated.lua file has been created successfully.")
