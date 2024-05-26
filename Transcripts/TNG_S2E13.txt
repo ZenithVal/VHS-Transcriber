@@ -394,8 +394,9 @@ PULASKI: Yes
 
 [Bridge]
 
-RIKER: Arm the photons, Mister Worf. Lock on the centre of the vortex.
-WORF: Photon torpedoes locked on target.
+RIKER: Arm the photons, Mister Worf. 🔄
+RIKER: Lock on the centre of the vortex.
+WORF: Photon torpedoes locked on target. 🔫
 PICARD: Hold for my order.
 (Picard gets zapped again and thrown against a bulkhead)
 RIKER: Like a rag in a dog's mouth.

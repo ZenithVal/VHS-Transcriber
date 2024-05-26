@@ -246,7 +246,8 @@ PICARD: No, we'll find an alternative route. Let's go back up.
 
 [Sickbay]
 
-(inside, Troi sees Beverly being shot by a Romulan. Troi runs out and a Romulan woman moves)
+(inside, Troi sees Beverly being shot by a Romulan.)🔫
+(Troi runs out and a Romulan woman moves)👟
 
 [Transporter room]
 

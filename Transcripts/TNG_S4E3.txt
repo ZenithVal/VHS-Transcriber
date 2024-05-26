@@ -350,7 +350,7 @@ WORF: A small vessel, entering orbit. I detect no lifeforms aboard, sir.
 
 (Data is rubbing his stomach while patting his head)
 SOONG: Good. Good, good, good. Keep it up. Keep it up. Old Tom Handy swore you'd never master that. Data, Data, whistle for me.
-(Data does his bad, off-key 'Pop goes the Weasel')
+(Data does his bad, off-key 'Pop goes the Weasel') 
 SOONG: Oh, well. All right, that's enough. Sit down. (he inspects a plant) Beautiful, beautiful. You know, I've been able to keep track of you from time to time. You've become something of a celebrity in cybernetic circles. Data, why Starfleet?
 DATA: Sir?
 SOONG: I gave you the ability to choose whatever you wanted. To do whatever you wanted. Why Starfleet?

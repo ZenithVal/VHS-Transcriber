@@ -39,7 +39,7 @@ L'KOR: I can only hope that if my son came here, he would be Klingon enough to k
 [Compound]
 
 (morning, and a young man is hoeing a vegetable plot with a long, wicked-looking implement. Worf snatches it from him)
-WORF: This is a gin'tak spear.
+WORF: This is a gin'tak spear. 🔱
 TOQ: What of it?
 WORF: Have your parents taught you nothing? This is used for battle, not tilling soil.
 TOQ: We have no need for weapons here. The war is far away.

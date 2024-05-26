@@ -711,8 +711,9 @@ PICARD: What's going on?😱
 CRUSHER: We're under attack.
 CHILTON: Shield strength down to fifty two percent. Minor damage to the port nacelle.
 WORF: Two Klingon attack cruisers decloaking to port and starboard.
-CRUSHER: Warp speed. Get us out of here.
-CHILTON: Warp power's offline, sir.
+CRUSHER: Warp speed. 🚗
+CRUSHER: Get us out of here.  
+CHILTON: Warp power's offline, sir. ⚡
 CRUSHER: Heading one four eight, mark two one five. Full impulse.
 CHILTON: Impulse power's fluctuating. Shields down to thirty percent.
 PICARD: Weapons status?

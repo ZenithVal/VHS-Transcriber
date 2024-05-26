@@ -194,7 +194,7 @@ PICARD: Yellow Alert. On screen.
 (It's green and mean)
 WORF: Romulan warbird closing. They are arming main disruptors, Captain.
 PICARD: Go to Red Alert. Shields to maximum.
-RIKER: Arm photon torpedoes and stand by, Mister Worf.
+RIKER: Arm photon torpedoes and stand by, Mister Worf. 🔄
 WORF: Aye, sir.
 RIKER: I thought you said the Enterprise was faster than this Romulan.
 DATA: In fact, we are, Commander. However

@@ -141,7 +141,8 @@ RIKER: Geordi, can you see Worf?
 LAFORGE: I'd see the freckles on his nose if he had them, sir. He's at the third ridge.
 DATA: The third ridge?
 LAFORGE: Moving well too. Oh, oh. Good, he sees them.
-(Them being soldiers in an camp. And they grunt like pigs. Worf runs back.)
+(Them being soldiers in an camp. And they grunt like pigs.)
+(Worf runs back.) 👟
 
 [Ready Room]
 

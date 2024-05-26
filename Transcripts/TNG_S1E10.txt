@@ -217,9 +217,9 @@ RIKER: Enterprise now taking possession of Stargazer, Kazago.
 KAZAGO [on viewscreen]: Permission granted, Riker.
 RIKER: Actually it was quite a bargain, Kazago. I thought the Ferengi always made a profit on things.
 (Kazago growls and ends the transmission)
-RIKER: Set sub-warp speed for towing, LaForge.
+RIKER: Set sub-warp speed for towing, LaForge. 🚗
 LAFORGE: Aye, sir.
-(Picard enters, in pain)
+(Picard enters, in pain) 😨
 DATA: Starfleet has responded to our request, sir. A tug will rendezvous with us and tow the Stargazer back to Xendi Starbase Nine.
 PICARD: Very well, Data.
 RIKER: How was it, Captain?
@@ -490,7 +490,8 @@ LAFORGE: When he put up the shields, sir.
 PICARD: Damn, I said put fusion generators under surge control. You're moving too slowly. Arm the torpedoes, man! Vigo! Get a fire control party up here!
 VOICES [OC]: Shields weakening, Captain! Fusion generator online.
 PICARD: Weapons report!
-VOICE [OC]: Phasers coming to full charge, sir. Torpedoes armed!
+VOICE [OC]: Phasers coming to full charge, sir. 🔄
+VOICE [OC]: Torpedoes armed! 🔄
 PICARD: Who are they? Identify them!
 VOICE [OC]: They're coming for a third pass at us, sir!
 VOICE [OC]: We can't take another hit, Captain!

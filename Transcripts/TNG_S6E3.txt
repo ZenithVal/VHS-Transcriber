@@ -7,7 +7,8 @@ PICARD: Captain's log, stardate 46071.6. We have been called to the aid of a tra
 
 DATA: Captain, sensors have located the transport ship. Two Rekag battle cruisers are flanking it.
 RIKER: Red alert. Shields up.
-WORF: Phasers online. Photon torpedoes armed and ready.
+WORF: Phasers online. 🔄 
+WORF: Photon torpedoes armed and ready.
 PICARD: Is the transport still under attack?
 DATA: The cruisers' weapons are powered up but sir, the Rekag ships are turning and heading out of sensor range.
 RIKER: They don't want to take on the Enterprise.

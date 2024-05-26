@@ -311,7 +311,7 @@ LAFORGE: Something very strange is happening to this wormhole.
 
 [Exercise room]
 
-(Beverly is warming up when Troi runs in)
+(Beverly is warming up when Troi runs in) 👟
 TROI: Sorry.
 CRUSHER: You're unusually limber this morning.
 TROI: I'll say. Devinoni Ral. It's ridiculous, and wonderful. I feel completely out of control. Happy. Terrified. But there's nothing rational about this.

@@ -172,7 +172,7 @@ WESLEY: You have water!
 DIRGO: I wouldn't hide water. That's called dresci. It's from my planet.
 PICARD: It's alcohol.
 DIRGO: It's medicinal. It's for emergencies. I was going to share it with you.
-PICARD: This wouldn't quench your thirst, it would make it worse.
+PICARD: This wouldn't quench your thirst, it would make it worse. 💧
 DIRGO: I'll take my chances.
 PICARD: I'm not going to let you waste this. This is more valuable to us as a coolant or disinfectant.
 DIRGO: It's mine.

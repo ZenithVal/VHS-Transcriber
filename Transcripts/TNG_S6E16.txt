@@ -177,7 +177,7 @@ WORF: Yes. I wish to go to the Romulan prison camp.
 SHREK: Excellent. I can provide you with the coordinates.
 WORF: No. You will take me there.
 SHREK: No, it's not possible. I have no means of transportation.
-WORF: I checked the station records. You have a vessel that is capable of warp speed.
+WORF: I checked the station records. You have a vessel that is capable of warp speed.🚗
 SHREK: I, I do not have the time. I have other business.
 (Worf dangles Shrek over the railing)
 WORF: What is the real reason you do not wish to take me? Is it because what you have told me is not true?

@@ -445,8 +445,9 @@ PICARD: Mister Data?
 DATA: Shields are holding, sir.
 PICARD: Hold fire. Mister Crusher, come about to course one four eight zero zero three.
 WESLEY: Aye, sir.
-RIKER: Photon torpedoes ready.
-PICARD: Dispersal pattern, sierra. And fire!
+RIKER: Photon torpedoes ready. 🔄
+PICARD: Dispersal pattern, sierra. 
+PICARD: And fire! 🔫
 DATA: One enemy target hit, sir. Moderate damage to their forward shields. Our shields are still holding. Minor damage to secondary hull.
 PICARD: Course one four eight. Correction, course one seven zero mark zero one four.
 WESLEY: Sir, one of the ships is breaking off and going towards the Enterprise-C.

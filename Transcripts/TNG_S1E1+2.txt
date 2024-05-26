@@ -19,8 +19,8 @@ PICARD: It's hardly simple, Data, to negotiate a friendly agreement for Starflee
 DATA: Inquiry. The word snoop?
 PICARD: Data, how can you be programmed as a virtual encyclopedia of human information without knowing a simple word like snoop?
 DATA: Possibility, a kind of human behaviour I was not designed to emulate.
-PICARD: It means to spy, to sneak.
-DATA: Ah! To seek covertly, to go stealthily, to slink, slither
+PICARD: It means to spy, to sneak. 🤫
+DATA: Ah! To seek covertly, to go stealthily, to slink, slither 🤫
 PICARD: Exactly, yes.
 DATA: Glide, creep, skulk, pussyfoot, gumshoe.
 TROI: Captain, I'm sensing a powerful mind.
@@ -107,7 +107,7 @@ TASHA: Hostile's velocity is nine point seven, sir.
 PICARD: Worf, inform the engine room we need more.
 DATA: Engine room attempting to comply, sir, but they caution us- 😟😟
 PICARD: Go to yellow alert. Arm aft photon torpedoes. Place them on ready status.
-TASHA: Torpedoes to ready, sir.
+TASHA: Torpedoes to ready, sir. 🔄
 TASHA: Hostile now at warp nine point eight, sir.
 WORF: Our velocity is only nine point five, sir.
 DATA: Projection, sir. We may be able to match hostile's nine point eight, sir. But at extreme risk.
@@ -512,8 +512,8 @@ RIKER: I do.
 
 RIKER: Hello?
 (He crosses a stream by stepping stones) 
-(One wobbles)😱👻
-(Someone is trying to whistle 'Pop goes the Weasel')
+(One wobbles)😱👻💃💃
+🎵 (Someone is trying to whistle 'Pop goes the Weasel') 🎵
 (Riker finishes the tune)
 DATA: Marvellous. 😊😊😊😊
 DATA: How easily humans do that. 
@@ -547,7 +547,7 @@ WESLEY: (at the stream) Commander Riker, isn't this great? This is one of the si
 RIKER: Careful, the next rock is loose!
 (Wesley falls in the water) 😊😊😊😊
 RIKER: Wesley!
-(Data rushes down and hauls the boy out with one hand)
+(Data rushes down and hauls the boy out with one hand) 🎣
 WESLEY: Wow!
 
 [Corridor]
@@ -656,7 +656,8 @@ WORF: Vessel unknown, configuration unknown, sir.
 PICARD: Hail it.
 WORF: We've been trying, sir. No response.
 PICARD: Raise all shields, phasers at ready.
-WORF: Shields up, sir. Phasers ready.
+WORF: Shields up, sir. 
+WORF: Phasers ready. 🔄
 PICARD: Get me Groppler Zorn. And continue universal greetings on all frequencies.
 ZORN [OC]: This is Zorn, Captain.
 PICARD: Zorn, an unidentified vessel has entered into orbit with us.

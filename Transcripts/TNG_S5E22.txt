@@ -228,8 +228,8 @@ CLARA: No. I brought Isabella to see Ten Forward.
 GUINAN: Oh, I see. Well, ordinarily we would only let you in with a grown-up, but since you've brought Isabella, you can be my guest. Won't you join me?
 CLARA: Thank you.
 GUINAN: Now, how about two Papalla juices with extra bubbles.
-CLARA: Just one, please. Isabella isn't thirsty.
-GUINAN: One juice.
+CLARA: Just one, please. Isabella isn't thirsty. 
+GUINAN: One juice. 💧
 CLARA: You're not like the other grown-ups.
 GUINAN: Oh, no?
 CLARA: They don't think Isabella's real.
@@ -330,9 +330,10 @@ DATA: There is no indication of anything near the ship.
 WORF: Forward velocity is dropping, Captain. Down by point four percent.
 PICARD: Can we go to warp speed?
 DATA: Until we determine the cause of the drag coefficient, I would not recommend it, sir.
-WORF: Forward velocity down by one point one percent.
+WORF: Forward velocity down by one point one percent. 
 PICARD: Ensign, increase power to the impulse engines.
-FELTON: Aye, sir. Impulse engines now at full power.
+FELTON: Aye, sir. 
+FELTON: Impulse engines now at full power. 🚗⚡
 WORF: We are no longer losing speed. Forward velocity is holding steady.
 DATA: The drag coefficient is still present, but it has stabilised.
 PICARD: Bridge to Commander Riker. Check with Mister La Forge. See if he found anything in the matter sample from the nebula.
@@ -406,7 +407,7 @@ ALEXANDER: Clara, there's no such thing as invisible people. You're lying.
 (a piece of clay hits him from behind)
 ALEXANDER: Hey!
 CLARA: Isabella, stop!
-(Clara runs out)
+(Clara runs out)👟
 
 [Arboretum]
 

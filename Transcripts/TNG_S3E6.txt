@@ -542,7 +542,8 @@ WESLEY: Yes, sir.
 PICARD: Initiate full restart. Put all systems back online.
 LAFORGE: With pleasure, sir.
 PICARD: Number One, make sure that booby trap doesn't bother anyone again.
-RIKER: Mister Worf, ready photon torpedoes. Set to detonate on impact with the Promellian vessel.
+RIKER: Mister Worf, ready photon torpedoes. 🔄
+RIKER: Set to detonate on impact with the Promellian vessel.
 WORF: Aye, sir.
 (Four red balls, and four big explosions from the ship and three asteroids)
 

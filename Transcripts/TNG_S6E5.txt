@@ -425,7 +425,8 @@ LAFORGE: Aye, sir.
 
 LAFORGE: Captain, I've located the homing signal. Locking onto it now. It's coming from a subspace energy level of sixteen point two keV.
 PICARD: Stand by to initiate the graviton pulse.
-SHIPLEY: Graviton emitters at full power, sir. Standing by.
+SHIPLEY: Graviton emitters at full power, sir. ⚡
+SHIPLEY: Standing by.
 PICARD: Mister Data, how much time?
 
 [Cargo bay]
@@ -492,7 +493,7 @@ SHIPLEY: Ready.
 
 [Alien lab]
 
-(Riker sneaks over to Rager, and uses a phaser to stun an alien)
+(Riker sneaks over to Rager, and uses a phaser to stun an alien) 🤫🤫🤫💃💃👻🔫🔫
 
 [Engineering]
 

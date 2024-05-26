@@ -205,8 +205,10 @@ WORF: This panel configuration has been altered. I do not know how
 DATA: Direct hit. Engineering Section and deck forty two. Shield generators are overloading.
 (Boom)
 PICARD: Number One.
-RIKER: (taking over tactical) Firing photon torpedoes. Full spread.
-RIKER: Direct hit on their main reactor. They're returning fire.
+RIKER: (taking over tactical) Firing photon torpedoes. 
+RIKER: Full spread. 
+RIKER: Direct hit on their main reactor. 🔫
+RIKER: They're returning fire.
 (Boom)
 DATA: Captain, we have sustained heavy damage to the deflector systems. Hull breaches on decks seventeen and thirty six.
 PICARD: Ensign, take us out of here, maximum warp.

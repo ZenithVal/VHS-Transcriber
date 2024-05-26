@@ -356,7 +356,7 @@ BELLBOY: Done.
 
 [Alley]
 
-(The bellboy runs out the back of the hotel, past an old man muttering to himself)
+(The bellboy runs out the back of the hotel, past an old man muttering to himself) 👟
 BEGGAR: Help out a Forty Niner. Fell down a shaft. Forty Niner. Help me. Help me out.
 (a tall slim elegantly dressed man with a snake's head cane and a tall slim elegantly dressed woman with a case approach)
 BEGGAR: No. No.

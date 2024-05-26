@@ -350,7 +350,7 @@ CRUSHER: Do you have a feeling that you've done this before?
 LAFORGE: No, I don't.
 CRUSHER: Neither do I. Maybe that's a good sign.
 LAFORGE: Let's test the emitter.
-DATA: Particle accelerators at full power.
+DATA: Particle accelerators at full power.🚗⚡
 LAFORGE: Dekyon field active. Particle flux nominal. We're in business.
 CRUSHER: All we need now is a message.
 RIKER [OC]: Senior officers, report to the Bridge.

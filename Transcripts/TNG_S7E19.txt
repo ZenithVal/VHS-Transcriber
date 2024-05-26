@@ -204,7 +204,7 @@ RIKER: Venom all over the ship?
 BARCLAY: I'd say so.
 OGAWA: Sixty crewmen have begun exhibiting strange behavioural changes. Memory loss, fatigue, headaches. I think one thing is clear. There's some sort of disease aboard the Enterprise and it's spreading.
 RIKER: I'm having trouble concentrating myself. It's like my mind keeps wandering. I can't
-(La Forge runs in)
+(La Forge runs in)👟
 LAFORGE: Commander, I've got seven security teams out hunting for Worf, but for some reason sensors are having a difficult time locking onto him. I've called for a level two security alert. Do you think we should go to a Level One?
 RIKER: I don't know. What do you think?
 LAFORGE: I think we should.

@@ -107,7 +107,7 @@ DATA: Are you here to find a wedding gift?
 WORF: Yes.
 DATA: I would appreciate your help in selecting an appropriate item.
 WORF: Of course. I have attended human weddings before.
-(he runs through few pictures and stops at glasses)
+(he runs through few pictures and stops at glasses)👟
 WORF: Hold.
 DATA: This is a traditional gift?
 WORF: Yes, my adoptive parents often give these things at family weddings. A human custom.
@@ -311,7 +311,9 @@ DATA: Computer, create dance partner. Female. Begin music.
 
 [Bridge]
 
-RIKER: And just as the headsman swings his axe and the blade is about to fall, the Count says, wait, wait, I'll talk! But it was too late. And the moral of the story is? Never hatchet your Counts before they chicken.
+RIKER: And just as the headsman swings his axe and the blade is about to fall, 🪓🪓
+RIKER: the Count says, wait, wait, I'll talk! 
+RIKER: But it was too late. And the moral of the story is? Never hatchet your Counts before they chicken.
 (Thanks to Jonathan for the full joke. Appreciated.) DATA [OC]: Commander Riker's easy going manner and sense of humour is fascinating to me. I believe it to be one reason he is so popular among the crew. It may also be partly responsible for his success in matters of love. There may be a correlation between humour and sex. The need for more research is clearly indicated.
 DATA: Commander.
 RIKER: Picard to the Bridge. All stop.

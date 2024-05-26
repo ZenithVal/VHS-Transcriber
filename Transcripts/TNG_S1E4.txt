@@ -98,10 +98,10 @@ RIKER: (at Tasha's station) Shields up, photon torpedoes activated, sir.
 PICARD: What comm. contact have we had with them?
 DATA: With their orbital control station, sir.
 PICARD: Make contact there and on all hailing frequencies. This is the Enterprise to Lutan and the Ligonian government. You have committed an unfriendly act. We insist that you reply immediately.
-RIKER: Photon torpedoes ready, sir.
+RIKER: Photon torpedoes ready, sir. 🔄
 PICARD: Set them for a display blast a thousand metres short of the planet's surface.
 RIKER: Set.
-PICARD: Fire.
+PICARD: Fire. 🔫
 RIKER: Do we know the source of their transporter beam?
 LAFORGE: Our own transporter people have tried to trace it, sir, but to no effect.
 DATA: It reads similar to early Starfleet efforts but uses the Heglenian shift to convert matter and energy in different. (turns) Which is actually not important at this time.
@@ -367,7 +367,7 @@ PICARD: Thank you, Number One. Lieutenant, do you still feel that you want to go
 TASHA: I judge it excellent, sir.
 (Hagon enters, followed by two guards carrying boxes)
 HAGON: Your weapons, Lieutenant Yar. You may choose your size.
-(She opens a box containing a glove with metal spikes and a curved blade)
+(She opens a box containing a glove with metal spikes and a curved blade) 🗡️
 LAFORGE: Tasha, don't touch the spines. They're poisoned. If you're not careful, you could kill yourself.
 TASHA: These I understand.
 (Through the window they see Yareena practising on a multi-level surface, with the metal poles in it. Four lights soar to the sky)
@@ -397,9 +397,13 @@ TASHA: Any last minute instructions, sir?
 PICARD: Stay alive. We'll hope to do the rest.
 (Yareena enters) 
 HAGON: I speak for Lutan. The rules are known. Let combat continue until there is a victor. It will not be interrupted.
-(Yareena goes on the offensive straight away. Tasha pushes her weapon away and it hits one of the vertical laser beams. It flies off Yareena's hand into the lap of a spectator)🔪👻😱
+(Yareena goes on the offensive straight away.)🔪
+(Tasha pushes her weapon away and it hits one of the vertical laser beams.)💃
+(It flies off Yareena's hand into the lap of a spectator)🔪👻😱
 LUTAN: Combatants, hold your positions. Return the weapon.
-(The spectator dies of his wound and is dragged away. Yareena is given the glove back and she returns to the business of trying to kill Tasha. Tasha manages to make Yareena loose her balance)
+(The spectator dies of his wound and is dragged away.)🏥
+(Yareena is given the glove back and she returns to the business of trying to kill Tasha.)
+(Tasha manages to make Yareena loose her balance)
 HAGON: Careful, Yareena.
 (Finally the two women get into very close combat, and Tasha lands a blow on Yareena's back. Then she lies across the body and the two are beamed away)
 

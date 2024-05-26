@@ -219,7 +219,7 @@ WORF: With my knowledge of the Enterprise's security override, we may be able to
 RIKER: If you can pull that off, Mister Worf, it might just give us the edge we're looking for.
 NAGEL: (a lady officer) But what about the viewscreen?
 WORF: If I am successful, the computer will project a false image of the enemy ship on the main viewscreen.
-RIKER: So unless someone runs to a window and looks out
+RIKER: So unless someone runs to a window and looks out 👟
 NAGEL: They're going to fall for it.
 
 [Hathaway Engineering]
@@ -458,7 +458,7 @@ RIKER: There never are, Lieutenant. I'm going to trust your expertise. Secure yo
 
 [Bridge]
 
-PICARD: Ready photon torpedoes. 
+PICARD: Ready photon torpedoes. 🔄
 BURKE: Captain, sensors picking up a Ferengi warship closing at warp five.
 PICARD: Did you input that new code?
 BURKE: Aye, sir.

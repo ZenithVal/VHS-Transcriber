@@ -383,7 +383,8 @@ O'BRIEN: Sir, Captain Maxwell, if he feels his back is to the wall, he'll strike
 DATA: Captain, the Phoenix is transferring power to its shields.
 WORF: They're arming phasers and loading forward torpedo bays.
 PICARD: Red alert. It seems you were right, Mister O'Brien. Ready phasers, load torpedoes.
-WORF: Phasers armed. Loading forward and aft torpedo bays.
+WORF: Phasers armed. 🔄
+WORF: Loading forward and aft torpedo bays. 🔄
 O'BRIEN: Sir, let me beam over. Try to talk to him. We served together a long time. When you've been through what we have, you tend to get inside someone. He might listen.
 RIKER: He'd never drop his shields and allow you to transport on board.
 O'BRIEN: The Phoenix is using a high energy sensor system. It cycles every five point five minutes. Between cycles there's a window of a fiftieth of a second. Trust me, I can get through.

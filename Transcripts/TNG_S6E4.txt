@@ -431,7 +431,9 @@ DATA: We are within transporter range.
 PICARD: Bridge to Transporter room. Energise.
 CHIEF [OC]: Aye, sir.
 PICARD: Fire torpedoes.
-(KaBOOM! And the spacedoors start to close. Enterprise gracefully swoops through the remaining gap and the doors clang shut behind them)
+(KaBOOM!) 😨
+(The spacedoors start to close.) 😟😟
+(Enterprise gracefully swoops through the remaining gap and the doors clang shut behind them) 🙂🙂🙂🙂
 
 [Transporter room]
 
