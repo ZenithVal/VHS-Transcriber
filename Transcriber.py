@@ -40,10 +40,10 @@ def convert_lines(lines, settings, borLine, expList):
         "😊": "UHP-0.2", # Unhappiness- 
 
         # Skills
-        "👟": "SPR+0.8", # Sprinting
-        "👻": "LFT+0.6", # Light Footed
-        "💃": "NIM+0.6", # Nimble
-        "🤫": "SNE+0.6", # Sneaking
+        "👟": "SPR+1.0", # Sprinting
+        "👻": "LFT+0.8", # Light Footed
+        "💃": "NIM+0.8", # Nimble
+        "🤫": "SNE+0.8", # Sneaking
 
         # Survival
         "🎣": "FIS+0.6", # Fishing
