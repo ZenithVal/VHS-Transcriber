@@ -9,7 +9,7 @@ def parse_settings():
     return settings
 
 # Function to convert transcript lines to Lua format
-def convert_lines(lines, settings, borLine):
+def convert_lines(lines, settings, borLine, expList):
     emoji_codes = {
         #Stats
         "😠": "ANG+0.2", # Anger+
@@ -73,7 +73,6 @@ def convert_lines(lines, settings, borLine):
         "🗡️": "LBA+0.4" # Long blade
     }
 
-
     converted_lines = []
     for line in lines:
         # Extract character speaking from the start of the line up to the colon
@@ -125,6 +124,12 @@ def convert_lines(lines, settings, borLine):
                     number = float(code[operator_index + 1:])
                     multiplied_number = number * count
                     codes.append(f"{base_code}{code[operator_index]}{round(multiplied_number, 4)}")
+                    
+                    # Keep track of all the EXP from each source in the EXP list {}
+                    if base_code in expList:
+                        expList[base_code] += multiplied_number
+                    else:
+                        expList[base_code] = multiplied_number
 
         # Create a list seperated by commas for the codes, if any ()
         codesStr = ""
@@ -201,6 +206,9 @@ def main():
     settings = parse_settings()
     transcripts = {}
     transcripts_folder = "Transcripts"
+
+    # list for printing out the total EXP from each source
+    expList = {}
     
     # Parse each transcript file
     for filename in os.listdir(transcripts_folder):
@@ -228,15 +236,22 @@ def main():
                             lineNextBOR += 15
                         lineNumber += 1
 
-                        converted_lines = convert_lines([{"text": dialogue}], settings, borLine)  # Convert the line
+                        converted_lines = convert_lines([{"text": dialogue}], settings, borLine, expList)  # Convert the line
 
                         color = settings.get(character.upper(), settings.get("DEFAULT", [1.0, 1.0, 1.0]))
                         lines.extend({"text": line["text"], "color": color, "codes": line["codes"]} for line in converted_lines)
                 transcripts[transcript_name] = {"title": title, "itemDisplayName": item_display_name, "lines": lines}
                 print (f"{transcript_name} parsed.")
+
+    # Print out the EXP list and their total values
+    print("\nEXP List:")
+    for key, value in expList.items():
+        print(f"{key}: {round((value*16.666), 0)}")
+
     
     create_lua_data(transcripts, settings)
     print("Generated.lua file has been created successfully.")
-
+    input("Press Enter to exit...")
+    
 if __name__ == "__main__":
     main()
