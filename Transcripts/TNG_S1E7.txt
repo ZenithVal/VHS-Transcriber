@@ -21,7 +21,7 @@ TASHA: Sensors read a power surge from their last manoeuvre, Captain.
 LAFORGE: They are dropping to subwarp speed.
 PICARD: Reduce to impulse power.
 TASHA: Sensor record fluctuations in the energy readings from it, Captain.
-DATA: Possibility, a malfunction in their engines, sir.
+DATA: Possibility, a malfunction in their engines, sir.🚗
 LAFORGE: Breaks my heart.
 WORF: In visual range, Captain.
 PICARD: Fully enlarge.
@@ -33,11 +33,11 @@ DATA: Nothing specific, sir. As you know, Ferengi technology is estimated to be 
 PICARD: But that does not mean identical, however.
 DATA: Correct, sir. We are no doubt advanced in some areas, they in others.
 LAFORGE: Showing another power surge, sir.
-WORF: They are firing on us.
+WORF: They are firing on us.🔫
 PICARD: Damage report?
 TASHA: Shields holding.
 DATA: Mostly electromagnetic, sir. Fusion generator and batteries down by thirty percent.
-LAFORGE: Our impulse engines are surging now.
+LAFORGE: Our impulse engines are surging now.🚗
 WORF: They're firing again.
 (A bright, bright flash on the viewscreen)
 TASHA: Deflector shield power weakening, Captain. Phasers ready. Photon torpedoes ready.

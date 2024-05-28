@@ -162,7 +162,7 @@ PICARD: Computer, identify malfunction immediately.
 COMPUTER: Pawn to Bishop Four. Knight to King's Rook Three. Bishop to Queen's Bishop Four. Knight to Knight Five. Queen's Knight to King Two.
 DATA: Controls are not responding, sir.
 COMPUTER: Queen to Bishop Three. Bishop to Bishop Two.
-LAFORGE: Impulse engines are down.
+LAFORGE: Impulse engines are down.🚗
 RIKER: Try warp engines.
 LAFORGE: No. Sorry, Commander. I'd better get back to Engineering
 PICARD: Mister La Forge, I want Lieutenant Worf to accompany you. Get me a full report on the prospects of getting our shields back. Number One, Mister Data, will you join me in the conference room as soon as possible. It's time to discuss the future of this mission, if there still is one.

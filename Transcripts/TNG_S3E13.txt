@@ -46,7 +46,8 @@ DATA: Unable to identify source.
 
 [Engineering]
 
-LAFORGE: Impulse engines passing safety limits. We're seconds
+LAFORGE: Impulse engines passing safety limits. 🚗
+LAFORGE: We're seconds-
 
 [Bridge]
 
@@ -474,7 +475,8 @@ DATA: Warp core to ninety percent.
 LAFORGE: Engage field coils. 
 LAFORGE: Tractor beam to stand by. Field output? (nudges Q) Field output?
 Q: Two seventeen. 😊😊
-LAFORGE: Impulse engines to full. Ready to engage tractor beam.
+LAFORGE: Impulse engines to full. 
+LAFORGE: Ready to engage tractor beam.
 
 [Bridge]
 

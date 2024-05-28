@@ -82,7 +82,11 @@ PICARD: Records search, Data. Results of detaching saucer section at high warp v
 DATA: Inadvisable at any warp speed, sir.
 PICARD: Search theoretical.
 DATA: It is possible, sir. But absolutely no margin for error.😟😟
-PICARD: Using print-out only, notify all decks to prepare for maximum acceleration. Now hear this, Maximum, you're entitled to know, means that we'll be pushing our engines well beyond safety limits. Our hope is to surprise whatever that is out there, try and outrun it. Our only other option is to tuck tail between our legs and return to Earth as they demand.
+PICARD: Using print-out only, notify all decks to prepare for maximum acceleration. 
+PICARD: Now hear this, Maximum, you're entitled to know, 
+PICARD: means that we'll be pushing our engines well beyond safety limits. 🚗
+PICARD: Our hope is to surprise whatever that is out there, try and outrun it. 
+PICARD: Our only other option is to tuck tail between our legs and return to Earth as they demand.
 (Worf makes his trip to Engineering and back)
 WORF: Engine room ready, sir.
 TROI: The board shows green, Captain. All go.

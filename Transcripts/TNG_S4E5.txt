@@ -24,7 +24,8 @@ QUAICE: You know what the worst part of growing old is? So many of the people yo
 
 [Engineering]
 
-LAFORGE: Wes, time for the experiment is over. I want my warp engines back now.
+LAFORGE: Wes, time for the experiment is over. 
+LAFORGE: I want my warp engines back now.
 WESLEY: Almost done, Commander.
 LAFORGE: Almost isn't good enough. You want to be the one to explain when the Captain says 'Engage' and we just sit here?
 WESLEY: I just need a couple more minutes. I'm ready to try the new warp field. Mom?

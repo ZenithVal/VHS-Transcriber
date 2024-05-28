@@ -414,7 +414,7 @@ RIKER: The Talarians are moving
 [Engineering]
 
 RIKER [OC]: Into attack posture. Classic triangular envelopment.
-LAFORGE: I've tapped the impulse engines for additional power to shields.
+LAFORGE: I've tapped the impulse engines for additional power to shields.🚗
 
 [Bridge]
 

@@ -440,7 +440,7 @@ WESLEY: Three K'vort class battlecruisers, sir.
 PICARD: They're not even troubling to cloak themselves. 
 RIKER: They shouldn't be so confident after the pasting we gave them on Archer Four.
 PICARD: Attention all hands. As you know, we could outrun the Klingon vessels, but we must protect the Enterprise-C until she enters the temporal rift. And we must succeed. Let's make sure history never forgets the name Enterprise. Picard out.
-(The Klingons fire their disruptors)
+(The Klingons fire their disruptors)🔫
 PICARD: Mister Data?
 DATA: Shields are holding, sir.
 PICARD: Hold fire. Mister Crusher, come about to course one four eight zero zero three.

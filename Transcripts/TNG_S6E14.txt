@@ -388,7 +388,7 @@ MCKNIGHT: Aye, sir.
 PILOT: They are moving away, Commander.
 TORETH: Prepare attack sequence.
 N'VEK: All sections report ready for battle, Commander.
-PILOT: Disruptors fully charged.
+PILOT: Disruptors fully charged.🔫
 TORETH: Disengage cloak on my command. Prepare to fire.
 TROI: Disregard that order.
 TORETH: What?

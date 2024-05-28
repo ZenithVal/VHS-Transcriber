@@ -27,7 +27,8 @@ RIKER: And these get put into the large containment unit.
 LAFORGE: Right. See, these modules will keep the specimens alive, but it's this large containment area that's going to keep us alive. Now, I have to go and replicate this five hundred and twelve times, which means I'll have to divert power from the warp engines to the replicator for a while.
 PICARD: How long will we be on impulse power?
 LAFORGE: A couple of hours. Can't be helped.
-RIKER: When we leave 'audet Nine, I'm going to need all the power you can slam into those warp engines. 
+RIKER: When we leave 'audet Nine, 
+RIKER: I'm going to need all the power you can slam into those warp engines. 🚗
 LAFORGE: You'll have it.
 PICARD: I'll relieve you at zero three zero zero.
 

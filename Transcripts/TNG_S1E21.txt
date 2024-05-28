@@ -307,7 +307,7 @@ LAFORGE: Give me a full scan.
 WORF: Scanning. No readings yet. Wait. Something dead astern.
 LAFORGE: Emergency power to shields!
 WORF: Object is firing.
-LAFORGE: Return fire!
+LAFORGE: Return fire!🔫
 WORF: No use. It's gone again. SOLIS: Aft shields weakened. Whatever they're using, our shields can't stand up to it much longer.
 LOGAN [OC]: This is Chief Engineer Logan. Are we breaking orbit? I need to know now.
 
@@ -331,7 +331,8 @@ WORF: Phaser lock lost.
 T'SU: Starboard shields weakened.
 WORF: It's cloaked itself.
 LOGAN: You can't fight this thing and win. We've got to break orbit now.
-LAFORGE: Worf, analyse its firing pattern. Maybe we can anticipate its location.
+LAFORGE: Worf, analyse its firing pattern. 🔫
+LAFORGE: Maybe we can anticipate its location.
 WORF: Aye. Solis, correlate the trajectory of the energy bolts with the attack path. I'll compute the optimum spread of phasers and photon torpedoes to hit it.
 LAFORGE: Right.
 LOGAN: Lieutenant La Forge. Geordi. I know you want to do what's best for the Enterprise. So do I. Now the best thing

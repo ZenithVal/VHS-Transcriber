@@ -352,7 +352,7 @@ PRESSMAN: Pressman to Enterprise. Two people and one piece of equipment to beam 
 [Bridge]
 
 PRESSMAN: Report.
-PICARD: The Romulans have destroyed the entrance to the chasm with their disruptors. They've sealed us in.
+PICARD: The Romulans have destroyed the entrance to the chasm with their disruptors. 🔫They've sealed us in.
 WORF: Sir, there is an incoming message. It is from the warbird.
 PICARD: On screen.
 WORF: Aye, sir.

@@ -437,7 +437,7 @@ DATA: Counsellor, allow me. Please. Sarjenka, no one will harm you. These are my
 PICARD: Mister Data, take your station and keep her with you. This does concern her.
 WORF: Ten seconds.
 DATA: I will require my hand. Thank you.
-WORF: Firing torpedoes.
+WORF: Firing torpedoes.🔫
 (Four balls of red light streak away)
 DATA: Sensors locked on probes.
 WORF: Torpedoes have reached their targets.

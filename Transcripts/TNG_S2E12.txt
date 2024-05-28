@@ -484,8 +484,8 @@ DATA: Excuse me, sir. Might I inquire, where are you from?
 TEXAS: Lubbock, Texas.
 DATA: And how did you get here?
 TEXAS: To Vegas? Drove my car. I got a ninety one Caddy with only eighty thousand miles on it.
-DATA: Where is your automobile now?
-TEXAS: Out front, I suppose. What the hell difference does it make?
+DATA: Where is your automobile now? 🚗
+TEXAS: Out front, I suppose. What the hell difference does it make? 
 DATA: Could you take me there?
 VANESSA: Hit me. I'm losing my shirt.
 TEXAS: Son, why would I want to do that? Can't you see I'm trying to to help this little lady?

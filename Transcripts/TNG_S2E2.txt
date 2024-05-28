@@ -129,7 +129,7 @@ RIKER: Aye, sir. Wesley, reverse our direction, set a course for the Cornelian s
 WESLEY: Aye, sir. Reversing direction. Course laid in.
 RIKER: Engage.
 (We see the Enterprise whizz off, but nothing changes on the viewscreen)
-RIKER: Your engines have engaged, haven't they, Ensign?
+RIKER: Your engines have engaged, haven't they, Ensign?🚗
 WESLEY: Aye, sir.
 
 [Engineering]
@@ -137,7 +137,7 @@ WESLEY: Aye, sir.
 PICARD [OC]: Lieutenant La Forge, I'd like you to monitor our velocity closely.
 LAFORGE: Is everything all right up there, Captain?
 PICARD [OC]: Are the engines operating normally?
-LAFORGE: Yes, sir. Everything looks fine down here.
+LAFORGE: Yes, sir. Everything looks fine down here.🚗
 PICARD [OC]: We're increasing to warp two.
 LAFORGE: Aye, sir.
 

@@ -334,7 +334,7 @@ PICARD: Ensign, engage.
 [Gowron's Bridge]
 
 KLINGON: Port shields are still down.
-WORF: Disruptors online.
+WORF: Disruptors online.🔫
 GOWRON: Lock on target.
 WORF: No. Don't you see? Their sensors will detect the weapons lock. If they think we're helpless, they will try to board the ship. I can aim and fire disruptors manually when they drop their shields.
 GOWRON: GhoS.

@@ -507,10 +507,11 @@ WESLEY: Captain, the Borg ship is closing.
 WORF: They're firing again. Shields have been reduced forty one percent. Another hit and we will be defenceless.
 RIKER: Arm the photon torpedoes.
 WORF: Torpedoes armed.
-PICARD: Fire the photons.
+PICARD: Fire the photons.🔫
 WORF: The Borg ship was not damaged.
 Q: You can't outrun them. You can't destroy them. If you damage them, the essence of what they are remains. They regenerate and keep coming. Eventually you will weaken, your reserves will be gone. They are relentless.
-WORF: The Borg ship is firing. We have lost shields again.
+WORF: The Borg ship is firing. 
+WORF: We have lost shields again.🚗
 
 [Engineering]
 

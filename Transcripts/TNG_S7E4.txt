@@ -382,7 +382,11 @@ BARAN: This isn't working. They're delaying on purpose. Someone has warned them.
 (Picard leaps across and knocks Vekor from her console)
 PICARD: No, there's no time for that! Starfleet will be here any minute.
 BARAN: What are you doing?
-PICARD: I'm configuring the disruptors to fire a phase resonant pulse. If I can hit their shield generator with precisely the right frequency, I should be able to take it out with one shot. Firing. Their shields are down.
+PICARD: I'm configuring the disruptors to fire a phase resonant pulse. 
+PICARD: If I can hit their shield generator with precisely the right frequency, 
+PICARD: I should be able to take it out with one shot. 
+PICARD: Firing. 🔫
+PICARD: Their shields are down.
 BARAN: The artefacts should be located in several small structures arranged in staggered formations.
 TALLERA: I'm scanning. I think I've found them.
 BARAN: Lock coordinates and start bringing them up.

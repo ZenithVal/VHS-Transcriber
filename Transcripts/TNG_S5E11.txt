@@ -423,7 +423,7 @@ WORF: Firing phasers.
 PICARD: Explanation, Mister Data.
 DATA: Phaser energy was reflected by the gravitational wavefronts. It is similar to the phenomenon distorting our sensor signals.
 PICARD: Phasers and sensors both useless? Mister Data, this reflection phenomenon, would it have the same effect on a disruptor-style weapon?
-DATA: Yes, sir. Disruptors would be ineffectual.
+DATA: Yes, sir. Disruptors would be ineffectual.🔫
 PICARD: And a ship's cloaking field?
 DATA: It would be extremely difficult to maintain.
 PICARD: Mister Data, is it at all likely that the Vico could have been attacked inside the cluster?

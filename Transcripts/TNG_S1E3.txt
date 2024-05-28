@@ -354,7 +354,10 @@ TASHA: Oh, you jewel! That's exactly what I hoped.
 [Engineering ]
 
 PICARD [OC]: What have you learned, Number One?
-RIKER: Captain, the ship's engines are cut off from the bridge. The Assistant Chief Engineer pulled out the isolinear optical chips from command. All engines are offline. Wesley has hooked some kind of tractor beam to ship's power and he has it aimed at the door. We can't get past to get at the computer.
+RIKER: Captain, the ship's engines are cut off from the bridge. 
+RIKER: The Assistant Chief Engineer pulled out the isolinear optical chips from command. 
+RIKER: All engines are offline. 🚗
+RIKER: Wesley has hooked some kind of tractor beam to ship's power and he has it aimed at the door. We can't get past to get at the computer.
 
 [Bridge]
 

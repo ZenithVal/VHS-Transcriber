@@ -404,7 +404,8 @@ RIKER: On my way.
 RIKER: What's the problem?
 LAFORGE: I've had to shut down the warp engines, Captain.
 RIKER: Why?
-LAFORGE: Antimatter containment fields are fluctuating. It's nothing to worry about though.
+LAFORGE: Antimatter containment fields are fluctuating. 🚗
+LAFORGE: It's nothing to worry about though.
 RIKER: We're on the edge of the Neutral Zone on impulse power, and you're not concerned?
 LAFORGE: I'll have the engines back online in no time, sir.
 RIKER: Like you tracked down that faulty processing accelerator?

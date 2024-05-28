@@ -160,7 +160,7 @@ DATA: Energy loss increasing, sir.
 PICARD: Mister Crusher. Reverse course. Full impulse power.
 WESLEY: No response, sir.
 PICARD: Increase speed to warp one.
-WESLEY: Engines are not responding, Captain.
+WESLEY: Engines are not responding, Captain.🚗
 RIKER: Mister La Forge.
 
 [Engineering]
@@ -522,7 +522,8 @@ RIKER: All hands, this is Commander Riker. We are about to engage impulse engine
 COMPUTER: Deflector shield failure. Lethal radiation levels.
 RIKER: Computer, discontinue radiation warning till further notice. It's all yours, sir.
 PICARD: Thank you, Number One. Firing impulse engines.
-(They glide past the warship. Picard wordlessly taps at controls, Data does the commentary)
+(They glide past the warship.) 
+(Picard wordlessly taps at controls, Data does the commentary)
 DATA: Impulse engines are down.
 LAFORGE: Shutting down all systems.
 DATA: Velocity is one hundred thirty five metres per second.

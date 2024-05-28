@@ -115,7 +115,9 @@ RASMUSSEN: This is really a thrill, Data, like running across a Redstone missile
 
 [Corridor]
 
-DATA: If you're referring to the first production model automobile of the twentieth century, perhaps the subsequent Model A might be a more apt analogy, since I am Doctor Noonian Soong's revised prototype.
+DATA: If you're referring to the first production model automobile of the twentieth century, 🚗
+DATA: perhaps the subsequent Model A might be a more apt analogy, 
+DATA: since I am Doctor Noonian Soong's revised prototype.
 RASMUSSEN: I stand corrected.
 
 [Rasmussen's quarters]

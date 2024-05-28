@@ -79,7 +79,7 @@ PICARD: Holodeck off.
 [Observation Lounge]
 
 PICARD: And when I looked down into the street, I actually saw automobiles!
-WORF: Automobiles?
+WORF: Automobiles?🚗
 DATA: An ancient Earth device used primarily for transportation.
 WORF: Ah.
 DATA: Also seen as a source of status and virility. Often a prime ingredient in teenage mating rituals.
@@ -122,7 +122,9 @@ LAFORGE: Indubitably, my dear Data. Indubitably.
 [Bridge]
 
 DATA: Computer: request all biographical information on fictional character Dixon Hill.
-COMPUTER: Working. Character first appeared in pulp magazine, Amazing Detective Stories, copyright 1934, AD. Second appearance in novel The Long Dark Tunnel, copyright 1936.
+COMPUTER: Working. Character first appeared in pulp magazine, 
+COMPUTER: Amazing Detective Stories, copyright 1934, AD. 
+COMPUTER: Second appearance in novel The Long Dark Tunnel, copyright 1936.
 DATA: Request complete text of all stories involving said character. Increase speed.
 (The ultimate speed reading course whizzes before Data's optics)
 
@@ -341,7 +343,8 @@ WHALEN: (Jimmy Cagney) Take it from me, Leech, you'll never find it. Now, give m
 (Leech shoots him in the chest.)🔫
 (Crusher applauds his performance until she sees the blood)🏥
 WHALEN: But, they're not real.
-CRUSHER: There's massive internal bleeding. We have to get him to Sickbay.
+CRUSHER: There's massive internal bleeding. 🏥
+CRUSHER: We have to get him to Sickbay.
 PICARD: How could this happen?
 LEECH: It will happen again if you don't cooperate.
 (Quickly, Picard disarms him and thumps him for good measure)👻💃
