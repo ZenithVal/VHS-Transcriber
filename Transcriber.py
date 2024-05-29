@@ -9,7 +9,7 @@ def parse_settings():
     return settings
 
 # Function to convert transcript lines to Lua format
-def convert_lines(lines, settings, borLine, expList):
+def convert_line(lines, settings, borLine, expList):
     emoji_codes = {
         #Stats
         "😠": "ANG+0.2", # Anger+
@@ -58,7 +58,7 @@ def convert_lines(lines, settings, borLine, expList):
         "⚡": "ELC+0.5", # Electricity
         "🥈": "MTL+0.8", # Metalworking
         "🧵": "TAI+0.8", # Tailoring
-        "🚗": "MEC+0.8", # Mechanic
+        "🚗": "MEC+0.6", # Mechanic
 
         # Guns
         "🔫": "AIM+0.4", # Aiming
@@ -96,7 +96,6 @@ def convert_lines(lines, settings, borLine, expList):
         # Initialize a dictionary to store the counts of each emoji code
         emoji_counts = {code: 0 for code in emoji_codes.values()}
         
-
         # List of Codes
         codes = []
 
@@ -188,7 +187,7 @@ def create_lua_data(transcripts, settings):
         lua_data += f'\ttitle = "{transcript_data["title"]}",\n'
         lua_data += f'\tsubtitle = {transcript_data.get("subtitle", "nil")},\n'
         lua_data += f'\tauthor = {transcript_data.get("author", "nil")},\n'
-        lua_data += f'\textra = {transcript_data.get("extra", "nil")},\n'
+        lua_data += f'\textra = "{transcript_data["expPrintout"]}",\n'
         lua_data += f'\tspawning = 0,\n'
         lua_data += f'\tcategory = "Retail-VHS",\n'
         lua_data += '\tlines = {\n'
@@ -208,7 +207,45 @@ def main():
     transcripts_folder = "Transcripts"
 
     # list for printing out the total EXP from each source
-    expList = {}
+    expList_total = {}
+    # remove ANG, BOR, FAT, HUN, STS, FEA, PAN, SAN, SIC, PAI, DRU, THI, UHP from the list
+    exp_delList = ["ANG", "BOR", "FAT", "HUN", "STS", "FEA", "PAN", "SAN", "SIC", "PAI", "DRU", "THI", "UHP"]
+
+    # EXP Code Conversion list
+    exp_conversionRef = {
+        "SPR": "Sprinting", #
+        "LFT": "Light Footed", #
+        "NIM": "Nimble", # 
+        "SNE": "Sneaking", #
+
+        # Survival
+        "FIS": "Fishing", # 
+        "TRA": "Trapping", # 
+        "FOR": "Foraging", # 
+
+        # Crafti
+        "CRP": "Carpentry", # 
+        "COO": "Cooking", # 
+        "FRM": "Farming", # 
+        "DOC": "Medical", # 
+        "ELC": "Electricity", # 
+        "MTL": "Metalworking", # 
+        "TAI": "Tailoring", # 
+        "MEC": "Mechanics", # 
+
+        # Guns
+        "AIM": "Aiming", # 
+        "REL": "Reloading", # 
+
+        # Melee
+        "BAA": "Axe", # 
+        "SPE": "Spear", # 
+        "SBU": "Short Blunt", # 
+        "BUA": "Long Blunt", # 
+        "SBA": "Short blade", # 
+        "LBA": "Long blade" # 
+    }
+
     
     # Parse each transcript file
     for filename in os.listdir(transcripts_folder):
@@ -219,6 +256,7 @@ def main():
                 title_lines = [transcript_file.readline().strip() for _ in range(4)]
                 item_display_name = title_lines[0]
                 title = title_lines[1] + " - " + title_lines[2]
+                expList_transcript = {}
 
                 # Read the rest of the lines for dialogue
                 lines = []
@@ -236,23 +274,47 @@ def main():
                             lineNextBOR += 15
                         lineNumber += 1
 
-                        converted_lines = convert_lines([{"text": dialogue}], settings, borLine, expList)  # Convert the line
+                        converted_line = convert_line([{"text": dialogue}], settings, borLine, expList_transcript)  # Convert the line
 
                         color = settings.get(character.upper(), settings.get("DEFAULT", [1.0, 1.0, 1.0]))
-                        lines.extend({"text": line["text"], "color": color, "codes": line["codes"]} for line in converted_lines)
-                transcripts[transcript_name] = {"title": title, "itemDisplayName": item_display_name, "lines": lines}
+                        lines.extend({"text": line["text"], "color": color, "codes": line["codes"]} for line in converted_line)
+                # get the 4 highest EXP sources (Excluding exp_delList), and use the conversion table to convert the EXP code to the full name
+                expList_transcript = dict(sorted(expList_transcript.items(), key=lambda item: item[1], reverse=True))
+
+                # write the 4 highest EXP sources to expPrintout, ignore the ones in exp_delList
+                expPrintout = ""
+                count = 0
+                for key, value in expList_transcript.items():
+                    if key not in exp_delList:
+                        count += 1
+                        if count < 5:
+                                expPrintout += f"{exp_conversionRef[key]}, "
+                                #expPrintout += f"{exp_conversionRef[key]}: {round((value*16.666), 0)}"
+                # remove final comma from expPrintout
+                expPrintout = expPrintout[:-2]
+
+                # add to explist_total
+                for key, value in expList_transcript.items():
+                    if key in expList_total:
+                        expList_total[key] += value
+                    else:
+                        expList_total[key] = value
+                
+                transcripts[transcript_name] = {"title": title, "itemDisplayName": item_display_name, "expPrintout": expPrintout, "lines": lines}
                 print (f"{transcript_name} parsed.")
+
+        
 
     # Print out the EXP list and their total values
     print("\nEXP List:")
-    # remove ANG, BOR, FAT, HUN, STS, FEA, PAN, SAN, SIC, PAI, DRU, THI, UHP from the list
-    delList = ["ANG", "BOR", "FAT", "HUN", "STS", "FEA", "PAN", "SAN", "SIC", "PAI", "DRU", "THI", "UHP"]
-    for item in delList:
-        if item in expList:
-            del expList[item]
 
-    for key, value in expList.items():
+    for item in exp_delList:
+        if item in expList_total:
+            del expList_total[item]
+
+    for key, value in expList_total.items():
         print(f"{key}: {round((value*16.666), 0)}")
+    print("\n")
 
     
     create_lua_data(transcripts, settings)
