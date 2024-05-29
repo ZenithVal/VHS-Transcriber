@@ -190,8 +190,8 @@ PICARD: Hello, old friend.
 DATA: You'll find this most intriguing, sir.
 PICARD: What did you find, Data?
 DATA: The last entry dated nine years ago, sir. By you. 
-DATA: (reading screen) "We are forced to abandon our starship."
-DATA: "May she find her way without us."
+DATA: (reading screen) We are forced to abandon our starship.
+DATA: (reading screen) May she find her way without us.
 DATA:  Apparently she did, sir.
 CRUSHER: How do you feel, Captain?
 PICARD: Oh, I'm fine, Doctor. Lieutenant Yar, run a structural analysis on the Stargazer for an impulse tow. Data, download all computers to the Enterprise and file. I'm going to look at my old cabin.

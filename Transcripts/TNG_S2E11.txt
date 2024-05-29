@@ -23,7 +23,9 @@ PICARD: On viewer.
 PICARD: Donald, what's a nice Starfleet Captain like you doing in a place like this?
 VARLEY [on viewscreen]: It's good to see you again, Jean-Luc, despite your antique humour. I only hope your people are able to help us. Malfunctions are becoming serious. We lost an engineering team when the computer shut down a forcefield in an open shuttlebay. Eighteen people.
 RIKER: Do you have any idea what caused this, sir?
-VARLEY [on viewscreen]: None. They are affecting every system simultaneously. It's like the ship has suddenly decided to fall apart. It's beginning to make me think we should have run these Galaxy Class ships across a few more drawing boards before we built one.
+VARLEY [on viewscreen]: None. They are affecting every system simultaneously. 
+VARLEY [on viewscreen]: It's like the ship has suddenly decided to fall apart.  🚗
+VARLEY [on viewscreen]: It's beginning to make me think we should have run these Galaxy Class ships across a few more drawing boards before we built one.
 PICARD: You believe it's a design flaw?
 VARLEY [on viewscreen]: I don't know. I'm grasping at straws here. All I know is we've got to get it fixed, and before I lose more than an engineering team.
 RIKER: Do you wish to evacuate any non-essential personnel to the Enterprise, sir?
@@ -237,16 +239,16 @@ WORF: Tractor beam ready, sir.
 (Geordi comes flying out of the turbolift and tumbles head over heels down the slope)
 RIKER: Geordi, are you all right?
 LAFORGE: Destroy the probe, sir. Quickly!
-PICARD: Worf, target phasers.
+PICARD: Worf, target phasers.🔄
 WORF: Phasers locked on target.
 PICARD: Fire!
-(The blue globe disintegrates in ball of flames)
+(The blue globe disintegrates in ball of flames)🔫
 PICARD: Welcome to the Bridge, Mister La Forge.
 LAFORGE: Thank you, sir. If that thing had managed to scan us, we never would have had any chance of saving the Enterprise.
 
 [Observation lounge]
 
-LAFORGE: That probe was a transmitter sending an alien computer programme. The same programme that is currently aboard the Enterprise trying to rewrite our software in its own image. We have two completely incompatible computer systems trying to interact.
+LAFORGE: That probe waas a transmitter sending an alien computer programme. The same programme that is currently aboard the Enterprise trying to rewrite our software in its own image. We have two completely incompatible computer systems trying to interact.
 RIKER: So that's why the ship's instruments have become so erratic.
 LAFORGE: Yes.
 PICARD: What can you do?

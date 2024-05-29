@@ -261,7 +261,7 @@ WESLEY: I'm not sure.
 DATA [OC]: Commander Riker, report to the Captain's quarters.
 RIKER: When you figure it out, you'll understand command. I'm on my way. I hope I've been able to help. You let me know what you decide?
 WESLEY: I've made my decision. I'm going to have Davies run that ico-gram. Thank you, sir.
-RIKER: You're welcome. (in his date's ear) I'll see you later)
+RIKER: You're welcome. (in his date's ear) I'll see you later
 WOMAN: Okay.
 
 [Geophysics lab]
