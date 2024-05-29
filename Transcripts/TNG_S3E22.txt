@@ -29,10 +29,14 @@ VARRIA: Twenty six point eight kilos of tripolymer composites. Eleven point eigh
 LAFORGE: Shuttle twelve containment field reads nominal. Now leaving the Jovis.
 PICARD: On viewer.
 LAFORGE: Containment field stable. Gravitational fluctuations within acceptable parameters. Flight pattern
-(Shuttlepod Pike goes Ka-BOOM! Stunned expressions all round)
-WORF: Data.
+(Shuttlepod Pike goes Ka-BOOM! Stunned expressions all round)😱😱😱😱😨😨
+(....)
+(....)
+WORF: Data. 😭😭😭😭
 
-PICARD: Captain's log, supplemental. As the result of a yet unexplained shuttle explosion, Lieutenant Commander Data has been lost.
+PICARD: Captain's log, supplemental. 
+PICARD: As the result of a yet unexplained shuttle explosion, 
+Lieutenant Commander Data has been lost.
 
 [Bridge]
 
@@ -43,7 +47,9 @@ WORF: Sir, Mister Fajo is hailing us.
 PICARD: On viewer.
 FAJO [on viewscreen]: Captain Picard, what happened?
 PICARD: It's unclear. We're running a full analysis.
-FAJO [on viewscreen]: We detected no malfunctions before the explosion. Everything seemed to be running as smoothly as the other flights. Were you able to save the pilot?
+FAJO [on viewscreen]: We detected no malfunctions before the explosion. 
+FAJO [on viewscreen]: Everything seemed to be running as smoothly as the other flights. 
+FAJO [on viewscreen]: Were you able to save the pilot?
 PICARD: No.
 FAJO [on viewscreen]: I'm sorry.
 PICARD: Mister Fajo, I would like to analyse your sensor readings of the explosion.
@@ -72,10 +78,17 @@ PICARD: Engage.
 
 [Fajo's den]
 
-(It's a large, clean room with ornamentation arranged on display around the walls and a red circular seat in the middle. The rigid Data is currently laid across it. He suddenly reboots and sits up. His communicator is gone)
-DATA: What am I doing here?
+(It's a large, clean room with ornamentation arranged on display around the walls and a red circular seat in the middle.)
+(The rigid Data is currently laid across it.)
+(He suddenly reboots and sits up.)
+(His communicator is gone)
+DATA: What am I doing here?😊😊😊
 (Fajo and Varria enter)
-FAJO: Wondrous. The detail. The balance. Was I not right, Varria? What a remarkable piece of work.
+FAJO: Wondrous. 
+FAJO: The detail. 
+FAJO: The balance. 
+FAJO: Was I not right, Varria? 
+FAJO: What a remarkable piece of work.😠
 DATA: Why have I been brought here?
 FAJO: The voice simulation. it's perfection. The inflections, the timing.
 (Fajo snaps his fingers to test Data's responses, then speaks to him as if Data does not understand English, complete with gestures)
@@ -89,14 +102,18 @@ FAJO: Data. You will be catered to, fawned over, cared for as you never have bee
 DATA: I wish to leave.
 FAJO: Almost every wish.
 DATA: This is unacceptable, sir. I have no desire to remain here and even if I did, my Starfleet duties would not allow it.
-FAJO: It's so single minded, isn't it?
+FAJO: It's so single minded, isn't it?😠
 VARRIA: Very persistent.
 FAJO: But it's very polite, which is a very nice touch. I decline to allow you to go.
 DATA: Then I am forced to attempt escape.
 (Data tries to force the door open)
-FAJO: Ten androids just like you might be able to force that thing open. But then again, there aren't any more just like you, are there? It's keyed to galvanic skin responses and DNA patterns. Sorry.
+FAJO: Ten androids just like you might be able to force that thing open. 
+FAJO: But then again, there aren't any more just like you, are there? 
+FAJO: It's keyed to galvanic skin responses and DNA patterns. 
+FAJO: Sorry.
 DATA: Then you will have to open it for me.
-(But as soon as Data gets to almost arms reach of Fajo, he is stopped by a green forcefield. He tries again at a run and is thrown back across the room)
+(But as soon as Data gets to almost arms reach of Fajo, he is stopped by a green forcefield.)😠
+(He tries again at a run and is thrown back across the room by the field)⚡
 FAJO: Oh. Really, I wouldn't do that again if I were you. This is a proximity-actuated field. It impedes positron flow. It's very bad for the brainpaths in the long term.
 DATA: I fail to understand the value you place on my presence.
 FAJO: Well, just look around the room. There are items her gathered from half the galaxy. Right here. This is the very first Basotile ever created. (a sort of avant-guard sculpture) Sorry. (Fajo moves so Data can see it) It's very, very ancient. Hundreds of years old. It's priceless.
@@ -117,7 +134,7 @@ FAJO: You'll get used to it.
 
 [Data's quarters]
 
-WESLEY: I can't believe he's gone.
+WESLEY: I can't believe he's gone.😭
 LAFORGE: I always thought he'd outlive us, by centuries.
 (Wesley uncovers a painting)
 WESLEY: He'd been working on this for months. He never felt it was quite finished.
@@ -125,13 +142,13 @@ LAFORGE: You know what a critic Data was, especially about his own work.
 (Geordi opens a drawer and takes out a book. Shakespeare, I think)
 WESLEY: That was a gift from the Captain.
 LAFORGE: And he should have it back.
-(Cards and poker chips)
+(Cards and poker chips)😭
 WESLEY: Those should go to Commander Riker.
 LAFORGE: Data always fell for Riker's bluffs.
 (A box with eight medals in it)
 WESLEY: These are some of Starfleet's highest honours.
 LAFORGE: Not bad for a walking pile of circuitry and memory cells.
-(and the hologram of Tasha Yar)
+(and the hologram of Tasha Yar)😭
 LAFORGE: You know, I keep going over and over the accident in my mind, trying to figure out what went wrong. I can see Data in the shuttle, almost like I'm sitting there next to him going through the departure sequence. What the hell happened? Why didn't I see it coming? What am I missing?
 
 [Fajo's den]
@@ -140,7 +157,8 @@ VARRIA: Kivas wishes you to wear this set of clothes, and to sit in your chair.
 DATA: I have no reason to accede to Mister Fajo's wishes.
 VARRIA: He will give you reasons if you force him to.
 DATA: Mister Fajo is deluding himself if he believes he can keep me here. The Enterprise is certain to find me.
-VARRIA: They're not even looking for you. They think you're destroyed. Your shuttle blew up. A hytritium explosion.
+VARRIA: They're not even looking for you. They think you're destroyed. Your shuttle blew up. 
+VARRIA: A hytritium explosion.😱
 DATA: They will scan the debris and discover I was not aboard.
 VARRIA: They'll find exactly what they thought they'd find. Traces of your component elements. We put them aboard the shuttle in just the right proportions.
 DATA: Clearly, Mister Fajo has no moral difficulty with my imprisonment here.
@@ -157,7 +175,8 @@ DATA: It appears he has us both.
 
 [Ready room]
 
-LAFORGE: The reason I can't find anything is that there's nothing there to find. I've run this analysis dozens of times over and there's just no indication of any malfunction.
+LAFORGE: The reason I can't find anything is that there's nothing there to find. 🚗
+LAFORGE: I've run this analysis dozens of times over and there's just no indication of any malfunction.
 RIKER: No possible explanation at all?
 LAFORGE: Yeah, there's one, but I don't believe it. Pilot error.
 PICARD: I know it's hard to accept, but even the best
@@ -396,33 +415,56 @@ VARRIA: You can't. Fajo has communications access restricted to the bridge. Once
 DATA: I am trained in evasive manoeuvres.
 VARRIA: We'll need a few. Let's get going. As soon as I start the escape sequence, an alarm will sound. We won't have much time.
 (Data gets in the pod, Varria goes to a control station and presses buttons)
-(The alarm sounds and a man runs in)
-(She points the disrupter at him, then is jumped from behind by another crewman and disarmed)
+(The alarm sounds and a man runs in)👟
+(She points the disrupter at him)
+(before she is jumped from behind by another crewman and disarmed)🔫💃
 (Man one cancels the sequence while Data rescues Varria)
-(Data ends up throwing both men across the bay.)
+(Data ends up throwing both men across the bay.)🔧🔧🙂🙂
 (They go to start again, when Fajo enters.)
 (The disrupter is lying on the floor and Varria dives for it but lands short.)
-(Fajo aims another disrupter at her but for a moment he starts to turn away...)
-(😠😠😱😱then fires and Varria screams for several seconds before she finally disintegrates.)
+(Fajo aims another disrupter at her but for a moment he starts to turn away...)💃
+(Fajo fires and Varria screams for several seconds before she finally disintegrates.)🔫😠😠😱😱
 (Data comes out of the pod)
 FAJO: It's your fault. You knew the price for disobedience. And so did she. Well, there's always another Varria.
-(Data picks up the disrupter and points it at Fajo)
+(Data picks up the disrupter and points it at Fajo)🔫
 FAJO: You won't hurt me. Fundamental respect for all living beings. That is what you said. I'm a living being, therefore you can't harm me.
 DATA: You will surrender yourself to the authorities.
-FAJO: Or what? You'll fire? Empty threat and we both know it. Why don't you accept your fate? You will return to your chair and you will sit there. You will entertain me and you will entertain my guests. And if you do not, I will simply kill somebody else. Him, perhaps. It doesn't matter. Their blood will be on your hands too, just like poor Varria's. Your only alternative, Data, is to fire. Murder me. That's all you have to do. Go ahead. Fire. If only you could feel rage over Varria's death. If only you could feel the need for revenge, then maybe you could fire. But you're just an android. You can't feel anything, can you? It's just another interesting intellectual puzzle for you. Another of life's curiosities.
+FAJO: Or what? You'll fire? 
+FAJO: Empty threat and we both know it. 
+FAJO: Why don't you accept your fate? 
+FAJO: You will return to your chair and you will sit there. 😠
+FAJO: You will entertain me and you will entertain my guests. 😠
+FAJO: And if you do not, I will simply kill somebody else. 😠😟
+FAJO: Him, perhaps. It doesn't matter. 
+FAJO: Their blood will be on your hands too, just like poor Varria's. 😠😟
+FAJO: Your only alternative, Data, is to fire. 😟
+FAJO: Murder me. 😟
+FAJO: That's all you have to do. 😟😟
+FAJO: Go ahead. 😟
+FAJO: Fire. 😟
+FAJO: If only you could feel rage over Varria's death. 
+FAJO: If only you could feel the need for revenge, then maybe you could fire. 😠
+FAJO: But you're just an android. 
+FAJO: You can't feel anything, can you? 
+FAJO: It's just another interesting intellectual puzzle for you. 
+FAJO: Another of life's curiosities.😠
 DATA: I cannot permit this to continue.
-(He levels the disrupter at Fajo again)
-FAJO: Wait. Your programme won't allow you to fire. You cannot fire. No!
-(A transporter beam takes hold of Data)
+(He levels the disrupter at Fajo again)🔫
+FAJO: Wait. 
+FAJO: Your programme won't allow you to fire. 
+FAJO: You cannot fire. 
+FAJO: No!
+(A transporter beam takes hold of Data)🔫🙂🙂🙂
 
 [Transporter room]
 
 O'BRIEN: I'm reading a weapon in transit with Commander Data. 
-O'BRIEN: It seems to have discharged, sir.😱😊😊
-RIKER: Discharged? 
-O'BRIEN: I'm deactivating it.
-RIKER: Welcome back, Mister Data. Are you all right?
-DATA: Yes, Commander. Please arrange to take Kivas Fajo into custody on charges of murder, kidnapping, theft.
+O'BRIEN: It seems to have discharged, sir.🔫😱😊😊😊😊🙂🙂🙂🙂🙂
+RIKER: Discharged? 🙂🙂🙂🙂😊😊😊😊
+O'BRIEN: I'm deactivating it.😊😊😊😊
+RIKER: Welcome back, Mister Data. Are you all right?😊
+DATA: Yes, Commander. 
+DATA: Please arrange to take Kivas Fajo into custody on charges of murder, kidnapping, theft.
 RIKER: The arrangements have already been made.
 DATA: A Varon-T disruptor. It belongs to Fajo.
 RIKER: Mister O'Brien says the weapon was in a state of discharge.

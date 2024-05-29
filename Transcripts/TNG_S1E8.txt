@@ -59,12 +59,17 @@ DATA: Negative, Captain. Energy only.
 
 [Sensor Maintenance]
 
-(Worf goes over to a wall panel, and puts his pen device on it. Blue energy goes up his arm and he cries out. Then he is flung back to the floor)
-LAFORGE: Worf! La Forge to Sickbay. We havd a medical emergency in sensor maintenance. I repeat, this is a medical emergency.
-(after the titles, Crusher and a medic dash in)
+(Worf goes over to a wall panel, and puts his pen device on it.)
+(Blue energy goes up his arm and he cries out.)
+(Then he is flung back to the floor)
+LAFORGE: Worf! La Forge to Sickbay. 🏥
+LAFORGE: We havd a medical emergency in sensor maintenance. 
+LAFORGE: I repeat, this is a medical emergency.
+(after the titles, Crusher and a medic dash in)👟
 CRUSHER: What happened?
 LAFORGE: I don't know. He got hit by some sensor feedback, maybe.
-(Worf suddenly wakes up and starts fighting the medic. Geordi lies across him so Crusher can inject him)
+(Worf suddenly wakes up and starts fighting the medic.)🔧
+(Geordi lies across him so Crusher can inject him)💃
 LAFORGE: You got it, Doc?
 CRUSHER: I got it. Lieutenant Worf, can you hear what I'm saying? Let's get him up.
 GEORDI: Okay. Come on, big guy. On your feet. Here we go. That's it.
@@ -249,7 +254,9 @@ WORF: Engineering to Captain Picard. Security alert.
 PICARD [OC]: Picard.
 WORF: Lieutenant Worf, sir. I just found Mister Singh. He's dead.
 
-PICARD: Captain's log, stardate 41249.4. I've ordered an immediate investigation into the death of Assistant Chief Engineer Singh. We continue to run on impulse power.
+PICARD: Captain's log, stardate 41249.4. 
+PICARD: I've ordered an immediate investigation into the death of Assistant Chief Engineer Singh. 
+PICARD: We continue to run on impulse power.🚗
 
 [Engineer's office]
 

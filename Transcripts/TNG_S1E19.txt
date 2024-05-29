@@ -305,11 +305,11 @@ JAKE: Zero one five.
 [Bridge]
 
 JAKE [OC]: Zero one nine.
-PICARD: Restart the engine, now! Pull up hard!
+PICARD: Restart the engine, now! Pull up hard!🚗
 REMMICK: (amongst others) Yeah!
 RIKER: Incredible, Captain!
 REMMICK: How did he do it? I thought
-LAFORGE: He built up enough speed and then bounced her off the atmosphere!
+LAFORGE: He built up enough speed and then bounced her off the atmosphere!🚗
 PICARD: Mister Kurland, I assume you can manoeuvre it home?
 JAKE [OC]: Yes, sir.
 PICARD: Do it. Then report to Mister Riker.
@@ -353,10 +353,16 @@ REMMICK: You're an android, correct?
 DATA: Yes, sir.
 REMMICK: And as an android, you are programmed to tell the entire truth?
 DATA: Yes, sir.
-REMMICK: There is a problem with this ship, Mister Data. It's in the records, somewhere. I need your help to find it.
+REMMICK: There is a problem with this ship, Mister Data. 
+REMMICK: It's in the records, somewhere. 
+REMMICK: I need your help to find it.
 DATA: All of the ship's records are available to you, sir.
-REMMICK: This information is very cleverly hidden. Your Captain is not what he appears to be. Do not forget you have loyalty to Starfleet above all else.
-DATA: Loyalty is not the issue, Commander. There is nothing wrong with Captain Picard or the ship's logs. Therefore there must be something wrong with your original assumption.
+REMMICK: This information is very cleverly hidden. 
+REMMICK: Your Captain is not what he appears to be. 
+REMMICK: Do not forget you have loyalty to Starfleet above all else.
+DATA: Loyalty is not the issue, Commander. 
+DATA: There is nothing wrong with Captain Picard or the ship's logs. 
+DATA: Therefore there must be something wrong with your original assumption.
 REMMICK: That is not acceptable, Mister Data.
 DATA: Acceptable or not, sir, it is the truth.
 REMMICK: Just how did this contaminant get aboard the ship?
@@ -471,14 +477,17 @@ MAN: Help! We're trapped. I can't move. Please, help me.
 (Wesley sees him pinned under a piece of pipe)
 MAN: We're going to die in here!
 (There's a second man cowering in the corner)
-MAN: The liquid hydrogen's going to blow! The shut off valve ruptured. Hurry up! My legs are crushed. You've got to help me!
+MAN: The liquid hydrogen's going to blow! 
+MAN: The shut off valve ruptured. Hurry up! 
+MAN: My legs are crushed. 
+MAN: You've got to help me!
 (Wesley goes to lift the debris, and calls to the uninjured man in the corner)
 WESLEY: Give me a hand with this!
 MAN 2: We're going to die!
 WESLEY: Help me!
 MAN 2: I can't! It's too late!
 COMPUTER: Thirty seconds to seal off.
-(Wesley gets the pipe off the injured man)
+(Wesley gets the pipe off the injured man)💃
 WESLEY: Come on!
 MAN: If we don't get out of here fast, they'll seal us in to contain the explosion.
 WESLEY: (dragging the casualty) Come on, you're not hurt.
@@ -503,8 +512,10 @@ CHANG: An excellent performance, Mister Crusher.
 WESLEY: Performance? That was the test?
 CHANG: Yes.
 WESLEY: A man could have died.
-CHANG: Theoretically, yes. You had to make a choice. And you did. There's no right or wrong about it. Your greatest fear has been that you couldn't make that decision.
-WESLEY: Because of my father? Because Cap. Because someone made that choice, and my father died.
+CHANG: Theoretically, yes. You had to make a choice. And you did. There's no right or wrong about it. 
+CHANG: Your greatest fear has been that you couldn't make that decision.
+WESLEY: Because of my father? Because Cap-
+WESLEY: Because someone made that choice, and my father died.😭
 
 [Ready room]
 

@@ -379,7 +379,7 @@ DATA: I suggest we coast into the rift.
 RIKER: Coast?
 DATA: We can initiate a brief, high intensity warp pulse from our current position. We should be able to attain sufficient velocity to enter the rift, beam the crew off the Fleming and exit without using our warp engines.
 RIKER: All right, let's say we initiate a full power warp pulse. How much time do we need to drop out of warp?
-DATA: If we field saturate the nacelles, we should be able to sustain warp speed for approximately two minutes.
+DATA: If we field saturate the nacelles, we should be able to sustain warp speed for approximately two minutes.🚗
 RIKER: That doesn't give us much time, and it could get pretty rough in there.
 DATA: The timing will be critical.
 PICARD: Begin your calculations, Mister Data. We'll go as soon as you're ready.

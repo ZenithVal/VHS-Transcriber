@@ -50,7 +50,7 @@ LAVELLE: Hard to starboard.
 RIKER: Fire phasers.
 (a pause as she finds the right buttons)
 SITO: Firing.
-DATA: Target is destroyed.
+DATA: Target is destroyed.🔫
 RIKER: End simulation sequence. Secure from drill. Alpha shift, your response time was seven percent slower than the gamma shift. All departments, submit drill evaluation reports
 
 [Engineering]
@@ -95,7 +95,8 @@ LAFORGE: Sure, Taurik. What is it?
 TAURIK: I'd like you to take a look at something.
 LAFORGE: Have you been improvising again, Ensign?
 TAURIK: In a manner of speaking. I'm running a computer simulation to test a new warp field configuration.
-LAFORGE: You've got a problem here. Your plasma flow to the nacelles is out of sync.
+LAFORGE: You've got a problem here. 
+LAFORGE: Your plasma flow to the nacelles is out of sync.🚗
 TAURIK: Actually, sir, that was done deliberately. As you can see, this configuration has increased overall warp field integrity by seven percent.
 LAFORGE: You're right.
 TAURIK: Doctor Nils Diaz has been experimenting with this technique at the Tanaline Propulsion Laboratory.
@@ -454,16 +455,16 @@ WORF: No. No practise. That is part of the ritual. The test must be unannounced.
 (Worf blindfolds her)
 WORF: Can you see?
 SITO: No.
-WORF: Good. The gik'tal has begun. Defend yourself.
-(of course, he easily throws her)
+WORF: Good. The gik'tal has begun. Defend yourself.🔧
+(Worf easily throws her)
 WORF: You must anticipate my attack.
 SITO: Yes, sir.
 WORF: Defend yourself.
-(once again, she has no idea where he is before she lands on her back)
+(once again, she has no idea where he is before she lands on her back)🔧
 WORF: Are you listening, Ensign?
 SITO: Yes, but
 WORF: Defend yourself.
-(and a third time)
+(and a third time)🔧
 WORF: You did not anticipate.
 (Sito removes the blindfold)
 SITO: How am I supposed to defend myself when I can't see a thing?
@@ -475,7 +476,9 @@ WORF: It takes courage to say the test is unfair.
 SITO: One thing I don't understand. Doesn't gik'tal mean to the death?
 WORF: You speak Klingon.
 SITO: Sir, is there really such a thing as a gik'tal challenge?
-WORF: No, there is not. But perhaps next time you are judged unfairly, it will not take so many bruises for you protest.
+WORF: No, there is not. 
+WORF: But perhaps next time you are judged unfairly, 
+WORF: it will not take so many bruises for you protest.
 
 [Ready room]
 

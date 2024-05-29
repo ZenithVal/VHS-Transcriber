@@ -363,17 +363,21 @@ PULASKI: I'm sorry.
 
 [Sickbay]
 
-PULASKI: Growth rate has definitely slowed. What is he feeling? Can you tell?
+PULASKI: Growth rate has definitely slowed. 
+PULASKI: What is he feeling? Can you tell?
 TROI: Sadness.
 PULASKI: Which is the opposite of before, and it's having the opposite effect on the infection.
 TROI: Then your theory's correct. The organisms are sensitive to different types of endorphins.
 PULASKI: And negative emotions
 TROI: Such as sadness
-PULASKI: Produce endorphins that inhibit the organisms' growth.
+PULASKI: Produce endorphins that inhibit the organisms' growth.🏥🚜
 TROI: Then we've found a way to repel the infection.
 PULASKI: Assuming we're not too late already.
 TROI: How much time do we have?
-PULASKI: I'm not sure. His vital signs are getting weaker. I don't want to risk another dose of tricordrazine unless I have to. I must refocus the pattern again. We need to isolate memories that generate stronger negative emotions.
+PULASKI: I'm not sure. His vital signs are getting weaker. 
+PULASKI: I don't want to risk another dose of tricordrazine unless I have to. 
+PULASKI: I must refocus the pattern again. 
+PULASKI: We need to isolate memories that generate stronger negative emotions.
 
 [A Matter of Honour - Pagh Bridge]
 
@@ -446,11 +450,11 @@ RIKER: Who are you?
 
 [Skin of Evil]
 
-(Riker is grabbed by an invisible force and dragged by the feet to the slick)
-RIKER: Help! Data, something's got me!
-ARMUS: Touch him and he dies.
-RIKER: No! No, don't!
-(Riker disappears into the slick)
+(Riker is grabbed by an invisible force and dragged by the feet to the slick)😨😨😨😱😱😱
+RIKER: Help! Data, something's got me!😨😨😱😱
+ARMUS: Touch him and he dies.😱😨
+RIKER: No! No, don't!😱😱
+(Riker disappears into the slick)😱😱
 DATA: Enterprise?
 
 [Bridge]
@@ -460,7 +464,7 @@ PICARD: I'm beaming you up.
 
 [Planet surface]
 
-ARMUS: If any of you leave now, he dies.
+ARMUS: If any of you leave now, he dies.😨😨😨
 
 [Bridge]
 
@@ -536,9 +540,9 @@ RIKER [OC]: Data, something's got me!
 (Riker's face contorts, then relaxes, and he appears to wakes up, but is asleep again in the next camera angle)
 PULASKI: Sickbay to Bridge.
 PICARD [OC]: Yes, Doctor?
-PULASKI: We've eradicated the infection.
+PULASKI: We've eradicated the infection.🏥
 PICARD [OC]: I'm on my way.
-(The apparatus is removed from Riker's head and he wakes properly)
+(The apparatus is removed from Riker's head and he wakes properly)🙂🙂🙂😊😊
 RIKER: You're still here?
 TROI: I could ask you the same question.
 PULASKI: How do you feel?

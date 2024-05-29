@@ -217,7 +217,9 @@ PICARD: If you can demonstrate that he is biologically harmless without risk to 
 
 [Corridor]
 
-PULASKI: Deanna, do you have a minute? You've known the Captain for some time. I think I need some advice. I don't seem to be dealing with him very well.
+PULASKI: Deanna, do you have a minute? 
+PULASKI: You've known the Captain for some time. I think I need some advice. 
+PULASKI: I don't seem to be dealing with him very well.
 TROI: Why do you say that?
 PULASKI: Well, my arguments don't seem to have any affect on him. We just end up quoting regulations to each other. He has such a consuming dedication to his ship, he doesn't seem able to step back to see the human side of the equation.
 (Troi smiles)

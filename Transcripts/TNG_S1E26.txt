@@ -101,8 +101,14 @@ CRUSHER: I didn't know what else to do. The crypts in which they were frozen wer
 PICARD: So what's their condition?
 CRUSHER: Right now, they are all sleeping. Each of them needed minor medical attention. Minor now, but then their conditions were obviously terminal. One had a heart problem, another had an advanced case of emphysema with extensive liver damage. You know the most surprising thing of all, is that each of them had been frozen after they died.
 PICARD: After they died?
-CRUSHER: Cryonics. It was a kind of fad in the late twentieth century. People feared dying. It terrified them. At the moment of death, they would be frozen, so that later, some time in the future, when presumably medical science had a cure for whatever killed them, they could be thawed back to life, healed, and sent on about their business.
-PICARD: In the case of this group, it apparently worked. Mister Data, will you report to Sickbay.
+CRUSHER: Cryonics. 
+CRUSHER: It was a kind of fad in the late twentieth century. 
+CRUSHER: People feared dying. It terrified them. 
+CRUSHER: At the moment of death, they would be frozen, so that later, some time in the future, 
+CRUSHER: when presumably medical science had a cure for whatever killed them, 🏥
+CRUSHER: they could be thawed back to life, healed, and sent on about their business.
+PICARD: In the case of this group, it apparently worked. 🏥
+PICARD: Mister Data, will you report to Sickbay.
 
 [Bridge]
 
@@ -335,7 +341,8 @@ CLARE: Well, whether we do or not, I want to thank you for trying. Date of birth
 
 [Sickbay]
 
-SONNY: I just got to have a little something to jump start the morning, and a little something else to shut down the night.
+SONNY: I just got to have a little something to jump start the morning, 
+SONNY: and a little something else to shut down the night.
 CRUSHER: You have no medical need.
 SONNY: It ain't a question of need, darling. It's a matter of survival.
 CRUSHER: Sorry.
@@ -492,7 +499,9 @@ PICARD: I think our lives just became a lot more complicated. Get him off my Bri
 
 [Clare's quarters]
 
-TROI: I've found something. I have been able to locate a family living outside of Indianapolis. The man's name is Thomas Raymond.
+TROI: I've found something. 
+TROI: I have been able to locate a family living outside of Indianapolis. 
+TROI: The man's name is Thomas Raymond.
 CLARE: That's my son's name. My son's name is Tommy.
 TROI: Computer, let us see Thomas Raymond.
 CLARE: Oh, my God. That's Donald. That's my husband.

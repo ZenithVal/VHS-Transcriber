@@ -110,7 +110,8 @@ CRUSHER [OC]: Yes. I'll meet the away team in transporter room four.
 
 [Planet surface]
 
-(The team beam down onto a barren rock-strewn surface under a salmon pink sky. One of the nacelles has broken off the little shuttlecraft)
+(The team beam down onto a barren rock-strewn surface under a salmon pink sky.)
+(One of the nacelles has broken off the little shuttlecraft)🚗
 CRUSHER: Let's go. The life signs are weak.
 (Their way is blocked by what seems to be an oil slick)
 RIKER: What is this?
@@ -190,7 +191,7 @@ DATA: It seems to feed on our phaser energy.
 RIKER: We had no effect on it.
 (Armus sinks back into the slick)
 PICARD: What's Lieutenant Yar's condition? Doctor Crusher, report!
-CRUSHER: She's dead.😨😨😱😱😱
+CRUSHER: She's dead.🏥😨😨😱😱😱
 
 [Bridge]
 
@@ -584,7 +585,9 @@ PICARD: Au revoir, Natasha. The gathering is concluded.😭😭😭
 (Everyone but Picard and Data leave, sniffing a bit)
 DATA: Sir, the purpose of this gathering confuses me.
 PICARD: Oh? How so?
-DATA: My thoughts are not for Tasha, but for myself. I keep thinking how empty it will feel without her presence. Did I miss the point?
-PICARD: No, you didn't, Data. You got it.
+DATA: My thoughts are not for Tasha, but for myself. 
+DATA: I keep thinking how empty it will feel without her presence. 😭
+DATA: Did I miss the point?😭
+PICARD: No, you didn't, Data. You got it.😭
 
-NARRATOR: 🎵 🙂🙂😊😊😊 End Credits 🎵
+NARRATOR: 🎵 End Credits 🎵

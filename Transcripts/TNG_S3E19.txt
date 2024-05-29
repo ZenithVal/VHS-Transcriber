@@ -30,7 +30,8 @@ PICARD: About what?
 PIKER: About the trade agreement.
 (Picard leaves)
 RIKER: Is it my imagination, or is something bothering the Captain?
-TROI: He has been under a great deal of strain lately. While we were on Gemaris, he ate sparingly and slept even less.
+TROI: He has been under a great deal of strain lately. 
+TROI: While we were on Gemaris, he ate sparingly and slept even less.
 RIKER: Anything we can do?
 TROI: Actually, I have a solution in mind, but I doubt he'll agree to it.
 RIKER: What would that be?
@@ -87,7 +88,8 @@ TROI: Will, I've just had some terrific news.
 RIKER: Really?
 TROI: There's an excellent chance my mother may be joining us on Starbase twelve.
 PICARD: Your mother?
-TROI: She's returning home from a conference on Achrady Seven, and she's going to try to rearrange her schedule so she can spend some time visiting with us.
+TROI: She's returning home from a conference on Achrady Seven, 
+TROI: and she's going to try to rearrange her schedule so she can spend some time visiting with us.
 RIKER: That's wonderful, Deanna.
 TROI: She mentioned how much she was looking forward to seeing you again, Captain.
 PICARD: Did she? Commander, could I have a word with you?
@@ -179,10 +181,15 @@ PICARD: On the contrary, all too often.
 SOVAK: Then you know the Ferengi are not to be trifled with.
 PICARD: Or trusted.
 SOVAK: You dare to insult me?
-PICARD: I advise you to listen closely for I will not say this again. I came to Risa for a holiday, nothing more. I have no knowledge of this woman of whom you speak, nor have I laid eyes on any disc.
+PICARD: I advise you to listen closely for I will not say this again. 
+PICARD: I came to Risa for a holiday, nothing more. 
+PICARD: I have no knowledge of this woman of whom you speak, nor have I laid eyes on any disc.
 SOVAK: You expect me to believe such feeble lies?
 PICARD: I don't care what you believe!
-SOVAK: This is not over yet, human. The disc is mine! And so is the woman. Remember that.
+SOVAK: This is not over yet, human. 
+SOVAK: The disc is mine! 
+SOVAK: And so is the woman. 
+SOVAK: Remember that.
 (Sovak leaves. Vash ends her massage and comes over)
 VASH: Hello.
 PICARD: Oh, it's you.
@@ -301,7 +308,7 @@ VASH: Jean-Luc. We're going to make a wonderful team.
 
 (Jodhpurs, boots, a ruck sack, makes Vash and Picard stand out from everyone else)
 SOVAK: I expected such treachery. Did you think you could sneak away from me so easily?
-((Sovak presses something into Picard's back and pushes them to a quiet area)
+(Sovak presses something into Picard's back and pushes them to a quiet area)
 SOVAK: The disc. Where is it?
 PICARD: Didn't anyone tell you weapons aren't allowed on Risa?
 SOVAK: You're making a grave mistake putting your trust in this woman.
@@ -314,7 +321,9 @@ SOVAK: She's a greedy and unscrupulous woman. A perfect mate for a Ferengi.
 PICARD: You're becoming quite annoying, Sovak.
 SOVAK: As are you, human. Perhaps I should kill you and then take the disc.
 VASH: No, wait. You can have it.
-(She throws her rucksack at Sovak, and Picard takes the gun from him before punching him between the eyes. Vash retrieves her rucksack, and Picard throws the gun into the flower bed)
+(She throws her rucksack at Sovak)
+(Picard takes the gun from him before punching him between the eyes.)💃🔧🔧😊😊😊😊
+(Vash retrieves her rucksack, and Picard throws the gun into the flower bed)🔫
 VASH: See? I told you we'd make a wonderful team.
 PICARD: We've got long trip.
 
@@ -478,7 +487,9 @@ VASH: No!
 (Boratus uses an energy beam on her)
 PICARD: Enterprise. Code fourteen. Lock on present coordinates. Two second delay. Mark!
 (He puts the crystal on the ground and goes to Vash. The crystal explodes before Ajur can reach it)
-PICARD: Are you all right? (to the aliens) Go. Return to your own time. There's nothing for you here.
+PICARD: Are you all right? 
+PICARD: (to the aliens) Go. Return to your own time. 
+PICARD: There's nothing for you here.
 BORATUS: History recorded that you destroyed the Uthat.
 AJUR: You have fulfilled your destiny all too well, Picard.
 

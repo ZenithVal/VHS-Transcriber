@@ -234,7 +234,8 @@ PICARD: Now, if these men do not die well, it will be a black matter for the kin
 [Debriefing room]
 
 SETAL: Why must we waste time playing this ridiculous game?
-TROI: There's more here than you're telling us. You're forcing yourself to hold back.
+TROI: There's more here than you're telling us. 
+TROI: You're forcing yourself to hold back.
 SETAL: I have told you everything relevant about Nelvana Three.
 TROI: I'm not talking about the base.
 SETAL: The base is all that matters.

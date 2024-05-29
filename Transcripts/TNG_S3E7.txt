@@ -228,7 +228,9 @@ LAFORGE: You really believe that stuff, don't you, Commodore?
 BOCHRA: You may address me as Centurion Bochra.
 LAFORGE: Bochra? Good, solid Romulan name. What's the matter?
 BOCHRA: Nothing.
-LAFORGE: Wrong. Your heart rate just shot way up. (taps the Visor) It translates a wide range of radiation into neural impulses. Allows me to see.
+LAFORGE: Wrong. Your heart rate just shot way up. (taps the Visor) 
+LAFORGE: It translates a wide range of radiation into neural impulses. 
+LAFORGE: Allows me to see.
 BOCHRA: Without it, you're blind?
 LAFORGE: Yes.
 BOCHRA: How did this happen?
@@ -236,9 +238,15 @@ LAFORGE: I was born that way.
 BOCHRA: And your parents let you live?
 LAFORGE: What kind of question is that? Of course they let me live.
 BOCHRA: No wonder your race is weak. You waste time and resources on defective children.
-LAFORGE: Whoa. I must be having some sort of polarity shift. The diagnostic insists everything's fine. Hey, hey, your body temperature's gone up another full point.
+LAFORGE: Whoa. I must be having some sort of polarity shift. 
+LAFORGE: The diagnostic insists everything's fine. 
+LAFORGE: Hey, hey, your body temperature's gone up another full point.
 BOCHRA: What are you saying?
-LAFORGE: I don't know. It must be this place, all that electromagnetic soup, it's wreaking havoc on our nervous systems. Your metabolism's messed up, so's my interface with the Visor. We've got to get out of here while we still can.
+LAFORGE: I don't know. 
+LAFORGE: It must be this place, all that electromagnetic soup, 🍄
+LAFORGE: it's wreaking havoc on our nervous systems. 
+LAFORGE: Your metabolism's messed up, so's my interface with the Visor. ⚡
+LAFORGE: We've got to get out of here while we still can.
 BOCHRA: Sit down.
 LAFORGE: Bochra
 BOCHRA: Sit down!
@@ -313,7 +321,8 @@ PATAHK: I would rather die than pollute my body with Klingon filth!
 [Cave]
 
 BOCHRA: I've lost almost all feeling in my legs.
-LAFORGE: My synapses must be turning to jelly. The Visor's fine. I just can't see a thing.
+LAFORGE: My synapses must be turning to jelly. 
+LAFORGE: The Visor's fine. I just can't see a thing.
 BOCHRA: How do we locate the beacon?
 LAFORGE: We don't.
 BOCHRA: Do all humans give up so easily?
@@ -325,7 +334,9 @@ LAFORGE: That's crazy. They don't speak the same language. Besides, I'd never be
 BOCHRA: You cannot do it?
 LAFORGE: Under normal circumstances, maybe. Here, no way.
 BOCHRA: Why?
-LAFORGE: Because I can't see. Adapting the neural output pods of the Visor is tricky work. It can't be done by touch.
+LAFORGE: Because I can't see. 
+LAFORGE: Adapting the neural output pods of the Visor is tricky work. 
+LAFORGE: It can't be done by touch.
 BOCHRA: Then I will be your eyes.
 
 [Bridge]
@@ -383,7 +394,7 @@ CRUSHER [OC]: I won't have to, Captain. The Romulan has died.
 
 [Neutrino beacon]
 
-BOCHRA: We've found it!
+BOCHRA: We've found it!🍄
 LAFORGE: Now we have to alter its signal pattern so the Enterprise knows we've found it.
 BOCHRA: Will that be difficult?
 LAFORGE: No, not with your help.
@@ -404,11 +415,11 @@ TOMALAK [on viewscreen]: You forced the situation. I will not leave without him.
 PICARD: He's dead.
 TOMALAK [on viewscreen]: Then he is but the first to fall, Picard.
 (Transmission ends)
-WORF: The Romulan ship is routing power to its forward disruptor array.
+WORF: The Romulan ship is routing power to its forward disruptor array.⚡
 PICARD: All shields to maximum.
 WORF: Aye, sir.
 PICARD: Lock phasers on target.
-WORF: Phasers locked and ready.
+WORF: Phasers locked and ready.🔫
 WESLEY: Captain, the signal pattern from the neutrino beacon is modulating.
 TROI: It's Geordi.
 RIKER: We can't transport him with the shields up.

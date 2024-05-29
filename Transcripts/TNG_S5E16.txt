@@ -26,16 +26,19 @@ LAFORGE: La Forge to Sickbay! Medical emergency in cargo bay three!
 WORF: What happened?
 CRUSHER: The containers you were checking fell on you. You're lucky to be alive.
 (Worf tries to sit up, but cannot)
-WORF: Doctor, I will not attempt to leave Sickbay without your approval. The restraining field is not necessary.
+WORF: Doctor, I will not attempt to leave Sickbay without your approval. 
+WORF: The restraining field is not necessary.
 CRUSHER: Worf, there is no restraining field.
 WORF: But I can't move my legs.
-CRUSHER: I know. You can't move because one of the containers shattered seven of your vertebrae and crushed your spinal cord. I'm afraid there's no way we can repair this kind of injury.
+CRUSHER: I know. 
+CRUSHER: You can't move because one of the containers shattered seven of your vertebrae and crushed your spinal cord. 
+CRUSHER: I'm afraid there's no way we can repair this kind of injury.🏥
 
 PICARD: Captain's log, stardate 45587.3. Lieutenant Worf has been removed from active duty following a severe injury. Although a neuro-specialist has arrived, Doctor Crusher believes his paralysis may be permanent.
 
 [Transporter room]
 
-(a woman about the same age as Beverly beams in. Think Hillary Clinton)
+(a woman about the same age as Beverly beams in.)
 CRUSHER: Welcome to the Enterprise, Doctor Russell. I'm Beverly Crusher.
 RUSSELL: A pleasure. I have some equipment aboard the Potemkin. Would you please have it sent to one of your medical labs.
 CRUSHER: Of course. Send it to medlab four.
@@ -61,23 +64,36 @@ CRUSHER: Right. This way.
 
 (lots of flashing lights on a bank of monitors)
 RIKER: You look pretty good for someone who's been eating sickbay food for three days.
-WORF: Please, sit down, Commander. Thank you for agreeing to see me in this condition.
-RIKER: I'm not a Klingon. I don't think there's any shame in someone being injured.
-WORF: I am not merely injured, Commander. Doctor Crusher believes my paralysis to be permanent.
+WORF: Please, sit down, Commander. 
+WORF: Thank you for agreeing to see me in this condition.
+RIKER: I'm not a Klingon. 
+RIKER: I don't think there's any shame in someone being injured.
+WORF: I am not merely injured, Commander. 
+WORF: Doctor Crusher believes my paralysis to be permanent.
 RIKER: I'm sorry.
 WORF: I have a personal favour to ask.
 RIKER: Name it.
-WORF: I want you to assist me in performing the Hegh'bat ceremony. I want you to help me die.
+WORF: I want you to assist me in performing the Hegh'bat ceremony. 
+WORF: I want you to help me die.
 RIKER: What?
-WORF: When a Klingon can no longer stand and face his enemies as a warrior, when he becomes a burden to his friends and family, it is time for the Hegh'bat. Time for him to die.
+WORF: When a Klingon can no longer stand and face his enemies as a warrior, 
+WORF: when he becomes a burden to his friends and family, it is time for the Hegh'bat. 
+WORF: Time for him to die.😨
 RIKER: There must be other options.
-WORF: No, there are not. I will not live as an object of pity or shame. My life as a Klingon is over.
+WORF: No, there are not. 
+WORF: I will not live as an object of pity or shame. 😭
+WORF: My life as a Klingon is over.
 RIKER: Mister Worf, I will not help a friend commit suicide.
-WORF: You and I have served together for many years. Fought side by side I know you to be a brave and honourable man. If you truly consider me a friend, help me now. Help me end my life as I have lived it, with dignity and honour. Please.
+WORF: You and I have served together for many years. 
+WORF: Fought side by side I know you to be a brave and honourable man. 
+WORF: If you truly consider me a friend, help me now. 
+WORF: Help me end my life as I have lived it, with dignity and honour. 
+WORF: Please.😭
 
 [Medical lab]
 
-CRUSHER: The cortical spinal tract has continued to deteriorate over the last seventy two hours despite CPK enzymatic therapy.
+CRUSHER: The cortical spinal tract has continued to deteriorate over the last
+CRUSHER: seventy two hours despite CPK enzymatic therapy.
 RUSSELL: What about alkysine treatment?
 CRUSHER: Ineffective.
 RUSSELL: Overdesigned. Klingon anatomy. Twenty three ribs, two livers, eight-chambered heart, double-lined neural pia mater. I've never seen so many unnecessary redundancies in one body.
@@ -90,7 +106,8 @@ RUSSELL: Exactly. Instead of splicing and pasting together broken connections li
 CRUSHER: I had no idea you were already using this on humanoids.
 RUSSELL: I haven't been. This'll be the first time.
 CRUSHER: First time?
-RUSSELL: I've done dozens of holosimulations. The success rate is up to thirty seven percent.
+RUSSELL: I've done dozens of holosimulations. 🏥
+RUSSELL: The success rate is up to thirty seven percent.😟😟
 CRUSHER: Even a holographic patient would balk at those odds.
 RUSSELL: Sooner or later, it has to be tried on a living patient.
 CRUSHER: You're talking about a spinal column. Even before we could replace it, we have to remove the existing one, and we don't know enough about Klingon neurological medicine to re-attach it. If something goes wrong, he'll die. I agree it has remarkable potential, but you're still in the most preliminary stages of research. No, I'm afraid I can't justify the risk to Worf. We'll have to do with more conventional approaches.
@@ -115,15 +132,23 @@ DATA: Aye, sir.
 RIKER: I have always tried to keep an open mind, not to judge someone else's culture by my own, but for me to be a part of this ceremony.
 PICARD: I understand from Doctor Crusher that Worf will never regain the use of his legs.
 RIKER: That doesn't mean his life is over.
-PICARD: That's a very human perspective, Will. For a Klingon in Worf's position, his life is over.
+PICARD: That's a very human perspective, Will. 
+PICARD: For a Klingon in Worf's position, his life is over.
 RIKER: I can't accept that.
-PICARD: Will, if you were dying, if you were terminally ill with an incurable disease and facing the remaining few days of your life in pain, wouldn't you come to look on death as a release?
+PICARD: Will, if you were dying, if you were terminally ill with an incurable disease and facing the remaining few days of your life in pain, 
+PICARD: wouldn't you come to look on death as a release?
 RIKER: Worf isn't dying and he is not in pain. He could live a long life
-PICARD: You or I could learn to live with that disability, but not Worf. His life ended when those containers fell on him. We don't have to agree with it, we don't have to understand it, but we do have to respect his beliefs.
+PICARD: You or I could learn to live with that disability, but not Worf. 
+PICARD: His life ended when those containers fell on him. 
+PICARD: We don't have to agree with it, we don't have to understand it, 
+PICARD: but we do have to respect his beliefs.
 RIKER: I can respect his beliefs, but he is asking me to take an active role in his committing suicide.
-PICARD: He's asking for your help because you're his friend. That means that you're going to have to make your decision based on that friendship.
+PICARD: He's asking for your help because you're his friend. 
+PICARD: That means that you're going to have to make your decision based on that friendship.
 RIKER: Which leaves me back where I started.
-PICARD: Will. Look, I'm sorry, I cannot help you to make this decision, but I can tell you this. Klingons choose their friends with great care. If he didn't know he could count on you, he never would have asked.
+PICARD: Will. Look, I'm sorry, I cannot help you to make this decision, but I can tell you this. 
+PICARD: Klingons choose their friends with great care. 
+PICARD: If he didn't know he could count on you, he never would have asked.
 
 [Troi's quarters]
 
@@ -158,9 +183,15 @@ RUSSELL: Now try to move your leg.
 CRUSHER: No, no, that's good for a first try. It will take some time before you get used to manipulating the
 WORF: No! (rips the band off) I will not live like that.
 CRUSHER: These are very sophisticated devices. With enough time, they will give you
-WORF: Sixty percent of my mobility. No, I will not be seen lurching through corridors like some half-Klingon machine, the object of ridicule and disgust.
-CRUSHER: Perhaps this all seems a bit frightening to you know. I want you to take some time before making a decision. Think about it.
-RUSSELL: There is one other option I'd like you to consider. It's called genetronic replication. It's still in the experimental stage, but if it works, it will restore virtually all of your mobility and without the need for artificial implants.
+WORF: Sixty percent of my mobility. 
+WORF: No, I will not be seen lurching through corridors like some half-Klingon machine, 
+WORF: the object of ridicule and disgust.
+CRUSHER: Perhaps this all seems a bit frightening to you know. 
+CRUSHER: I want you to take some time before making a decision. Think about it.
+RUSSELL: There is one other option I'd like you to consider. 
+RUSSELL: It's called genetronic replication. 
+RUSSELL: It's still in the experimental stage, but if it works, 
+RUSSELL: it will restore virtually all of your mobility and without the need for artificial implants.
 
 [Sickbay]
 
@@ -258,7 +289,7 @@ PICARD: This may not be good medicine, but for Worf, it may be his only choice.
 
 [Worf's private room]
 
-(Riker enters carrying a robe and a knife)
+(Riker enters carrying a robe and a knife)🔪
 WORF: I am ready, Commander.
 RIKER: I've been studying this ritual of yours. Do you know what I've decided? I think it's despicable. I hate everything about it. The casual disregard for life, the way it tries to cloak suicide in some glorious notion of honour. I may have to respect your beliefs, but I don't have to like them.
 WORF: It is not something I expect you to understand.
@@ -277,9 +308,14 @@ RIKER: That's an excuse. What you really mean is it would be too hard for you to
 ALEXANDER: You said you wanted to see me?
 WORF: I need you to help me.
 ALEXANDER: Anything, Father.
-WORF: I have taught you about Klingon customs, the beliefs which we value. According to tradition, I must take my life after suffering this kind of injury. But I have decided to break with tradition. I have decided to live.
+WORF: I have taught you about Klingon customs, the beliefs which we value. 
+WORF: According to tradition, I must take my life after suffering this kind of injury. 
+WORF: But I have decided to break with tradition. 
+WORF: I have decided to live.
 ALEXANDER: I'm glad, Father.
-WORF: I must still undergo a dangerous operation. I may still die, but it will not be by my own hand. Return this to our quarters.
+WORF: I must still undergo a dangerous operation. 
+WORF: I may still die, but it will not be by my own hand. 
+WORF: Return this to our quarters.
 ALEXANDER: Yes, sir.
 (Alexander takes the knife away)
 

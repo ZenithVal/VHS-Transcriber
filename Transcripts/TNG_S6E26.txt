@@ -274,7 +274,8 @@ DATA: We are being pulled inside.
 (and Enterprise disappears into a Whovian/Stargate style wormhole effect)
 WORF: Inertial dampers failing.
 DATA: Main power is offline. I am switching to backups.
-PICARD: Picard to Engineering, can we transfer auxiliary power to the warp nacelles? Try to break us out by using the
+PICARD: Picard to Engineering, can we transfer auxiliary power to the warp nacelles? 🚗
+PICARD: Try to break us out by using the-
 (normal space)
 DATA: We have returned to normal space. Navigational systems are still offline. I will attempt to make a celestial fix using secondary systems.
 WORF: Captain, the Borg ship is directly ahead. It is coming about.

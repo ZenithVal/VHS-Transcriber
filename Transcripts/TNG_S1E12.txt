@@ -93,8 +93,9 @@ JAMESON: I'm sure.
 CRUSHER: All the medical information the Admiral provided is satisfactory, sir.
 PICARD: Excellent, Doctor.
 CRUSHER: Except for one thing. The test results he gave me aren't two days old, they're two months old. The medical file coder always includes the date as part of the file number. He lied to me, sir, and I don't know why.
-PICARD: He is eighty five years old, Doctor. For some, the memory begins to fail.
-CRUSHER: He suffers from Iverson's Disease, sir. It affects the body, not the mind. No, I have a gut feeling he's hiding something.
+PICARD: He is eighty five years old, Doctor. 
+CRUSHER: He suffers from Iverson's Disease, sir. 🏥
+CRUSHER: It affects the body, not the mind. No, I have a gut feeling he's hiding something.
 PICARD: That is an observation I'd expect from Counsellor Troi. Doctor. Doctor, I do respect your opinion, and I'll want you on the Bridge for the next day or so. The Admiral must remain in the best of health for these negotiations, and he might require your services.
 
 [Bridge]
@@ -137,7 +138,8 @@ ANNE: Darling, you look like you looked twenty years ago.
 JAMESON: You're flatter me.
 ANNE: Now you tell me what the hell is going on?
 JAMESON: I don't know (collapses in pain)
-ANNE: Sickbay! Medical emergency in the Admiral's quarters!
+ANNE: Sickbay! 
+ANNE: Medical emergency in the Admiral's quarters!🏥
 
 [Crusher's office]
 
@@ -337,7 +339,7 @@ DATA: Their phasers, sir, set on kill.
 PICARD: Thank you, Mister Data. I have heard the sound before.
 (Tasha takes out two soldiers, then Jameson cries in pain)
 TASHA: Is he hit?
-DATA: No sign of a wound.
+DATA: No sign of a wound.🏥
 PICARD: Enterprise, this is Picard. Six to beam up, now!
 
 [Bridge]

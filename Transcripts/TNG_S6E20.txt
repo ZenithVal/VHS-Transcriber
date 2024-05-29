@@ -375,7 +375,8 @@ ENSIGN: Aye, sir.
 WORF: They are firing.
 (everything shakes as the Cardassians target the nacelle again and fly off)
 PICARD: Report, Number One.
-RIKER: The power boost to the structural integrity field protected the nacelles. We used the inertial dampers to simulate complete shield failure.
+RIKER: The power boost to the structural integrity field protected the nacelles. 🚗
+RIKER: We used the inertial dampers to simulate complete shield failure.
 NU'DAQ: It is fortunate that your Engineer discovered Gul Ocett's attempt to tamper with your defensive systems. Maht-H'a. Status.
 KLINGON [OC]: Minor damage to starboard nacelle. We will be operational in less than one hour.
 NU'DAQ: What? You incompetent Top'a. You were supposed to be prepared.

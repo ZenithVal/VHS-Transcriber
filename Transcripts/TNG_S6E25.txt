@@ -51,7 +51,9 @@ LAFORGE: How did you enjoy the rest of the conference, Counsellor?
 TROI: To be honest, I was bored. I spent most of my time at Professor Wagner's phylobiology seminar. I thought the idea of the seminar was that we would all participate, bring different points of views to the discussion. He gathered two hundred scientists from all over the Federation, and all he did was put us to sleep.
 DATA: I have a memory record of the entire lecture, Counsellor. I can repeat the portions you missed, if you
 TROI: No, thank you, Data.
-PICARD: Well, it was little better at the physiognomy workshop. Doctor Vassbinder gave an hour long dissertation on the ionisation effect of warp nacelles before he realised that the topic was supposed to be psychology.
+PICARD: Well, it was little better at the physiognomy workshop. 
+PICARD: Doctor Vassbinder gave an hour long dissertation on the ionisation effect of 
+PICARD: warp nacelles before he realised that the topic was supposed to be psychology.
 LAFORGE: Why didn't anybody tell him?
 PICARD: There was no opportunity. There was no pause. (mock Teutonic) He just kept talking in one long, incredibly unbroken sentence, moving from topic to topic so that no one had a chance to interrupt. It was really quite hypnotic.
 LAFORGE: Well, I had a great time. The warp-energy symposium was fascinating. I actually had an opportunity to touch a plasma field.

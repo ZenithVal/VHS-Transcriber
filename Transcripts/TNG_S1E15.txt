@@ -106,7 +106,7 @@ WESLEY: Yes, sir.
 
 [Guest quarters]
 
-(Data has found an atomiser, and gives himself a face-full)
+(Data has found an atomiser, and gives himself a face-full)🙂🙂
 DATA: Interesting. An alcohol-based synthetic, artificially reproducing a floral scent.
 TROI: It's called perfume, Data.
 DATA: The purpose of which is?
@@ -137,7 +137,7 @@ BEATA: I assumed as much. But be warned, Counsellor, these men are dangerous.
 (Wesley and his ski-ing companion are in beds, coughing)
 CRUSHER: Sickbay to Captain Picard.
 PICARD [OC]: Picard here.
-CRUSHER: Wesley and one of his friends have contracted some form of respiratory ailment.
+CRUSHER: Wesley and one of his friends have contracted some form of respiratory ailment.🏥
 PICARD [OC]: A respiratory aliment? Is it contained?
 CRUSHER: I hope so. I've isolated the twelve students who were on the Quazulu Eight field trip.
 
@@ -151,7 +151,7 @@ CRUSHER: Still running tests. The key is to figure out how the virus is transmit
 
 [Bridge]
 
-CRUSHER [OC]: Person to person contact.
+CRUSHER [OC]: Person to person contact.🏥
 PICARD: Well, keep with it, Doctor. Starfleet has very important business for us as soon as the away team returns. I don't fancy the idea of my crew being infected.
 
 [Great Hall]
@@ -186,9 +186,13 @@ RIKER: Why, what is this attitude? On Kabatris I had to wear furs to meet the le
 
 (The Captain is obviously ill)
 PICARD: This is quite unnecessary, Doctor. I'm fine.
-CRUSHER: You're infected with the virus. Captain. In my opinion, you are no longer physically able to effectively command this vessel.
-PICARD: That is ridiculous, Doctor. I have an away team down there, in less than friendly territory, and in addition I have an appointment with several Romulan battlecruisers.
-CRUSHER: You have an appointment in your cabin, Captain. With your bed.
+CRUSHER: You're infected with the virus. 
+CRUSHER: Captain. 
+CRUSHER: In my opinion, you are no longer physically able to effectively command this vessel.
+PICARD: That is ridiculous, Doctor. 
+PICARD: I have an away team down there, in less than friendly territory, 
+PICARD: and in addition I have an appointment with several Romulan battlecruisers.
+CRUSHER: You have an appointment in your cabin, Captain. With your bed.🏥
 PICARD: Is that an order, Doctor?
 CRUSHER: Yes.
 
@@ -198,7 +202,8 @@ WORF: I think I may sneeze.
 LAFORGE: A Klingon sneeze?
 WORF: Only kind I know.
 (Picard and Crusher enter)
-PICARD: Lieutenant La Forge, you have command until further notice. Please, make the proper ship's log entries.
+PICARD: Lieutenant La Forge, you have command until further notice. 
+PICARD: Please, make the proper ship's log entries.
 LAFORGE: Aye, sir.
 (Geordi goes and sits in the Captain's chair)
 WORF: Scanners indicate a platinum trace. Should I notify the away team?
@@ -562,7 +567,8 @@ RIKER: I don't know if it was enough.
 CRUSHER: [OC]: Sickbay to Bridge.
 DATA: Go ahead, Doctor.
 CRUSHER [OC]: Bingo, Data.
-DATA: Bingo? I fail to see the relevance, Doctor. Is that not a reference to an ancient Earth game?
+DATA: Bingo? I fail to see the relevance, Doctor. 😊😊🙂
+DATA: Is that not a reference to an ancient Earth game?😊🙂
 
 [Sickbay]
 
@@ -596,14 +602,17 @@ TROI: It's good to be back.
 RIKER: Are they recovering?
 CRUSHER: Slowly, but yes.
 RIKER: And the Captain?
-PICARD: (hoarse) The Captain is fine, thank you. Mister Data has been briefing me on the away team's comportment, Number One.
+PICARD: (hoarse) The Captain is fine, thank you. 
+PICARD: Mister Data has been briefing me on the away team's comportment, Number One.
 TROI: We improvised, sir.
 PICARD: I look forward to your reports.
 RIKER: Don't we have a call to pay on the Romulans, Captain?
-PICARD: Indeed we do. Mister Data, set course for the Neutral Zone. Warp six. DATA: Co-ordinates set. Warp six on your mark, sir.
+PICARD: Indeed we do. 
+PICARD: Mister Data, set course for the Neutral Zone. Warp six. 
+DATA: Co-ordinates set. Warp six on your mark, sir.
 PICARD: (inaudible) Engage.
 DATA: Sir?
-(Picard glares at Riker)
-RIKER: Engage.
+(Picard glares at Riker)😊😊🙂🙂🙂🙂
+RIKER: Engage.😊😊😊😊😊😊🙂🙂🙂
 
 NARRATOR: 🎵 🙂🙂😊😊😊 End Credits 🎵

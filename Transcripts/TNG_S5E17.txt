@@ -67,7 +67,13 @@ SOREN: Let's take a look at the controls.
 [Shuttlecraft]
 
 RIKER: Later we'll try a flight simulation. Right now let's do a systems review. I'll talk you through it.
-SOREN: Let me try it. Propulsion system, transfer conduits. Where's the schematic reactor assembly? Oh, there it is. Engine nacelles. There's nothing here that's unfamiliar. Navigational deflector, redundant graviton polarity source generators.
+SOREN: Let me try it. 
+SOREN: Propulsion system, transfer conduits. 
+SOREN: Where's the schematic reactor assembly? 
+SOREN: Oh, there it is. 
+SOREN: Engine nacelles.🚗 
+SOREN: There's nothing here that's unfamiliar. 
+SOREN: Navigational deflector, redundant graviton polarity source generators.
 RIKER: You handle these controls like you grew up in a shuttle.
 SOREN: I did. My parents were pilots. I was flying with them before I could walk. And as soon as I was old enough, I entered flight school. Krite was my instructor.
 RIKER: He had a good student.

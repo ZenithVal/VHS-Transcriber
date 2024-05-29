@@ -60,7 +60,8 @@ PICARD: Captain's log, stardate 47215.5. We are responding to a distress call fr
 [Bridge]
 
 DATA: I have reviewed the vessel's mission plans. The Raman was to descend to the lower atmosphere, eleven thousand kilometres below its current position. The crew was to sample the atmosphere at that level, and then return to a safer orbit.
-LAFORGE: Something must have happened down there. Maybe the shields failed, or they had some kind of inversion reaction in the nacelles.
+LAFORGE: Something must have happened down there. 
+LAFORGE: Maybe the shields failed, or they had some kind of inversion reaction in the nacelles.🚗
 PICARD: Any life signs?
 LAFORGE: Our biosensors are useless. There's too much interference in the atmosphere.
 RIKER: The crew might still be alive. There's no way we can tell from up here.

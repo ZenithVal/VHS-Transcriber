@@ -43,7 +43,8 @@ LAFORGE: Look at all of the detail. So you say everything here has some signific
 DATA: Holmes collected nothing, neither trinkets nor thoughts, which were not specifically significant to him.
 LAFORGE: This?
 DATA: The emerald tie pin. Presented to Holmes by Queen Victoria after he solved the theft of the Bruce-Partington Plans. (a book) A copy of Whitaker's Almanac, which provided Holmes the key to the secret code in The Valley of Fear. The snuff box of Wilhelm Gottsleig Siegesmann Van der Romstein.
-LAFORGE: All right, Data. You solve the cases and get all the gifts, what do I do?
+LAFORGE: All right, Data. 
+LAFORGE: You solve the cases and get all the gifts, what do I do?
 DATA: Primarily as Doctor Watson, you will keep a written record of everything I say and do for later publication. 
 DATA: And the famous Holmes violin. 
 DATA: He purchased this in a pawn shop in Tottenham Court Road for fifty five shillings, 
@@ -72,12 +73,16 @@ DATA: Watson. Pray continue, Inspector.
 LESTRADE: To put the matter simply, Holmes, this man was accosted by gypsies intent on depriving him of his most valuable possessions. And in the process of picking his pockets clean, they also happened to bag a photograph this man was carrying.
 (Data gets up, rips the lining of the man's jacket to reveal - )
 LESTRADE: Great Scott! The photograph!
-DATA: I believe you will find, Inspector, that this emissary here works not for but against the King of Bohemia, and that photograph of the king and his mistress is to be used as blackmail. Further, upon deeper reflection, you will deduce, as did I, that
+DATA: I believe you will find, Inspector, 
+LAFORGE: that this emissary here works not for but against the King of Bohemia, 
+LAFORGE: and that photograph of the king and his mistress is to be used as blackmail. 
+LAFORGE: Further, upon deeper reflection, you will deduce, as did I, that🍄
 LAFORGE: Computer, freeze programme. Exit!
 DATA: Geordi, where are you going? Geordi?
 LAFORGE: I'm done.
 (La Forge leaves)
-DATA: (hurrying after him) But, but, Geordi, I was just about to reveal that the sir is in fact a madam
+DATA: (hurrying after him👟) But, but, Geordi, 
+DATA: I was just about to reveal that the sir is in fact a madam
 
 [Ten Forward]
 
@@ -160,16 +165,19 @@ WORF: An odd surge of power, sir. It's gone now.
 
 (No hawkers, a barking dog, drunken sailors, and the man puts his top hat back on)
 PULASKI: Interesting. The same London but slightly different.
-WHORE: Is something wrong, Professor?
-MORIARTY: I, I feel like a new man. That dark fellow there used the word arch, and then. I wonder? Arch.
-(The computer arch appears for him)
+WOMAN: Is something wrong, Professor?
+MORIARTY: I, I feel like a new man. 
+MORIARTY: That dark fellow there used the word arch, and then. 
+MORIARTY: I wonder? Arch.
+(The computer arch appears for him)😱😱😨
 MORIARTY: What have we here?
 COMPUTER: Computer standing by.
 MORIARTY: What are you?
-COMPUTER: If you refer to the arch you ordered, it provides computer control. Do you wish to input any commands?
+COMPUTER: If you refer to the arch you ordered, it provides computer control. 
+COMPUTER: Do you wish to input any commands?
 MORIARTY: Not at this time.
 (The arch disappears)
-WHORE: It's dark magic, Moriarty.
+WOMAN: It's dark magic, Moriarty.
 MORIARTY: The best kind, I'm sure. But I need information.
 (Further along the street)
 LAFORGE: Data, I mean, Holmes old boy, what are we looking for?
@@ -475,7 +483,8 @@ PICARD: You will not be extinguished. We will save this programme, and hopefully
 MORIARTY: Then perhaps we'll meet again some day, Madam.
 PULASKI: It could be a long time. Time won't pass for you, but I may be an old woman.
 MORIARTY: But I'll still fill you with crumpets, Madam. I detest long goodbyes. You have the arch.
-PICARD: As you wish. A short goodbye. Computer, save the programme of the character Moriarty, and then discontinue.
+PICARD: As you wish. A short goodbye. 
+PICARD: Computer, save the programme of the character Moriarty, and then discontinue.
 (Moriarty disappears)
 
 [Engineering]
