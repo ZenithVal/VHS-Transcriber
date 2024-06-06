@@ -47,7 +47,9 @@ LAFORGE: Computer, activate anti-grav unit.
 (It rises smoothly, then starts to wobble, throwing a canister off, before returning to the ground)
 O'BRIEN: Damn it.
 BARCLAY: I, I don't understand.
-LAFORGE: La Forge to Engineering. I'll need more people in Cargo Bay Five. Anyone you can spare. La Forge out. We could use a hand, Mister Barclay.
+LAFORGE: La Forge to Engineering. 
+LAFORGE: I'll need more people in Cargo Bay Five. 
+LAFORGE: Anyone you can spare. La Forge out. We could use a hand, Mister Barclay.
 BARCLAY: I'll disassemble it later, Commander. It shouldn't do that. Well, I mean, of course, it shouldn't do that. Well, I mean, it shouldn't do that.
 
 [Ready room]
@@ -71,7 +73,7 @@ LAFORGE: Yes, sir.
 
 (Barclay is cross-legged on the floor, examining the components of the anti-grav sled)
 LAFORGE: Hey, Reg. How, er, how's it going?
-BARCLAY: Oh, it's, er, I still haven't traced down the problem, Commander.
+BARCLAY: Oh, it's, er, I still haven't traced down the problem, Commander.🚗
 LAFORGE: That's all right. There's no problem.
 BARCLAY: I've been planning to run diagnostics on the graviton invertor circuits.
 LAFORGE: Smart plan. I'd say we're in good hands here.
@@ -126,7 +128,7 @@ BARCLAY: That's nice, but I'm in the mood for someplace a little more unusual. C
 
 (Deanna is in Grecian robes)
 TROI: I am the goddess of Empathy. Cast off your inhibitions and embrace love, truth, joy.
-(Barclay embraces her, passionately)
+(Barclay embraces her, passionately)🤢😟
 
 [Ten Forward]
 
@@ -135,7 +137,7 @@ LAFORGE: It's not that you did anything wrong, Wes. It's just that Barclay's, we
 DUFFY: Yeah, Broccoli's a real project all right.
 LAFORGE: I just need to draw him out some more.
 WESLEY: And I shut him down. Poor Broccoli.
-DATA: Pardon me, but why is Lieutenant Barclay being referred to clandestinely as a vegetable?
+DATA: Pardon me, but why is Lieutenant Barclay being referred to clandestinely as a vegetable?🙂🙂🙂🙂😊😊😊
 WESLEY: It's a joke, Data. You know, a nickname.
 DATA: Nicknames generally denote fondness, a diminutive shared between friends.
 LAFORGE: Data's absolutely right. The nickname stops here and now. Captain's orders.
@@ -209,7 +211,11 @@ LAFORGE: Computer, where is Lieutenant Barclay?
 LAFORGE: Reg?
 (He comes upon a Gainsborough tableau - Beverly on a floral swing and Wesley in blue, eating cake. There's a white parakeet in a cane cage too)
 LAFORGE: Beverly?
-CRUSHER: Good morning, my lord. Manners, my son. Manners. You embarrass me before our guest. Master Barclay will spank you if you misbehave.
+CRUSHER: Good morning, my lord. 🤢😟
+CRUSHER: Manners, my son. 
+CRUSHER: Manners. 
+CRUSHER: You embarrass me before our guest. 
+CRUSHER: Master Barclay will spank you if you misbehave.🤢🤪😟
 LAFORGE: Wesley ?
 WESLEY: What do you want?
 LAFORGE: Well, I guess I want Master Barclay.
@@ -223,7 +229,9 @@ PICARD: In God's name, where did you learn to fight like this, man?
 BARCLAY: Self taught, my capitaine. Shall I give you a few lessons?
 (Naturally, Barclay is completely victorious)
 PICARD: Who is that? One of your allies?
-BARCLAY: Jean-Luc. Not that old trick. I'm very disappointed in you.
+BARCLAY: Jean-Luc. 
+BARCLAY: Not that old trick. 
+BARCLAY: I'm very disappointed in you.
 (Geordi coughs, Reg turns, and the bottom falls out of his world)
 
 [Ten Forward]
@@ -323,12 +331,14 @@ RIKER: I don't care what he's been running. I just ran out of patience.
 
 (They find the three musketeers and the blue boy by the folly)
 LAFORGE: Like I said, Commander, Barclay's been running some unusual programs.
-RIKER: This is a violation of protocol. Crewmembers should not be simulated in the holodeck.
+RIKER: This is a violation of protocol. 
+RIKER: Crewmembers should not be simulated in the holodeck.
 LAFORGE: Commander I don't think there's any regulation against
 RIKER: Well there ought to be. Computer, discontinue programme and erase.
 TROI: Computer, belay that order.
 RIKER: Counsellor?
-TROI: If Barclay is having difficulty facing reality, to suddenly destroy his only means of escape would be brutal and could do considerable damage.
+TROI: If Barclay is having difficulty facing reality, 
+TROI: to suddenly destroy his only means of escape would be brutal and could do considerable damage.
 HOLO-PICARD: They are quite disagreeable, aren't they? Shall we have at them?
 HOLO-DATA: Delighted.
 HOLO-LAFORGE: We shall thrash them.
@@ -365,7 +375,7 @@ RIKER: Computer, belay that order! We want to get more insight into what's been 
 [Bridge]
 
 PICARD: Report.
-WORF: Sir, our velocity increased to warp seven point two five.
+WORF: Sir, our velocity increased to warp seven point two five.🚗
 DATA: Compensating, sir.
 WORF: Confirmed. Velocity now warp seven.
 PICARD: Maintain that. What the hell happened?
@@ -467,10 +477,11 @@ LAFORGE: What's the connection?
 WORF: Exceeding warp nine point four.
 PICARD: Begin evacuation of secondary hull. Prepare for emergency saucer separation.
 WORF: Standing by to release docking clamps.
-RIKER: Reroute systems to primary hull power sources.
-DATA: The plasma flow to the nacelles is uneven due to injector lock. An emergency saucer separation could rupture the warp field.
+RIKER: Reroute systems to primary hull power sources.🚗
+DATA: The plasma flow to the nacelles is uneven due to injector lock. 🚗
+DATA: An emergency saucer separation could rupture the warp field.
 (The ship shakes under the stress)
-DATA: Twelve minutes to structural failure, sir.
+DATA: Twelve minutes to structural failure, sir.🥈
 
 [Engineering]
 
@@ -483,8 +494,10 @@ BARCLAY: But if it were something, something that we couldn't scan, you might've
 LAFORGE: It was your glass, Duffy and both of you were present in the cargo bay when the anti-grav failed.
 DUFFY: So was O'Brien.
 WESLEY: The transporter malfunction. That's a connection too.
-COMPUTER: Danger. Approaching safety limits of engine containment field.
-LAFORGE: Computer, list all physical substances that wouldn't normally be picked up by an internal scan.
+COMPUTER: Danger. 
+COMPUTER: Approaching safety limits of engine containment field.
+LAFORGE: Computer, 
+LAFORGE: list all physical substances that wouldn't normally be picked up by an internal scan.
 COMPUTER: There are fifteen thousand five hundred twenty five known substances that cannot be detected by standard scans.
 LAFORGE: Great. And how many of those can exist in an oxygen atmosphere?
 COMPUTER: Five hundred thirty two.
@@ -519,7 +532,7 @@ LAFORGE: Nothing on the tricorder.
 COMPUTER: Danger. Exceeding safety limits of engine containment field. At current acceleration, structural failure will occur in three minutes thirty seconds.
 LAFORGE: If it's in there it should show up on one of the polarity channels.
 (Barclay puts his gloved hand into a container. They detect sparkles on it)
-BARCLAY: There it is.
+BARCLAY: There it is.🚗🥈
 LAFORGE: Duffy and O'Brien picked up the broken canister and became contaminated.
 BARCLAY: If we can get it, the invidium, down to minus two hundred degrees Celsius, it'll become inert.
 LAFORGE: La Forge to Bridge. Invidium has been confirmed.
@@ -570,7 +583,9 @@ PICARD: It was a pleasure to serve with you, Mister Barclay.
 TROI: Good luck, Reg.
 BARCLAY: It's been fun. Computer, end programme.
 (And the Bridge is replaced by the holodeck grid)
-BARCLAY: Erase all programs filed under Reginald Barclay. (turns to leave) Except programme nine.
+BARCLAY: Erase all programs filed under Reginald Barclay. 
+(turns to leave) 
+Except programme nine.😟😟
 
 
 NARRATOR: 🎵 🙂🙂😊😊😊😊 End Credits 🎵
